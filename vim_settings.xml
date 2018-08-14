@@ -3,343 +3,163 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/playground/tf/test.py" timestamp="1534227924892">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-        <mark key="." line="7" column="1" />
-      </file>
-      <file name="/Python Console" timestamp="1533647534661">
+      <file name="/Dummy.txt" timestamp="1533885795269">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/summarization_generator_config.py" timestamp="1533708299077">
-        <mark key="'" line="63" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/sample/model.py" timestamp="1533894531224">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/tag_discriminator_config.py" timestamp="1533708293899">
-        <mark key="'" line="51" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/playground/tf/attention.py" timestamp="1534228125158">
-        <mark key="'" line="48" column="3" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="2" column="76" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/cnn-dailymail/make_datafiles.py" timestamp="1533620985843">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="261" column="14" />
-        <mark key="^" line="260" column="5" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/inputs/utils.py" timestamp="1533709297805">
-        <mark key="'" line="11" column="22" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="107" />
-        <mark key="." line="62" column="34" />
-        <mark key="^" line="62" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/playground/tf/helper.py" timestamp="1534144758434">
-        <mark key="'" line="294" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/base_config.py" timestamp="1533708072840">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/cli.py" timestamp="1533707955361">
-        <mark key="'" line="139" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/inputs/sample_inputs.py" timestamp="1533710769941">
-        <mark key="'" line="88" column="16" />
-        <mark key="[" line="89" column="14" />
-        <mark key="]" line="89" column="16" />
-        <mark key="." line="89" column="16" />
-        <mark key="^" line="89" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/sample_config.py" timestamp="1533708319650">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="45" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/sample/inference.py" timestamp="1533711062829">
-        <mark key="'" line="60" column="19" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1533894499441">
+      <file name="/File Header.txt.ft" timestamp="1534229338360">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/basic/main.py" timestamp="1533898497617">
-        <mark key="'" line="121" column="23" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="29" />
-        <mark key="^" line="27" column="29" />
-        <mark key="." line="27" column="29" />
+      <file name="$USER_HOME$/workspace/ali/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" timestamp="1534217625666">
+        <mark key="[" line="84" column="57" />
+        <mark key="]" line="85" column="18" />
+        <mark key="." line="85" column="18" />
+        <mark key="^" line="85" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/playground/tf/new_api.py" timestamp="1534144668004">
-        <mark key="'" line="16" column="55" />
-        <mark key="[" line="48" column="38" />
-        <mark key="]" line="48" column="18" />
-        <mark key="^" line="48" column="18" />
-        <mark key="." line="48" column="18" />
+      <file name="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" timestamp="1534132622221">
+        <mark key="'" line="70" column="35" />
+        <mark key="[" line="46" column="18" />
+        <mark key="]" line="46" column="19" />
+        <mark key="^" line="46" column="19" />
+        <mark key="." line="46" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/playground/tf/main.py" timestamp="1534228129245">
-        <mark key="'" line="59" column="34" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/TruecaseExample.java" timestamp="1533782195366">
+        <mark key="'" line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" timestamp="1533727072705">
-        <mark key="'" line="163" column="24" />
-        <mark key="[" line="210" column="17" />
-        <mark key="]" line="210" column="17" />
-        <mark key="." line="210" column="17" />
-        <mark key="^" line="210" column="17" />
+      <file name="$MAVEN_REPOSITORY$/edu/stanford/nlp/stanford-corenlp/3.2.0/stanford-corenlp-3.2.0.jar!/edu/stanford/nlp/semgraph/SemanticGraph.class" timestamp="1533786343265">
+        <mark key="'" line="1190" column="21" />
+        <mark key="[" line="1093" column="11" />
+        <mark key="]" line="1093" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/sum_gen_extend_config.py" timestamp="1533708316196">
-        <mark key="'" line="66" column="1" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/cnn-dailymail/batcher.py" timestamp="1533641542005">
-        <mark key="'" line="56" column="28" />
-        <mark key="[" line="334" column="87" />
-        <mark key="]" line="335" column="7" />
-        <mark key="^" line="335" column="7" />
-        <mark key="." line="335" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/Makefile" timestamp="1533707964444">
-        <mark key="'" line="109" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/inputs/summarization_generator_inputs.py" timestamp="1533709723018">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="131" column="29" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/cnn_dailymail/make_datafiles.py" timestamp="1533620699952">
+      <file name="/HTML File.txt.ft" timestamp="1534229336207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" timestamp="1533898576524">
-        <mark key="'" line="65" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/helper.py" timestamp="1533710199263">
-        <mark key="'" line="47" column="36" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/app.py" timestamp="1533092344557">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/cnn-dailymail/data.py" timestamp="1533634577303">
-        <mark key="'" line="139" column="4" />
-        <mark key="[" line="17" column="82" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/playground/tf/decoder.py" timestamp="1534144485872">
-        <mark key="'" line="0" column="13" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/base/inference.py" timestamp="1533710968027">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="8" />
-        <mark key="." line="38" column="8" />
+      <file name="/ActionScript File Header.txt.ft" timestamp="1534229336290">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="4" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="116" column="4" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="187" column="21" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="78" column="12" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="192" column="43" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/workspace/ali/cnn-dailymail/batcher.py" />
-      <jump line="135" column="33" filename="$USER_HOME$/workspace/ali/cnn-dailymail/batcher.py" />
-      <jump line="328" column="12" filename="$USER_HOME$/workspace/ali/cnn-dailymail/batcher.py" />
-      <jump line="83" column="39" filename="$USER_HOME$/workspace/ali/cnn-dailymail/batcher.py" />
-      <jump line="56" column="28" filename="$USER_HOME$/workspace/ali/cnn-dailymail/batcher.py" />
-      <jump line="216" column="4" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="189" column="59" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="57" column="13" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="221" column="15" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="52" column="14" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="148" column="17" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="151" column="27" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="231" column="4" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="230" column="4" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="229" column="4" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="190" column="31" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="139" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/cli.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/Makefile" />
-      <jump line="109" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/Makefile" />
-      <jump line="121" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/basic/main.py" />
-      <jump line="51" column="1" filename="$USER_HOME$/workspace/ali/tensorflow-models/confs/tag_discriminator_config.py" />
-      <jump line="63" column="1" filename="$USER_HOME$/workspace/ali/tensorflow-models/confs/summarization_generator_config.py" />
-      <jump line="66" column="1" filename="$USER_HOME$/workspace/ali/tensorflow-models/confs/sum_gen_extend_config.py" />
-      <jump line="52" column="1" filename="$USER_HOME$/workspace/ali/tensorflow-models/inputs/utils.py" />
-      <jump line="11" column="22" filename="$USER_HOME$/workspace/ali/tensorflow-models/inputs/utils.py" />
-      <jump line="25" column="3" filename="$USER_HOME$/workspace/ali/tensorflow-models/inputs/sample_inputs.py" />
-      <jump line="22" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/inputs/sample_inputs.py" />
-      <jump line="50" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/inputs/sample_inputs.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/confs/helper.py" />
-      <jump line="46" column="82" filename="$USER_HOME$/workspace/ali/tensorflow-models/confs/helper.py" />
-      <jump line="47" column="36" filename="$USER_HOME$/workspace/ali/tensorflow-models/confs/helper.py" />
-      <jump line="18" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/inputs/sample_inputs.py" />
-      <jump line="88" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/inputs/sample_inputs.py" />
-      <jump line="34" column="22" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/inference.py" />
-      <jump line="20" column="1" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/sample/inference.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/sample/inference.py" />
-      <jump line="39" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/inference.py" />
-      <jump line="40" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/inference.py" />
-      <jump line="38" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/inference.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/inference.py" />
-      <jump line="70" column="19" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/sample/inference.py" />
-      <jump line="55" column="4" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="163" column="24" filename="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" />
-      <jump line="261" column="58" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="255" column="46" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="712" column="24" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="168" column="39" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="169" column="47" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="175" column="2" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="185" column="14" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="202" column="6" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="203" column="9" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="232" column="36" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="250" column="18" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="788" column="43" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="793" column="38" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="65" column="24" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="104" column="4" filename="$USER_HOME$/workspace/playground/tf/attention.py" />
-      <jump line="188" column="16" filename="$USER_HOME$/workspace/playground/tf/attention.py" />
-      <jump line="328" column="20" filename="$USER_HOME$/workspace/playground/tf/attention.py" />
-      <jump line="306" column="46" filename="$USER_HOME$/workspace/playground/tf/attention.py" />
-      <jump line="91" column="81" filename="$USER_HOME$/workspace/playground/tf/attention.py" />
-      <jump line="231" column="27" filename="$USER_HOME$/workspace/playground/tf/attention.py" />
-      <jump line="155" column="4" filename="$USER_HOME$/workspace/playground/tf/attention.py" />
-      <jump line="97" column="4" filename="$USER_HOME$/workspace/playground/tf/attention.py" />
-      <jump line="39" column="4" filename="$USER_HOME$/workspace/playground/tf/attention.py" />
-      <jump line="167" column="20" filename="$USER_HOME$/workspace/playground/tf/attention.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/workspace/playground/tf/attention.py" />
-      <jump line="166" column="36" filename="$USER_HOME$/workspace/playground/tf/attention.py" />
-      <jump line="50" column="3" filename="$USER_HOME$/workspace/playground/tf/attention.py" />
-      <jump line="55" column="53" filename="$USER_HOME$/workspace/playground/tf/new_api.py" />
-      <jump line="14" column="22" filename="$USER_HOME$/workspace/playground/tf/new_api.py" />
-      <jump line="43" column="21" filename="$USER_HOME$/workspace/playground/tf/new_api.py" />
-      <jump line="22" column="4" filename="$USER_HOME$/workspace/playground/tf/helper.py" />
-      <jump line="86" column="42" filename="$USER_HOME$/workspace/playground/tf/helper.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/playground/tf/helper.py" />
-      <jump line="109" column="6" filename="$USER_HOME$/workspace/playground/tf/helper.py" />
-      <jump line="242" column="44" filename="$USER_HOME$/workspace/playground/tf/helper.py" />
-      <jump line="193" column="29" filename="$USER_HOME$/workspace/playground/tf/helper.py" />
-      <jump line="862" column="40" filename="$USER_HOME$/workspace/playground/tf/helper.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/workspace/playground/tf/helper.py" />
-      <jump line="28" column="32" filename="$USER_HOME$/workspace/playground/tf/helper.py" />
-      <jump line="0" column="14" filename="$USER_HOME$/workspace/playground/tf/helper.py" />
-      <jump line="127" column="58" filename="$USER_HOME$/workspace/playground/tf/decoder.py" />
-      <jump line="0" column="13" filename="$USER_HOME$/workspace/playground/tf/decoder.py" />
-      <jump line="269" column="12" filename="$USER_HOME$/workspace/playground/tf/helper.py" />
-      <jump line="288" column="0" filename="$USER_HOME$/workspace/playground/tf/helper.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/workspace/playground/tf/new_api.py" />
-      <jump line="66" column="41" filename="$USER_HOME$/workspace/playground/tf/new_api.py" />
-      <jump line="15" column="20" filename="$USER_HOME$/workspace/playground/tf/new_api.py" />
-      <jump line="51" column="44" filename="$USER_HOME$/workspace/playground/tf/new_api.py" />
-      <jump line="16" column="55" filename="$USER_HOME$/workspace/playground/tf/new_api.py" />
-      <jump line="0" column="21" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="16" column="5" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="60" column="34" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="55" column="35" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="53" column="51" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/TruecaseExample.java" />
+      <jump line="22" column="62" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="58" column="54" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="63" column="55" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="161" column="20" filename="$MAVEN_REPOSITORY$/edu/stanford/nlp/stanford-corenlp/3.2.0/stanford-corenlp-3.2.0.jar!/edu/stanford/nlp/semgraph/SemanticGraph.class" />
+      <jump line="366" column="73" filename="$MAVEN_REPOSITORY$/edu/stanford/nlp/stanford-corenlp/3.2.0/stanford-corenlp-3.2.0.jar!/edu/stanford/nlp/semgraph/SemanticGraph.class" />
+      <jump line="1173" column="26" filename="$MAVEN_REPOSITORY$/edu/stanford/nlp/stanford-corenlp/3.2.0/stanford-corenlp-3.2.0.jar!/edu/stanford/nlp/semgraph/SemanticGraph.class" />
+      <jump line="1198" column="17" filename="$MAVEN_REPOSITORY$/edu/stanford/nlp/stanford-corenlp/3.2.0/stanford-corenlp-3.2.0.jar!/edu/stanford/nlp/semgraph/SemanticGraph.class" />
+      <jump line="1181" column="21" filename="$MAVEN_REPOSITORY$/edu/stanford/nlp/stanford-corenlp/3.2.0/stanford-corenlp-3.2.0.jar!/edu/stanford/nlp/semgraph/SemanticGraph.class" />
+      <jump line="1190" column="21" filename="$MAVEN_REPOSITORY$/edu/stanford/nlp/stanford-corenlp/3.2.0/stanford-corenlp-3.2.0.jar!/edu/stanford/nlp/semgraph/SemanticGraph.class" />
+      <jump line="20" column="29" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="28" column="33" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="10" column="28" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="45" column="29" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="2" column="15" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="65" column="72" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="66" column="45" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="86" column="55" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="88" column="39" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="60" column="32" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="61" column="57" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="39" column="78" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="108" column="0" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="105" column="0" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="67" column="46" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="62" column="11" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="132" column="8" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="16" column="24" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="17" column="24" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="32" column="20" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="43" column="65" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="83" column="22" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="98" column="21" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="103" column="15" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="180" column="14" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="68" column="45" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="114" column="17" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="72" column="26" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="48" column="50" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="49" column="50" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="50" column="50" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="3" column="26" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="46" column="8" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="69" column="34" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="52" column="13" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="47" column="8" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
+      <jump line="70" column="35" filename="$USER_HOME$/workspace/playground/mvn/corenlp-examples/src/main/java/drew/corenlp/SimpleExample.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
-      </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>helper</text>
+        <text encoding="base64">XDxvcmlnaW5EaXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy50cmFpbl9iYXRjaF9zaXplID0gMQogICAgY29uZmlnLnRlc3RfYmF0Y2hfc2l6ZSA9IDEKICAgIG91dHB1dF90YWJsZSA9IGNvbmZpZy5vdXRwdXRfdGFibGUKICAgIHdyaXRlciA9IE5vbmUKICAgIGlmIG91dHB1dF90YWJsZSBpcyBub3QgTm9uZSBhbmQgb3V0cHV0X3RhYmxlLnN0cmlwKCkgIT0gJyc6CiAgICAgICAgcHJpbnQoIldyaXRlIHRvIHRhYmxlOiB7fSIuZm9ybWF0KG91dHB1dF90YWJsZSkpCiAgICAgICAgd3JpdGVyID0gdGYucHl0aG9uX2lvLlRhYmxlV3JpdGVyKG91dHB1dF90YWJsZSwgc2xpY2VfaWQ9MCkKCiAgICBlc3RpbWF0b3IgPSB0Zi5lc3RpbWF0b3IuRXN0aW1hdG9yKAogICAgICAgIG1vZGVsX2ZuPWNvbmZpZy5tb2RlbF9mbiwKICAgICAgICBtb2RlbF9kaXI9Y29uZmlnLnNhdmVfZGlyLAogICAgICAgIHBhcmFtcz1tb2RlbF9wYXJhbXMsIGNvbmZpZz1Ob25lKQoKICAgIGRlZiBnZXRfaW5mZXJlbmNlX2RhdGEoKToKICAgICAgICAjIHJldHVybiBpbmZlcl9pbnB1dF9mbihkZWJ1Zz1jb25maWcuZGVidWcpCiAgICAgICAgIyBwcmludChjb25maWcudHJhaW5fdGFibGVzKQogICAgICAgIHJldHVybiBpbnB1dF9mbihjb25maWcudHJhaW5fdGFibGVzLCAxLCAxLCAnfCcsIGRlYnVnPWNvbmZpZy5kZWJ1ZykKCiAgICByZXN1bHRzID0gZXN0aW1hdG9yLnByZWRpY3QoCiAgICAgICAgaW5wdXRfZm49Z2V0X2luZmVyZW5jZV9kYXRhLAogICAgICAgIHByZWRpY3Rfa2V5cz1bJ3ByZWRpY3Rpb25zJ10pCgogICAgZm9yIHJlc3VsdCBpbiByZXN1bHRzOgogICAgICAgIHByaW50KHJlc3VsdCkKICAgICAgICBpZiB3cml0ZXIgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHZhbHVlID0gcmVzdWx0WydwcmVkaWN0aW9ucyddCiAgICAgICAgICAgIHdyaXRlci53cml0ZShbdmFsdWVdLCBbMF0pCgogICAgaWYgd3JpdGVyIGlzIG5vdCBOb25lOgogICAgICAgIHdyaXRlci5jbG9zZSgpCg==</text>
+      <register name="0" type="4">
+        <text>System.currentTimeMillis();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgTGFzdCBNb2RpZmllZCAgICAgICA6ICAgICBbMjAxOC0wOC0xMyAxMzo1M10K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyAgICAgTGFzdCBNb2RpZmllZCAgICAgICA6ICAgICBbMjAxOC0wOC0xMyAxNDowM10K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5mcmFtZXdvcmsgaW1wb3J0IGR0eXBlcwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0KHdvcmRfc3RyaW5nLmNvbnRlbnRFcXVhbHMob3JpZ2luTGluZSkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG9yaWdpbkxpbmUgPSBvcmlnaW5MaW5lc1tqXTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsKICAgICJCYXNpY0RlY29kZXJPdXRwdXQiLAogICAgIkJhc2ljRGVjb2RlciIsCl0KCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZGVwX3dyaXRlci53cml0ZSgnXG4nKTsKICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IHRlbnNvcl9hcnJheV9vcHMKZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMuZGlzdHJpYnV0aW9ucyBpbXBvcnQgYmVybm91bGxpCmZyb20gdGVuc29yZmxvdy5weXRob24ub3BzLmRpc3RyaWJ1dGlvbnMgaW1wb3J0IGNhdGVnb3JpY2FsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG9yaWdpbkxpbmUgPSBvcmlnaW5MaW5lc1tqXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IGdlbl9hcnJheV9vcHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFiYwoKaW1wb3J0IHNpeAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG9yaWdpbkxpbmUgPSBvcmlnaW5MaW5lc1tqXTsKICAgICAgICAgICAgYXNzZXJ0KHdvcmRfc3RyaW5nLmNvbnRlbnRFcXVhbHMob3JpZ2luTGluZSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgU2FtcGxlRW1iZWRkaW5nSGVscGVyKEdyZWVkeUVtYmVkZGluZ0hlbHBlcik6CiAgICAiIiJBIGhlbHBlciBmb3IgdXNlIGR1cmluZyBpbmZlcmVuY2UuCiAgICBVc2VzIHNhbXBsaW5nIChmcm9tIGEgZGlzdHJpYnV0aW9uKSBpbnN0ZWFkIG9mIGFyZ21heCBhbmQgcGFzc2VzIHRoZQogICAgcmVzdWx0IHRocm91Z2ggYW4gZW1iZWRkaW5nIGxheWVyIHRvIGdldCB0aGUgbmV4dCBpbnB1dC4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBlbWJlZGRpbmcsIHN0YXJ0X3Rva2VucywgZW5kX3Rva2VuLAogICAgICAgICAgICAgICAgIHNvZnRtYXhfdGVtcGVyYXR1cmU9Tm9uZSwgc2VlZD1Ob25lKToKICAgICAgICAiIiJJbml0aWFsaXplci4KICAgICAgICBBcmdzOgogICAgICAgICAgZW1iZWRkaW5nOiBBIGNhbGxhYmxlIHRoYXQgdGFrZXMgYSB2ZWN0b3IgdGVuc29yIG9mIGBpZHNgIChhcmdtYXggaWRzKSwKICAgICAgICAgICAgb3IgdGhlIGBwYXJhbXNgIGFyZ3VtZW50IGZvciBgZW1iZWRkaW5nX2xvb2t1cGAuIFRoZSByZXR1cm5lZCB0ZW5zb3IKICAgICAgICAgICAgd2lsbCBiZSBwYXNzZWQgdG8gdGhlIGRlY29kZXIgaW5wdXQuCiAgICAgICAgICBzdGFydF90b2tlbnM6IGBpbnQzMmAgdmVjdG9yIHNoYXBlZCBgW2JhdGNoX3NpemVdYCwgdGhlIHN0YXJ0IHRva2Vucy4KICAgICAgICAgIGVuZF90b2tlbjogYGludDMyYCBzY2FsYXIsIHRoZSB0b2tlbiB0aGF0IG1hcmtzIGVuZCBvZiBkZWNvZGluZy4KICAgICAgICAgIHNvZnRtYXhfdGVtcGVyYXR1cmU6IChPcHRpb25hbCkgYGZsb2F0MzJgIHNjYWxhciwgdmFsdWUgdG8gZGl2aWRlIHRoZQogICAgICAgICAgICBsb2dpdHMgYnkgYmVmb3JlIGNvbXB1dGluZyB0aGUgc29mdG1heC4gTGFyZ2VyIHZhbHVlcyAoYWJvdmUgMS4wKSByZXN1bHQKICAgICAgICAgICAgaW4gbW9yZSByYW5kb20gc2FtcGxlcywgd2hpbGUgc21hbGxlciB2YWx1ZXMgcHVzaCB0aGUgc2FtcGxpbmcKICAgICAgICAgICAgZGlzdHJpYnV0aW9uIHRvd2FyZHMgdGhlIGFyZ21heC4gTXVzdCBiZSBzdHJpY3RseSBncmVhdGVyIHRoYW4gMC4KICAgICAgICAgICAgRGVmYXVsdHMgdG8gMS4wLgogICAgICAgICAgc2VlZDogKE9wdGlvbmFsKSBUaGUgc2FtcGxpbmcgc2VlZC4KICAgICAgICBSYWlzZXM6CiAgICAgICAgICBWYWx1ZUVycm9yOiBpZiBgc3RhcnRfdG9rZW5zYCBpcyBub3QgYSAxRCB0ZW5zb3Igb3IgYGVuZF90b2tlbmAgaXMgbm90IGEKICAgICAgICAgICAgc2NhbGFyLgogICAgICAgICIiIgogICAgICAgIHN1cGVyKFNhbXBsZUVtYmVkZGluZ0hlbHBlciwgc2VsZikuX19pbml0X18oCiAgICAgICAgICAgIGVtYmVkZGluZywgc3RhcnRfdG9rZW5zLCBlbmRfdG9rZW4pCiAgICAgICAgc2VsZi5fc29mdG1heF90ZW1wZXJhdHVyZSA9IHNvZnRtYXhfdGVtcGVyYXR1cmUKICAgICAgICBzZWxmLl9zZWVkID0gc2VlZAoKICAgIGRlZiBzYW1wbGUoc2VsZiwgdGltZSwgb3V0cHV0cywgc3RhdGUsIG5hbWU9Tm9uZSk6CiAgICAgICAgIiIic2FtcGxlIGZvciBTYW1wbGVFbWJlZGRpbmdIZWxwZXIuIiIiCiAgICAgICAgZGVsIHRpbWUsIHN0YXRlICAjIHVudXNlZCBieSBzYW1wbGVfZm4KICAgICAgICAjIE91dHB1dHMgYXJlIGxvZ2l0cywgd2Ugc2FtcGxlIGluc3RlYWQgb2YgYXJnbWF4IChncmVlZHkpLgogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKG91dHB1dHMsIG9wcy5UZW5zb3IpOgogICAgICAgICAgICByYWlzZSBUeXBlRXJyb3IoIkV4cGVjdGVkIG91dHB1dHMgdG8gYmUgYSBzaW5nbGUgVGVuc29yLCBnb3Q6ICVzIiAlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlKG91dHB1dHMpKQogICAgICAgIGlmIHNlbGYuX3NvZnRtYXhfdGVtcGVyYXR1cmUgaXMgTm9uZToKICAgICAgICAgICAgbG9naXRzID0gb3V0cHV0cwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGxvZ2l0cyA9IG91dHB1dHMgLyBzZWxmLl9zb2Z0bWF4X3RlbXBlcmF0dXJlCgogICAgICAgIHNhbXBsZV9pZF9zYW1wbGVyID0gY2F0ZWdvcmljYWwuQ2F0ZWdvcmljYWwobG9naXRzPWxvZ2l0cykKICAgICAgICBzYW1wbGVfaWRzID0gc2FtcGxlX2lkX3NhbXBsZXIuc2FtcGxlKHNlZWQ9c2VsZi5fc2VlZCkKCiAgICAgICAgcmV0dXJuIHNhbXBsZV9pZHMKCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG9yaWdpbkxpbmUgPSBvcmlnaW5MaW5lc1tqXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>helper</last-search>
+      <last-search encoding="base64">XDxvcmlnaW5EaXJcPg==</last-search>
       <last-offset />
-      <last-pattern>helper</last-pattern>
+      <last-pattern encoding="base64">XDxvcmlnaW5EaXJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>origin</entry>
-        <entry encoding="base64">XDx1cmxfZmlsZVw+</entry>
-        <entry encoding="base64">XDx3cml0ZV90b19pZHNcPg==</entry>
-        <entry encoding="base64">XDxyZWFkX2ZpbGVcPg==</entry>
-        <entry encoding="base64">XDx2YXJfbGlzdFw+</entry>
-        <entry>tables</entry>
-        <entry encoding="base64">XDxwcm9jZXNzX2V4YW1wbGVcPg==</entry>
-        <entry encoding="base64">XDxldmFsX3NwZWNcPg==</entry>
-        <entry>model_fn</entry>
-        <entry>export</entry>
-        <entry encoding="base64">XDxleHBvcnRlcnNcPg==</entry>
-        <entry encoding="base64">XDxfbWF5YmVfbWFza19zY29yZVw+</entry>
-        <entry encoding="base64">XDxfcHJlcGFyZV9tZW1vcnlcPg==</entry>
-        <entry encoding="base64">XDxfYmFoZGFuYXVfc2NvcmVcPg==</entry>
-        <entry encoding="base64">XDxfemVyb19zdGF0ZV90ZW5zb3JzXD4=</entry>
-        <entry encoding="base64">XDxCYWhkYW5hdUF0dGVudGlvblw+</entry>
-        <entry encoding="base64">XDxuZXh0X2lucHV0XD4=</entry>
-        <entry encoding="base64">XDxfdHJhbnNwb3NlX2JhdGNoX3RpbWVcPg==</entry>
-        <entry encoding="base64">XDxCYXNpY0RlY29kZXJcPg==</entry>
-        <entry>helper</entry>
+        <entry encoding="base64">XDxDb2xsYXBzZWRDQ1Byb2Nlc3NlZERlcGVuZGVuY2llc0Fubm90YXRpb25cPg==</entry>
+        <entry>toString</entry>
+        <entry encoding="base64">XDxzYlw+</entry>
+        <entry encoding="base64">XDxyZWNUb1N0cmluZ1w+</entry>
+        <entry encoding="base64">XDxJbmRleGVkV29yZFw+</entry>
+        <entry encoding="base64">XDxTZW1hbnRpY0dyYXBoRWRnZVw+</entry>
+        <entry encoding="base64">XDxGaWxlc1w+</entry>
+        <entry encoding="base64">XDxGaWxlXD4=</entry>
+        <entry encoding="base64">XDxzZW50ZW5jZVw+</entry>
+        <entry encoding="base64">XDxkZXBwYXJzZVw+</entry>
+        <entry>out</entry>
+        <entry>pipe</entry>
+        <entry>dep</entry>
+        <entry encoding="base64">XDxmaWxlTGlzdFw+</entry>
+        <entry>cnn</entry>
+        <entry encoding="base64">XDxkaXJGaWxlXD4=</entry>
+        <entry encoding="base64">XDxvcmlnaW5EaXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>source ~/.ideavimrc</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
@@ -347,9 +167,6 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
