@@ -115,12 +115,12 @@
         <mark key="^" line="48" column="18" />
         <mark key="." line="48" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/playground/tf/main.py" timestamp="1534329749379">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="1" />
-        <mark key="." line="140" column="1" />
-        <mark key="^" line="140" column="1" />
+      <file name="$USER_HOME$/workspace/playground/tf/main.py" timestamp="1534330433604">
+        <mark key="'" line="225" column="17" />
+        <mark key="[" line="159" column="18" />
+        <mark key="]" line="159" column="19" />
+        <mark key="." line="159" column="19" />
+        <mark key="^" line="159" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" timestamp="1533727072705">
         <mark key="'" line="163" column="24" />
@@ -185,8 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="14" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
-      <jump line="202" column="6" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
       <jump line="203" column="9" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
       <jump line="232" column="36" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
       <jump line="250" column="18" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/python/estimator/training.py" />
@@ -281,10 +279,12 @@
       <jump line="117" column="4" filename="$USER_HOME$/workspace/playground/tf/main.py" />
       <jump line="143" column="16" filename="$USER_HOME$/workspace/playground/tf/main.py" />
       <jump line="132" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="145" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
       <jump line="210" column="14" filename="$USER_HOME$/workspace/playground/tf/main.py" />
       <jump line="163" column="21" filename="$USER_HOME$/workspace/playground/tf/main.py" />
       <jump line="115" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="142" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="145" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="225" column="17" filename="$USER_HOME$/workspace/playground/tf/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -294,54 +294,51 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZWVkX2ZuXD4=</text>
+        <text encoding="base64">XDxpbnB1dF9mblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG91dHB1dCA9IGZlYXR1cmVzWydvdXRwdXQnXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdvdXRwdXQnOiBvdXRwdXRfcHJvY2VzcyhvdXRfbGluZSwgdm9jYWIpWzpvdXRwdXRfbWF4X2xlbmd0aCAtIDFdICsgW0VORF9UT0tFTl0KICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiISEhISEhISEhISEiKQogICAgICAgIHByaW50KGlucCkKICAgICAgICBwcmludChvdXRwdXQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ291dHB1dCc6IG91dHB1dCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdvdXRwdXQnOiBvdXRwdXRfcHJvY2VzcyhvdXRfbGluZSwgdm9jYWIpWzpvdXRwdXRfbWF4X2xlbmd0aCAtIDFdICsgW0VORF9UT0tFTl0KICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ291dHB1dCc6IG91dHB1dCwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIhISEhISEhISEhISEhIikKICAgIHByaW50KHRyYWluX291dHB1dHMpCg==</text>
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCIhISEhISEhISEhISEhIikKICAgIHByaW50KHRyYWluX291dHB1dHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
+        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnJycKICAgICAgICAnJycK</text>
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZWVkX2ZuXD4=</last-search>
+      <last-search encoding="base64">XDxpbnB1dF9mblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZWVkX2ZuXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbnB1dF9mblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXh0X2lucHV0XD4=</entry>
-        <entry encoding="base64">XDxfdHJhbnNwb3NlX2JhdGNoX3RpbWVcPg==</entry>
-        <entry encoding="base64">XDxCYXNpY0RlY29kZXJcPg==</entry>
         <entry>helper</entry>
         <entry encoding="base64">XDxzZXJ2aW5nX2lucHV0X3JlY2VpdmVyX2ZuXD4=</entry>
         <entry encoding="base64">XDx0cmFpbl9vcFw+</entry>
@@ -359,6 +356,9 @@
         <entry encoding="base64">XDxtYWtlX2lucHV0X2ZuXD4=</entry>
         <entry encoding="base64">XDxzYW1wbGVyXD4=</entry>
         <entry encoding="base64">XDxmZWVkX2ZuXD4=</entry>
+        <entry>feed_dict</entry>
+        <entry>feed</entry>
+        <entry encoding="base64">XDxpbnB1dF9mblw+</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
