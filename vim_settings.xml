@@ -9,7 +9,7 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1533647534661">
+      <file name="/Python Console" timestamp="1534337362300">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/summarization_generator_config.py" timestamp="1533708299077">
@@ -66,12 +66,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/playground/tf/utils.py" timestamp="1534334835813">
-        <mark key="'" line="46" column="8" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="8" />
-        <mark key="^" line="56" column="30" />
-        <mark key="." line="54" column="8" />
+      <file name="$USER_HOME$/workspace/playground/tf/utils.py" timestamp="1534383322362">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="20" column="70" />
+        <mark key="]" line="20" column="68" />
+        <mark key="^" line="20" column="68" />
+        <mark key="." line="20" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/base_config.py" timestamp="1533708072840">
         <mark key="[" line="13" column="0" />
@@ -125,12 +125,12 @@
       <file name="$USER_HOME$/workspace/playground/tf/vocab" timestamp="1534335168145">
         <mark key="'" line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/playground/tf/main.py" timestamp="1534335495033">
-        <mark key="'" line="125" column="22" />
-        <mark key="[" line="210" column="5" />
-        <mark key="]" line="211" column="27" />
-        <mark key="." line="211" column="27" />
-        <mark key="^" line="211" column="27" />
+      <file name="$USER_HOME$/workspace/playground/tf/main.py" timestamp="1534383462722">
+        <mark key="'" line="41" column="45" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="57" />
+        <mark key="." line="241" column="8" />
+        <mark key="^" line="239" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" timestamp="1533727072705">
         <mark key="'" line="163" column="24" />
@@ -144,11 +144,12 @@
         <mark key="]" line="127" column="59" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/playground/tf/dataset.py" timestamp="1534334752280">
-        <mark key="[" line="35" column="78" />
-        <mark key="]" line="35" column="77" />
-        <mark key="^" line="35" column="77" />
-        <mark key="." line="35" column="77" />
+      <file name="$USER_HOME$/workspace/playground/tf/dataset.py" timestamp="1534383529669">
+        <mark key="'" line="21" column="16" />
+        <mark key="[" line="44" column="60" />
+        <mark key="]" line="44" column="60" />
+        <mark key="." line="44" column="60" />
+        <mark key="^" line="44" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/ali/cnn-dailymail/batcher.py" timestamp="1533641542005">
         <mark key="'" line="56" column="28" />
@@ -201,186 +202,187 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="247" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="241" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="239" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="221" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="137" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="254" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="222" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="127" column="32" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="205" column="14" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="263" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="41" column="18" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="49" column="18" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="107" column="19" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="108" column="21" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="112" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="122" column="40" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="169" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="51" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="156" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" />
-      <jump line="88" column="26" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/sample/model.py" />
-      <jump line="60" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/sample/model.py" />
-      <jump line="23" column="33" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="236" column="9" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="97" column="44" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="9" column="22" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="90" column="51" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/playground/tf/attention.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/playground/tf/decoder.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/playground/tf/decoder.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/workspace/playground/tf/helper.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/playground/tf/helper.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/seq2seq/helper.py" />
-      <jump line="285" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/seq2seq/helper.py" />
-      <jump line="186" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/seq2seq/model.py" />
-      <jump line="33" column="18" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="129" column="16" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="174" column="24" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="195" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="143" column="16" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="132" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="210" column="14" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="163" column="21" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="142" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="145" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="117" column="17" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="225" column="17" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="122" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="3" column="23" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="34" column="4" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="35" column="29" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="71" column="49" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="118" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="148" column="23" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="155" column="23" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="211" column="16" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="226" column="24" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
-      <jump line="37" column="4" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
-      <jump line="46" column="8" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
-      <jump line="32" column="14" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="158" column="14" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="220" column="34" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="219" column="10" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="37" column="23" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="45" column="24" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="47" column="33" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="70" column="27" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="115" column="4" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="237" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="25" column="9" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="16" column="1" filename="$USER_HOME$/workspace/playground/tf/vocab" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/playground/tf/vocab" />
-      <jump line="102" column="0" filename="$USER_HOME$/workspace/playground/tf/vocab" />
-      <jump line="246" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="171" column="4" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="150" column="17" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="217" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="221" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="204" column="9" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="202" column="4" filename="$USER_HOME$/workspace/playground/tf/main.py" />
       <jump line="200" column="41" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="188" column="16" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="184" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
-      <jump line="183" column="24" filename="$USER_HOME$/workspace/playground/tf/main.py" />
       <jump line="170" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
       <jump line="124" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
       <jump line="144" column="37" filename="$USER_HOME$/workspace/playground/tf/main.py" />
       <jump line="125" column="22" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="118" column="4" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="122" column="4" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="183" column="24" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="28" column="6" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="9" column="1" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="87" column="8" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="88" column="8" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="56" column="13" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="26" column="8" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="91" column="8" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="10" column="25" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="176" column="9" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="177" column="4" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="180" column="12" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="184" column="18" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="185" column="37" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="188" column="24" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="189" column="30" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="193" column="16" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="207" column="23" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="209" column="26" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="215" column="22" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="226" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="251" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="231" column="57" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="249" column="38" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="26" column="25" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="33" column="32" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="50" column="24" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="52" column="33" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="75" column="27" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="75" column="8" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="236" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="237" column="18" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="244" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="0" column="12" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="31" column="12" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="35" column="66" filename="$USER_HOME$/workspace/playground/tf/dataset.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/workspace/playground/tf/dataset.py" />
+      <jump line="36" column="17" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="44" column="25" filename="$USER_HOME$/workspace/playground/tf/dataset.py" />
+      <jump line="205" column="9" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="218" column="18" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="230" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="17" column="22" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="232" column="17" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="30" column="39" filename="$USER_HOME$/workspace/playground/tf/dataset.py" />
+      <jump line="21" column="9" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="25" column="28" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="34" column="4" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="37" column="16" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="88" column="3" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="17" column="34" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="19" column="8" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="20" column="13" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="33" column="11" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="35" column="11" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="34" column="6" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="34" column="21" filename="$USER_HOME$/workspace/playground/tf/dataset.py" />
+      <jump line="19" column="26" filename="$USER_HOME$/workspace/playground/tf/dataset.py" />
+      <jump line="96" column="22" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="243" column="25" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="86" column="50" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="113" column="20" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="97" column="16" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="67" column="3" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="89" column="3" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="234" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="240" column="17" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="13" column="26" filename="$USER_HOME$/workspace/playground/tf/dataset.py" />
+      <jump line="42" column="64" filename="$USER_HOME$/workspace/playground/tf/dataset.py" />
+      <jump line="18" column="16" filename="$USER_HOME$/workspace/playground/tf/dataset.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="181" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="87" column="39" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="47" column="8" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="92" column="36" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="91" column="34" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="128" column="22" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="49" column="4" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="148" column="97" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="147" column="93" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace/playground/tf/utils.py" />
+      <jump line="59" column="20" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="41" column="45" filename="$USER_HOME$/workspace/playground/tf/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2tlbml6ZV9hbmRfbWFwXD4=</text>
+        <text encoding="base64">XDxzdGFydF90b2tlbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dF9mbj1nZXRfaW5wdXRfZm4sCg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0X3Rva2VucyA9IHRmLnplcm9zKFtiYXRjaF9zaXplXSwgZHR5cGU9dGYuaW50NjQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxhYmVsc19wYWQgPSB1dGlscy5jb252ZXJ0X3ZhcmlhYmxlX3RvX2lkeChyYXdfbGFiZWxzLCB2b2NhYl9maWxlLCBzaGFwZT0oYmF0Y2hfc2l6ZSwgMTApLCBkZWxpbWl0ZXI9JyAnKQo=</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGZlYXR1cmVzWydpbnB1dCddLnNoYXBlKQogICAgICAgICAgICAgICAgcHJpbnQoaW5mZXJfZmVhdHVyZXMuc2hhcGUpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIhISEhISEhISEhIikKICAgIHByaW50KHBhcmFtcykK</text>
+      <register name="3" type="8">
+        <text encoding="base64">IyAKIyA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiISEhISEhISEhISEiKQogICAgICAgIHByaW50KGlucCkKICAgICAgICBwcmludChvdXRwdXQpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpCiAgICBwcmludCh0cmFpbl9vdXRwdXRzLnJubl9vdXRwdXQpCiAgICBwcmludCgiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKQogICAgcHJpbnQob3V0cHV0KQogICAgcHJpbnQoIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIikKICAgIHByaW50KHdlaWdodHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdvdXRwdXQnOiBvdXRwdXRfcHJvY2VzcyhvdXRfbGluZSwgdm9jYWIpWzpvdXRwdXRfbWF4X2xlbmd0aCAtIDFdICsgW0VORF9UT0tFTl0KICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGlucHV0X2ZuPWlucHV0X2ZuLAogICAgICAgICMgaG9va3M9W3RmLnRyYWluLkZlZWRGbkhvb2soZmVlZF9mbiksIHByaW50X2lucHV0cywgcHJpbnRfcHJlZGljdGlvbnNdLAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ291dHB1dCc6IG91dHB1dCwK</text>
+      <register name="6" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCIhISEhISEiLCBmZWF0dXJlcykKICAgIHByaW50KCIhISEhISEiLCBsYWJlbHMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
+        <text encoding="base64">ICAgIHNlc3MucnVuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIhISEhISEhISEhISEhIikKICAgIHByaW50KHRyYWluX291dHB1dHMpCg==</text>
+        <text encoding="base64">ICAgIGZlYXR1cmVzID0gdGYuc3BhcnNlX3RlbnNvcl90b19kZW5zZSgsIGRlZmF1bHRfdmFsdWU9J25hbicpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b2tlbml6ZV9hbmRfbWFwXD4=</last-search>
+      <last-search encoding="base64">XDxzdGFydF90b2tlbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2tlbml6ZV9hbmRfbWFwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydF90b2tlbnNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWR1Y2VcPg==</entry>
-        <entry encoding="base64">XDxHT19UT0tFTlw+</entry>
-        <entry>input</entry>
-        <entry encoding="base64">XDxtYWtlX2lucHV0X2ZuXD4=</entry>
-        <entry encoding="base64">XDxzYW1wbGVyXD4=</entry>
-        <entry encoding="base64">XDxmZWVkX2ZuXD4=</entry>
-        <entry>feed_dict</entry>
-        <entry>feed</entry>
-        <entry encoding="base64">XDxpbnB1dF9mblw+</entry>
-        <entry>batch_size</entry>
-        <entry encoding="base64">XDxwYXJzZV9maXhlZF9sZW5ndGhcPg==</entry>
-        <entry encoding="base64">XDxwbGFjZWhvbGRcPg==</entry>
-        <entry encoding="base64">XDxpbnB1dF8wXD4=</entry>
-        <entry encoding="base64">XDx2b2NhYl9maWxlbmFtZVw+</entry>
-        <entry encoding="base64">XDx2b2NhYl9zaXplXD4=</entry>
-        <entry>load_vo</entry>
-        <entry encoding="base64">XDxsb2FkX3ZvY2FiXD4=</entry>
-        <entry>vocab</entry>
-        <entry encoding="base64">XDxpbnB1dF9wcm9jZXNzXD4=</entry>
+        <entry encoding="base64">XDxybm5fb3V0cHV0XD4=</entry>
+        <entry>sparse</entry>
+        <entry encoding="base64">XDxzcGFyc2VfdGVuc29yX3RvX2RlbnNlXD4=</entry>
+        <entry>sparse_to</entry>
+        <entry>to_dense</entry>
+        <entry>many</entry>
+        <entry>read_up_to</entry>
+        <entry>train_pred</entry>
+        <entry>predictions</entry>
+        <entry encoding="base64">XDxwcmVkX291dHB1dHNcPg==</entry>
+        <entry encoding="base64">XDxnZXRfaW5wdXRfZm5cPg==</entry>
+        <entry encoding="base64">XDxiYXRjaF9zaXplXD4=</entry>
+        <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
+        <entry encoding="base64">XDx0cmFpbl9vdXRwdXRcPg==</entry>
+        <entry encoding="base64">XDxvdXRwdXRfbGVuZ3Roc1w+</entry>
+        <entry encoding="base64">XDxvdXRwdXRfcHJvY2Vzc1w+</entry>
         <entry encoding="base64">XDx0b2tlbml6ZV9hbmRfbWFwXD4=</entry>
+        <entry encoding="base64">XDxFTkRfVE9LRU5cPg==</entry>
+        <entry>convert</entry>
+        <entry encoding="base64">XDxzdGFydF90b2tlbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>33</entry>
+        <entry>35</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
