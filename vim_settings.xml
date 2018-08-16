@@ -320,22 +320,15 @@
         <mark key="]" line="37" column="8" />
         <mark key="." line="37" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" timestamp="1534412936048">
-        <mark key="'" line="99" column="59" />
-        <mark key="[" line="54" column="59" />
-        <mark key="]" line="54" column="64" />
-        <mark key="." line="54" column="64" />
-        <mark key="^" line="54" column="64" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" timestamp="1534416697696">
+        <mark key="'" line="98" column="16" />
+        <mark key="[" line="99" column="75" />
+        <mark key="]" line="99" column="62" />
+        <mark key="." line="99" column="62" />
+        <mark key="^" line="99" column="62" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="24" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/cli.py" />
-      <jump line="30" column="21" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/helper.py" />
-      <jump line="15" column="11" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/helper.py" />
-      <jump line="16" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
-      <jump line="27" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
-      <jump line="28" column="24" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
-      <jump line="17" column="43" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
       <jump line="20" column="24" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
       <jump line="54" column="25" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
       <jump line="56" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
@@ -423,12 +416,19 @@
       <jump line="64" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inference/inference.py" />
       <jump line="61" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inference/inference.py" />
       <jump line="64" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="95" column="42" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
       <jump line="93" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
       <jump line="51" column="14" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
       <jump line="54" column="65" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
       <jump line="99" column="59" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/main.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
+      <jump line="70" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
+      <jump line="81" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
+      <jump line="85" column="53" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
+      <jump line="86" column="28" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
+      <jump line="95" column="18" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
+      <jump line="65" column="42" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
+      <jump line="98" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -438,53 +438,51 @@
         <text>flags.__dict__['__flags']</text>
       </register>
       <register name="/" type="4">
-        <text>eval_steps</text>
+        <text encoding="base64">XDxlbWJlZGRpbmdzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbmZpZy50ZXN0X2JhdGNoX3NpemUgPSAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfdG9rZW5zID0gdGYuemVyb3MoW3NlbGYuX2JhdGNoX3NpemVdLCBkdHlwZT10Zi5pbnQ2NCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRfZW1iZWQgPSBsYXllcnMuZW1iZWRfc2VxdWVuY2UoCiAgICAgICAgICAgIHNlbGYuX3RyYWluX2xhYmVscywgdm9jYWJfc2l6ZT1zZWxmLl92b2NhYl9zaXplLCBlbWJlZF9kaW09c2VsZi5fZW1iZWRfZGltLCBzY29wZT0nZW1iZWQnLCByZXVzZT1UcnVlKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfdG9rZW5zID0gdGYuemVyb3MoW3NlbGYuX2JhdGNoX3NpemVdLCBkdHlwZT10Zi5pbnQ2NCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBvdXRwdXRfZW1iZWQgPSBsYXllcnMuZW1iZWRfc2VxdWVuY2UoCiAgICAgICAgICAgIHNlbGYuX3RyYWluX2xhYmVscywgdm9jYWJfc2l6ZT1zZWxmLl92b2NhYl9zaXplLCBlbWJlZF9kaW09c2VsZi5fZW1iZWRfZGltLCBzY29wZT0nZW1iZWQnLCByZXVzZT1UcnVlKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbnB1dF9sZW5ndGhzID0gdGYucmVkdWNlX3N1bSh0Zi50b19pbnQzMih0Zi5ub3RfZXF1YWwoc2VsZi5faW5wLCAxKSksIDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbnB1dF9sZW5ndGhzID0gdGYucmVkdWNlX3N1bSh0Zi50b19pbnQzMih0Zi5ub3RfZXF1YWwoc2VsZi5faW5wLCAxKSksIDEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1vZGVsX3BhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiISEhISEhISEhISIsIHNlbGYuX2JhdGNoX3NpemUpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1vZGVsX3BhcmFtcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZyA9IGhlbHBlci5nZXRfY29uZmlnKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiISEhISEhISEhISIsIHNlbGYuX2JhdGNoX3NpemUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>eval_steps</last-search>
+      <last-search encoding="base64">XDxlbWJlZGRpbmdzXD4=</last-search>
       <last-offset />
-      <last-pattern>eval_steps</last-pattern>
+      <last-pattern encoding="base64">XDxlbWJlZGRpbmdzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>save_dir</entry>
-        <entry>out_dir</entry>
         <entry>delimiter</entry>
         <entry>save</entry>
         <entry>model</entry>
@@ -503,6 +501,8 @@
         <entry encoding="base64">XDxfc3RhcnRfdG9rZW5zXD4=</entry>
         <entry>start_tokens</entry>
         <entry>eval_steps</entry>
+        <entry>decode</entry>
+        <entry encoding="base64">XDxlbWJlZGRpbmdzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
