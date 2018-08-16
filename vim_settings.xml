@@ -96,6 +96,9 @@
         <mark key="]" line="152" column="25" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/model/model.py" timestamp="1534409957290">
+        <mark key="'" line="26" column="8" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/app.py" timestamp="1533092344557">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -330,15 +333,14 @@
         <mark key="]" line="37" column="8" />
         <mark key="." line="37" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" timestamp="1534402191435">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="48" />
-        <mark key="^" line="13" column="48" />
-        <mark key="." line="13" column="48" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" timestamp="1534410060232">
+        <mark key="[" line="100" column="47" />
+        <mark key="]" line="100" column="49" />
+        <mark key="^" line="100" column="49" />
+        <mark key="." line="100" column="49" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="27" filename="$USER_HOME$/workspace/ali/tensorflow-models/models/seq2seq/model.py" />
       <jump line="73" column="25" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/helper.py" />
       <jump line="16" column="45" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/confs/config.py" />
       <jump line="16" column="22" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/cli.py" />
@@ -438,6 +440,7 @@
       <jump line="22" column="41" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inference/inference.py" />
       <jump line="12" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inference/inference.py" />
       <jump line="70" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inference/inference.py" />
+      <jump line="26" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -447,7 +450,7 @@
         <text>flags.__dict__['__flags']</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnB1dF9mblw+</text>
+        <text>tensor_logging</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgYmF0Y2ggcmVjb3JkCiAgICB2YXJfbGlzdCA9IFtdCiAgICBudW1fcmVhZGluZ190aHJlYWRzID0gbGVuKHRhYmxlcykKICAgIGZvciBfIGluIHJhbmdlKG51bV9yZWFkaW5nX3RocmVhZHMpOgogICAgICAgIHR2YXJzID0gdXRpbHMucmVhZF9jc3ZfcmVjb3JkKAogICAgICAgICAgICBmaWxlbmFtZV9xdWV1ZSwgcmVjb3JkX2RlZmF1bHRzPVtbJ2ZlYXR1cmVzJ10sIFswXV0sCiAgICAgICAgICAgIGJhdGNoX3NpemU9YmF0Y2hfc2l6ZSwgbG9jYWw9bG9jYWwsIHNlbGVjdGVkX2NvbHM9J2ZlYXR1cmVzLGxhYmVscycsCiAgICAgICAgICAgIGRlbGltaXRlcj1kZWxpbWl0ZXIpCiAgICAgICAgdmFyX2xpc3QuYXBwZW5kKHR2YXJzKQo=</text>
@@ -484,15 +487,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnB1dF9mblw+</last-search>
+      <last-search>tensor_logging</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnB1dF9mblw+</last-pattern>
+      <last-pattern>tensor_logging</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfbW9kZWxfaW5mZXJlbmNlX2ZuXD4=</entry>
         <entry encoding="base64">XDxnZXRfbW9kZWxfZmVhdHVyZV9zcGVjXD4=</entry>
         <entry encoding="base64">XDxzZXJ2aW5nX2lucHV0X3JlY2VpdmVyX2ZuXD4=</entry>
         <entry encoding="base64">XDxfZmxhZ3NcPg==</entry>
@@ -512,6 +514,7 @@
         <entry encoding="base64">XDxiYXRjaF92YXJcPg==</entry>
         <entry>local</entry>
         <entry encoding="base64">XDxpbnB1dF9mblw+</entry>
+        <entry>tensor_logging</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
