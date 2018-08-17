@@ -75,11 +75,12 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inputs/inputs.py" timestamp="1534474411279">
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inputs/inputs.py" timestamp="1534475258554">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="41" column="33" />
+        <mark key="]" line="41" column="48" />
+        <mark key="." line="41" column="48" />
+        <mark key="^" line="41" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/tests/test_input_fn.py" timestamp="1534393742924">
         <mark key="[" line="23" column="36" />
@@ -110,12 +111,12 @@
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/model/model.py" timestamp="1534409957290">
         <mark key="'" line="26" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/tests/test_input_fn.py" timestamp="1534474306925">
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/tests/test_input_fn.py" timestamp="1534475276592">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="8" column="34" />
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
         <mark key="^" line="8" column="34" />
-        <mark key="." line="8" column="34" />
+        <mark key="." line="13" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/inputs/seq2seq_inputs.py" timestamp="1534393519804">
         <mark key="'" line="33" column="0" />
@@ -452,7 +453,7 @@
         <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dF9mblw+</text>
@@ -461,28 +462,28 @@
         <text encoding="base64">ICAgIGZlYXR1cmVzX3NvdXJjZSwgbGFiZWxzX3NvdXJjZSA9IGlucHV0X2ZuKAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZlYXR1cmVzX3NvdXJjZSA9IGlucHV0X2ZuKAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHZhcl9saXN0KQogICAgdmFyX2xpc3QuYXBwZW5kKFt0Zi5jb25zdGFudChbJzxVTks+J10pXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBpbnB1dHMuc2VxMnNlcV9pbnB1dHMgaW1wb3J0IGlucHV0X2ZuCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHZhcl9saXN0KQogICAgdmFyX2xpc3QuYXBwZW5kKFt0Zi5jb25zdGFudChbJzxVTks+J10pXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9tb2RlID09ICdpbmZlcic6Cg==</text>
+        <text encoding="base64">ZnJvbSBpbnB1dHMuc2VxMnNlcV9pbnB1dHMgaW1wb3J0IGlucHV0X2ZuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fY29uZmlnLnRyYWluX2JhdGNoX3NpemUgPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9tb2RlID09ICdpbmZlcic6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fY29uZmlnLnRyYWluX2JhdGNoX3NpemUgPSAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBiYXRjaF9zaXplID09IDE6CiAgICAgICAgICAgIHN0YXJ0X3Rva2Vuc19zdHIgPSB0Zi5leHBhbmRfZGltcyhzdGFydF90b2tlbnNfc3RyLCAtMSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBtb2RlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBiYXRjaF9zaXplID09IDE6CiAgICAgICAgICAgIHN0YXJ0X3Rva2Vuc19zdHIgPSB0Zi5leHBhbmRfZGltcyhzdGFydF90b2tlbnNfc3RyLCAtMSkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
