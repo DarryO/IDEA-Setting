@@ -88,13 +88,13 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/playground/tf/main.py" timestamp="1534417838561">
+      <file name="$USER_HOME$/workspace/playground/tf/main.py" timestamp="1534498930880">
         <mark key="a" line="8" column="13" />
-        <mark key="'" line="152" column="60" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="123" column="21" />
-        <mark key="^" line="32" column="39" />
-        <mark key="." line="23" column="0" />
+        <mark key="'" line="30" column="31" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="68" column="23" />
+        <mark key="." line="68" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention.py" timestamp="1534497031455">
         <mark key="'" line="152" column="26" />
@@ -148,10 +148,10 @@
         <mark key="." line="50" column="63" />
         <mark key="^" line="50" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/playground/tf/attention.py" timestamp="1534328928940">
+      <file name="$USER_HOME$/workspace/playground/tf/attention.py" timestamp="1534498214759">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="152" column="24" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="91" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="2" column="76" />
       </file>
@@ -303,6 +303,13 @@
         <mark key="^" line="335" column="7" />
         <mark key="." line="335" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" timestamp="1534499024340">
+        <mark key="'" line="202" column="33" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="111" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/base/model/model.py" timestamp="1534477182694">
         <mark key="'" line="21" column="29" />
         <mark key="[" line="233" column="0" />
@@ -337,36 +344,11 @@
         <mark key="." line="37" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" timestamp="1534495167659">
-        <mark key="'" line="153" column="4" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="146" column="60" />
+        <mark key="'" line="154" column="4" />
+        <mark key="^" line="18" column="60" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/main.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="70" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="85" column="53" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="86" column="28" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="95" column="18" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="65" column="42" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="98" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="73" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="101" column="7" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="13" column="39" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="14" column="29" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="36" column="55" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="43" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="50" column="57" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="62" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="68" column="71" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="74" column="49" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="103" column="35" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="35" column="6" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/base/model/model.py" />
-      <jump line="245" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/base/model/model.py" />
-      <jump line="228" column="30" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/base/model/model.py" />
       <jump line="152" column="60" filename="$USER_HOME$/workspace/playground/tf/main.py" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
       <jump line="85" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inference/inference.py" />
@@ -445,6 +427,28 @@
       <jump line="98" column="51" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
       <jump line="122" column="41" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention.py" />
       <jump line="151" column="26" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="79" column="4" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="432" column="36" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="203" column="55" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="29" column="68" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="155" column="42" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="453" column="22" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="55" column="44" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="67" column="43" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="68" column="24" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="15" column="30" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="55" column="26" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="305" column="37" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="49" column="25" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="30" column="31" filename="$USER_HOME$/workspace/playground/tf/main.py" />
+      <jump line="58" column="12" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="322" column="12" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="408" column="16" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="348" column="53" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="202" column="33" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -454,59 +458,51 @@
         <text>是encode hidden</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcHJvYmFiaWxpdHlfZm5cPg==</text>
+        <text encoding="base64">XDxvdXRwdXRfYXR0ZW50aW9uXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;BasicDecoderOutput&quot;, (&quot;rnn_output&quot;, &quot;sample_id&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBhdHRlbnRpb25fd3JhcHBlciBpbXBvcnQgQXR0ZW50aW9uV3JhcHBlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiISEhISEhISEhISEiLCBwcm9iYWJpbGl0eV9mbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg6L6T5YWlcXVlcnnvvIzovpPlhaVwcmV2aW91c19hbGlnbm1lbnRz77yM6L6T5Ye65piv5LiA5LiqYXR0ZW50aW9u5qaC546H55+p6Zi1Cg==</text>
+        <text encoding="base64">ICAgICAgICAqKk5PVEUqKiBJZiB5b3UgYXJlIHVzaW5nIHRoZSBgQmVhbVNlYXJjaERlY29kZXJgIHdpdGggYSBjZWxsIHdyYXBwZWQgaW4KICAgICAgICBgQXR0ZW50aW9uV3JhcHBlcmAsIHRoZW4geW91IG11c3QgZW5zdXJlIHRoYXQ6CgogICAgICAgIC0gVGhlIGVuY29kZXIgb3V0cHV0IGhhcyBiZWVuIHRpbGVkIHRvIGBiZWFtX3dpZHRoYCB2aWEKICAgICAgICAgIEB7dGYuY29udHJpYi5zZXEyc2VxLnRpbGVfYmF0Y2h9IChOT1QgYHRmLnRpbGVgKS4KICAgICAgICAtIFRoZSBgYmF0Y2hfc2l6ZWAgYXJndW1lbnQgcGFzc2VkIHRvIHRoZSBgemVyb19zdGF0ZWAgbWV0aG9kIG9mIHRoaXMKICAgICAgICAgIHdyYXBwZXIgaXMgZXF1YWwgdG8gYHRydWVfYmF0Y2hfc2l6ZSAqIGJlYW1fd2lkdGhgLgogICAgICAgIC0gVGhlIGluaXRpYWwgc3RhdGUgY3JlYXRlZCB3aXRoIGB6ZXJvX3N0YXRlYCBhYm92ZSBjb250YWlucyBhCiAgICAgICAgICBgY2VsbF9zdGF0ZWAgdmFsdWUgY29udGFpbmluZyBwcm9wZXJseSB0aWxlZCBmaW5hbCBzdGF0ZSBmcm9tIHRoZQogICAgICAgICAgZW5jb2Rlci4KCiAgICAgICAgQW4gZXhhbXBsZToKCiAgICAgICAgYGBgCiAgICAgICAgdGlsZWRfZW5jb2Rlcl9vdXRwdXRzID0gdGYuY29udHJpYi5zZXEyc2VxLnRpbGVfYmF0Y2goCiAgICAgICAgICAgIGVuY29kZXJfb3V0cHV0cywgbXVsdGlwbGllcj1iZWFtX3dpZHRoKQogICAgICAgIHRpbGVkX2VuY29kZXJfZmluYWxfc3RhdGUgPSB0Zi5jb25yaWIuc2VxMnNlcS50aWxlX2JhdGNoKAogICAgICAgICAgICBlbmNvZGVyX2ZpbmFsX3N0YXRlLCBtdWx0aXBsaWVyPWJlYW1fd2lkdGgpCiAgICAgICAgdGlsZWRfc2VxdWVuY2VfbGVuZ3RoID0gdGYuY29udHJpYi5zZXEyc2VxLnRpbGVfYmF0Y2goCiAgICAgICAgICAgIHNlcXVlbmNlX2xlbmd0aCwgbXVsdGlwbGllcj1iZWFtX3dpZHRoKQogICAgICAgIGF0dGVudGlvbl9tZWNoYW5pc20gPSBNeUZhdm9yaXRlQXR0ZW50aW9uTWVjaGFuaXNtKAogICAgICAgICAgICBudW1fdW5pdHM9YXR0ZW50aW9uX2RlcHRoLAogICAgICAgICAgICBtZW1vcnk9dGlsZWRfaW5wdXRzLAogICAgICAgICAgICBtZW1vcnlfc2VxdWVuY2VfbGVuZ3RoPXRpbGVkX3NlcXVlbmNlX2xlbmd0aCkKICAgICAgICBhdHRlbnRpb25fY2VsbCA9IEF0dGVudGlvbldyYXBwZXIoY2VsbCwgYXR0ZW50aW9uX21lY2hhbmlzbSwgLi4uKQogICAgICAgIGRlY29kZXJfaW5pdGlhbF9zdGF0ZSA9IGF0dGVudGlvbl9jZWxsLnplcm9fc3RhdGUoCiAgICAgICAgICAgIGR0eXBlLCBiYXRjaF9zaXplPXRydWVfYmF0Y2hfc2l6ZSAqIGJlYW1fd2lkdGgpCiAgICAgICAgZGVjb2Rlcl9pbml0aWFsX3N0YXRlID0gZGVjb2Rlcl9pbml0aWFsX3N0YXRlLmNsb25lKAogICAgICAgICAgICBjZWxsX3N0YXRlPXRpbGVkX2VuY29kZXJfZmluYWxfc3RhdGUpCiAgICAgICAgYGBgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IHZhcmlhYmxlX3Njb3BlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQmFzaWNEZWNvZGVyT3V0cHV0KAogICAgY29sbGVjdGlvbnMubmFtZWR0dXBsZSgiQmFzaWNEZWNvZGVyT3V0cHV0IiwgKCJybm5fb3V0cHV0IiwgInNhbXBsZV9pZCIpKSk6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IG5uX29wcwpmcm9tIHRlbnNvcmZsb3cucHl0aG9uLm9wcyBpbXBvcnQgcmFuZG9tX29wcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IGNsaXBfb3BzCmZyb20gdGVuc29yZmxvdy5weXRob24ub3BzIGltcG9ydCBmdW5jdGlvbmFsX29wcwpmcm9tIHRlbnNvcmZsb3cucHl0aG9uLm9wcyBpbXBvcnQgaW5pdF9vcHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5sYXllcnMgaW1wb3J0IGJhc2UgYXMgbGF5ZXJzX2Jhc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">aW1wb3J0IGZ1bmN0b29scwppbXBvcnQgbWF0aAoKaW1wb3J0IG51bXB5IGFzIG5wCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZlYXR1cmVzX3NvdXJjZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcHJvYmFiaWxpdHlfZm5cPg==</last-search>
+      <last-search encoding="base64">XDxvdXRwdXRfYXR0ZW50aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcHJvYmFiaWxpdHlfZm5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxvdXRwdXRfYXR0ZW50aW9uXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>inp</entry>
-        <entry>logging</entry>
-        <entry>formatter</entry>
-        <entry encoding="base64">XDxzaGFwZVw+</entry>
-        <entry>join</entry>
-        <entry encoding="base64">XDxpbnB1dF9mblw+</entry>
-        <entry>collec</entry>
-        <entry>print</entry>
         <entry>add_t</entry>
         <entry>decoded</entry>
         <entry encoding="base64">XDxfbGFiZWxzXD4=</entry>
@@ -519,6 +515,14 @@
         <entry encoding="base64">XDxhdHRlbnRpb25fdmVjX3NpemVcPg==</entry>
         <entry encoding="base64">XDx3X2NcPg==</entry>
         <entry encoding="base64">XDxfcHJvYmFiaWxpdHlfZm5cPg==</entry>
+        <entry encoding="base64">XDxoYXJkbWF4XD4=</entry>
+        <entry encoding="base64">XDxfY29tcHV0ZV9hdHRlbnRpb25cPg==</entry>
+        <entry encoding="base64">XDxBdHRlbnRpb25NZWNoYW5pc21cPg==</entry>
+        <entry>attention_wr</entry>
+        <entry>wra</entry>
+        <entry encoding="base64">XDxBdHRlbnRpb25XcmFwcGVyXD4=</entry>
+        <entry encoding="base64">XDxfb3V0cHV0X2F0dGVudGlvblw+</entry>
+        <entry encoding="base64">XDxvdXRwdXRfYXR0ZW50aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
