@@ -43,8 +43,8 @@
         <mark key="^" line="48" column="18" />
         <mark key="." line="48" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/main.py" timestamp="1534413024256">
-        <mark key="'" line="33" column="0" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/main.py" timestamp="1534737993549">
+        <mark key="'" line="15" column="29" />
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="^" line="108" column="22" />
@@ -69,8 +69,8 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inputs/inputs.py" timestamp="1534476511079">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inputs/inputs.py" timestamp="1534738033212">
+        <mark key="'" line="10" column="23" />
         <mark key="[" line="36" column="28" />
         <mark key="]" line="36" column="18" />
         <mark key="." line="36" column="18" />
@@ -96,11 +96,12 @@
         <mark key="^" line="68" column="23" />
         <mark key="." line="68" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention.py" timestamp="1534497031455">
-        <mark key="'" line="152" column="26" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention.py" timestamp="1534737812954">
+        <mark key="'" line="136" column="18" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/base/confs/config.py" timestamp="1534403753690">
         <mark key="[" line="20" column="18" />
@@ -108,8 +109,8 @@
         <mark key="^" line="20" column="22" />
         <mark key="." line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/decoder.py" timestamp="1534495576973">
-        <mark key="'" line="125" column="20" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/decoder.py" timestamp="1534737967853">
+        <mark key="'" line="10" column="23" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="23" column="43" />
@@ -131,12 +132,11 @@
         <mark key="]" line="19" column="65" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/input_utils.py" timestamp="1534478000130">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="31" column="74" />
-        <mark key="]" line="32" column="49" />
-        <mark key="." line="32" column="49" />
-        <mark key="^" line="32" column="49" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/input_utils.py" timestamp="1534738075206">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/Python Console" timestamp="1534727847586">
         <mark key="[" line="0" column="0" />
@@ -187,6 +187,9 @@
         <mark key="]" line="32" column="40" />
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/helper.py" timestamp="1534737979632">
+        <mark key="'" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/inputs/utils.py" timestamp="1534390689831">
         <mark key="'" line="86" column="0" />
@@ -352,25 +355,15 @@
         <mark key="]" line="37" column="8" />
         <mark key="." line="37" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" timestamp="1534733797602">
-        <mark key="'" line="18" column="30" />
-        <mark key="^" line="18" column="60" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" timestamp="1534737843939">
+        <mark key="'" line="15" column="23" />
+        <mark key="[" line="78" column="41" />
+        <mark key="]" line="78" column="51" />
+        <mark key="^" line="78" column="51" />
+        <mark key="." line="78" column="51" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/input_utils.py" />
-      <jump line="52" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="116" column="20" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="54" column="33" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="25" column="29" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="35" column="53" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="60" column="25" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="100" column="41" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="153" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="127" column="20" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/decoder.py" />
-      <jump line="234" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="48" column="81" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="118" column="51" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
       <jump line="184" column="24" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
       <jump line="196" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
       <jump line="216" column="28" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
@@ -458,6 +451,19 @@
       <jump line="149" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
       <jump line="361" column="27" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
       <jump line="201" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="124" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention.py" />
+      <jump line="136" column="18" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
+      <jump line="15" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
+      <jump line="110" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/decoder.py" />
+      <jump line="10" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/decoder.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/helper.py" />
+      <jump line="10" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/helper.py" />
+      <jump line="11" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/main.py" />
+      <jump line="13" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/main.py" />
+      <jump line="15" column="29" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/main.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inputs/inputs.py" />
+      <jump line="10" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inputs/inputs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -467,54 +473,51 @@
         <text>是encode hidden</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2VsbF9pbnB1dF9mblw+</text>
+        <text>logging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBhdHRlbnRpb25fd3JhcHBlciBpbXBvcnQgQXR0ZW50aW9uV3JhcHBlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF0dGVudGlvbl9tZWNoYW5pc20gPSBCYWhkYW5hdUF0dGVudGlvbigK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCcxJywgZGF0YSwgc2hhcGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnMicsIHBhZF9zaGFwZSwgZW5kX3Rva2Vuc19zdHIsIGRhdGEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAqKk5PVEUqKiBJZiB5b3UgYXJlIHVzaW5nIHRoZSBgQmVhbVNlYXJjaERlY29kZXJgIHdpdGggYSBjZWxsIHdyYXBwZWQgaW4KICAgICAgICBgQXR0ZW50aW9uV3JhcHBlcmAsIHRoZW4geW91IG11c3QgZW5zdXJlIHRoYXQ6CgogICAgICAgIC0gVGhlIGVuY29kZXIgb3V0cHV0IGhhcyBiZWVuIHRpbGVkIHRvIGBiZWFtX3dpZHRoYCB2aWEKICAgICAgICAgIEB7dGYuY29udHJpYi5zZXEyc2VxLnRpbGVfYmF0Y2h9IChOT1QgYHRmLnRpbGVgKS4KICAgICAgICAtIFRoZSBgYmF0Y2hfc2l6ZWAgYXJndW1lbnQgcGFzc2VkIHRvIHRoZSBgemVyb19zdGF0ZWAgbWV0aG9kIG9mIHRoaXMKICAgICAgICAgIHdyYXBwZXIgaXMgZXF1YWwgdG8gYHRydWVfYmF0Y2hfc2l6ZSAqIGJlYW1fd2lkdGhgLgogICAgICAgIC0gVGhlIGluaXRpYWwgc3RhdGUgY3JlYXRlZCB3aXRoIGB6ZXJvX3N0YXRlYCBhYm92ZSBjb250YWlucyBhCiAgICAgICAgICBgY2VsbF9zdGF0ZWAgdmFsdWUgY29udGFpbmluZyBwcm9wZXJseSB0aWxlZCBmaW5hbCBzdGF0ZSBmcm9tIHRoZQogICAgICAgICAgZW5jb2Rlci4KCiAgICAgICAgQW4gZXhhbXBsZToKCiAgICAgICAgYGBgCiAgICAgICAgdGlsZWRfZW5jb2Rlcl9vdXRwdXRzID0gdGYuY29udHJpYi5zZXEyc2VxLnRpbGVfYmF0Y2goCiAgICAgICAgICAgIGVuY29kZXJfb3V0cHV0cywgbXVsdGlwbGllcj1iZWFtX3dpZHRoKQogICAgICAgIHRpbGVkX2VuY29kZXJfZmluYWxfc3RhdGUgPSB0Zi5jb25yaWIuc2VxMnNlcS50aWxlX2JhdGNoKAogICAgICAgICAgICBlbmNvZGVyX2ZpbmFsX3N0YXRlLCBtdWx0aXBsaWVyPWJlYW1fd2lkdGgpCiAgICAgICAgdGlsZWRfc2VxdWVuY2VfbGVuZ3RoID0gdGYuY29udHJpYi5zZXEyc2VxLnRpbGVfYmF0Y2goCiAgICAgICAgICAgIHNlcXVlbmNlX2xlbmd0aCwgbXVsdGlwbGllcj1iZWFtX3dpZHRoKQogICAgICAgIGF0dGVudGlvbl9tZWNoYW5pc20gPSBNeUZhdm9yaXRlQXR0ZW50aW9uTWVjaGFuaXNtKAogICAgICAgICAgICBudW1fdW5pdHM9YXR0ZW50aW9uX2RlcHRoLAogICAgICAgICAgICBtZW1vcnk9dGlsZWRfaW5wdXRzLAogICAgICAgICAgICBtZW1vcnlfc2VxdWVuY2VfbGVuZ3RoPXRpbGVkX3NlcXVlbmNlX2xlbmd0aCkKICAgICAgICBhdHRlbnRpb25fY2VsbCA9IEF0dGVudGlvbldyYXBwZXIoY2VsbCwgYXR0ZW50aW9uX21lY2hhbmlzbSwgLi4uKQogICAgICAgIGRlY29kZXJfaW5pdGlhbF9zdGF0ZSA9IGF0dGVudGlvbl9jZWxsLnplcm9fc3RhdGUoCiAgICAgICAgICAgIGR0eXBlLCBiYXRjaF9zaXplPXRydWVfYmF0Y2hfc2l6ZSAqIGJlYW1fd2lkdGgpCiAgICAgICAgZGVjb2Rlcl9pbml0aWFsX3N0YXRlID0gZGVjb2Rlcl9pbml0aWFsX3N0YXRlLmNsb25lKAogICAgICAgICAgICBjZWxsX3N0YXRlPXRpbGVkX2VuY29kZXJfZmluYWxfc3RhdGUpCiAgICAgICAgYGBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IHZhcmlhYmxlX3Njb3BlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IG5uX29wcwpmcm9tIHRlbnNvcmZsb3cucHl0aG9uLm9wcyBpbXBvcnQgcmFuZG9tX29wcwo=</text>
+        <text encoding="base64">ICAgICAgICAqKk5PVEUqKiBJZiB5b3UgYXJlIHVzaW5nIHRoZSBgQmVhbVNlYXJjaERlY29kZXJgIHdpdGggYSBjZWxsIHdyYXBwZWQgaW4KICAgICAgICBgQXR0ZW50aW9uV3JhcHBlcmAsIHRoZW4geW91IG11c3QgZW5zdXJlIHRoYXQ6CgogICAgICAgIC0gVGhlIGVuY29kZXIgb3V0cHV0IGhhcyBiZWVuIHRpbGVkIHRvIGBiZWFtX3dpZHRoYCB2aWEKICAgICAgICAgIEB7dGYuY29udHJpYi5zZXEyc2VxLnRpbGVfYmF0Y2h9IChOT1QgYHRmLnRpbGVgKS4KICAgICAgICAtIFRoZSBgYmF0Y2hfc2l6ZWAgYXJndW1lbnQgcGFzc2VkIHRvIHRoZSBgemVyb19zdGF0ZWAgbWV0aG9kIG9mIHRoaXMKICAgICAgICAgIHdyYXBwZXIgaXMgZXF1YWwgdG8gYHRydWVfYmF0Y2hfc2l6ZSAqIGJlYW1fd2lkdGhgLgogICAgICAgIC0gVGhlIGluaXRpYWwgc3RhdGUgY3JlYXRlZCB3aXRoIGB6ZXJvX3N0YXRlYCBhYm92ZSBjb250YWlucyBhCiAgICAgICAgICBgY2VsbF9zdGF0ZWAgdmFsdWUgY29udGFpbmluZyBwcm9wZXJseSB0aWxlZCBmaW5hbCBzdGF0ZSBmcm9tIHRoZQogICAgICAgICAgZW5jb2Rlci4KCiAgICAgICAgQW4gZXhhbXBsZToKCiAgICAgICAgYGBgCiAgICAgICAgdGlsZWRfZW5jb2Rlcl9vdXRwdXRzID0gdGYuY29udHJpYi5zZXEyc2VxLnRpbGVfYmF0Y2goCiAgICAgICAgICAgIGVuY29kZXJfb3V0cHV0cywgbXVsdGlwbGllcj1iZWFtX3dpZHRoKQogICAgICAgIHRpbGVkX2VuY29kZXJfZmluYWxfc3RhdGUgPSB0Zi5jb25yaWIuc2VxMnNlcS50aWxlX2JhdGNoKAogICAgICAgICAgICBlbmNvZGVyX2ZpbmFsX3N0YXRlLCBtdWx0aXBsaWVyPWJlYW1fd2lkdGgpCiAgICAgICAgdGlsZWRfc2VxdWVuY2VfbGVuZ3RoID0gdGYuY29udHJpYi5zZXEyc2VxLnRpbGVfYmF0Y2goCiAgICAgICAgICAgIHNlcXVlbmNlX2xlbmd0aCwgbXVsdGlwbGllcj1iZWFtX3dpZHRoKQogICAgICAgIGF0dGVudGlvbl9tZWNoYW5pc20gPSBNeUZhdm9yaXRlQXR0ZW50aW9uTWVjaGFuaXNtKAogICAgICAgICAgICBudW1fdW5pdHM9YXR0ZW50aW9uX2RlcHRoLAogICAgICAgICAgICBtZW1vcnk9dGlsZWRfaW5wdXRzLAogICAgICAgICAgICBtZW1vcnlfc2VxdWVuY2VfbGVuZ3RoPXRpbGVkX3NlcXVlbmNlX2xlbmd0aCkKICAgICAgICBhdHRlbnRpb25fY2VsbCA9IEF0dGVudGlvbldyYXBwZXIoY2VsbCwgYXR0ZW50aW9uX21lY2hhbmlzbSwgLi4uKQogICAgICAgIGRlY29kZXJfaW5pdGlhbF9zdGF0ZSA9IGF0dGVudGlvbl9jZWxsLnplcm9fc3RhdGUoCiAgICAgICAgICAgIGR0eXBlLCBiYXRjaF9zaXplPXRydWVfYmF0Y2hfc2l6ZSAqIGJlYW1fd2lkdGgpCiAgICAgICAgZGVjb2Rlcl9pbml0aWFsX3N0YXRlID0gZGVjb2Rlcl9pbml0aWFsX3N0YXRlLmNsb25lKAogICAgICAgICAgICBjZWxsX3N0YXRlPXRpbGVkX2VuY29kZXJfZmluYWxfc3RhdGUpCiAgICAgICAgYGBgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IGNsaXBfb3BzCmZyb20gdGVuc29yZmxvdy5weXRob24ub3BzIGltcG9ydCBmdW5jdGlvbmFsX29wcwpmcm9tIHRlbnNvcmZsb3cucHl0aG9uLm9wcyBpbXBvcnQgaW5pdF9vcHMK</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IHZhcmlhYmxlX3Njb3BlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5sYXllcnMgaW1wb3J0IGJhc2UgYXMgbGF5ZXJzX2Jhc2UK</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IG5uX29wcwpmcm9tIHRlbnNvcmZsb3cucHl0aG9uLm9wcyBpbXBvcnQgcmFuZG9tX29wcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGZ1bmN0b29scwppbXBvcnQgbWF0aAoKaW1wb3J0IG51bXB5IGFzIG5wCgo=</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IGNsaXBfb3BzCmZyb20gdGVuc29yZmxvdy5weXRob24ub3BzIGltcG9ydCBmdW5jdGlvbmFsX29wcwpmcm9tIHRlbnNvcmZsb3cucHl0aG9uLm9wcyBpbXBvcnQgaW5pdF9vcHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5sYXllcnMgaW1wb3J0IGJhc2UgYXMgbGF5ZXJzX2Jhc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2VsbF9pbnB1dF9mblw+</last-search>
+      <last-search>logging</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2VsbF9pbnB1dF9mblw+</last-pattern>
+      <last-pattern>logging</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>input_length</entry>
-        <entry encoding="base64">XDxsaW5lYXJcPg==</entry>
-        <entry encoding="base64">XDxXX2hcPg==</entry>
         <entry encoding="base64">XDxhdHRlbnRpb25cPg==</entry>
         <entry encoding="base64">XDxhdHRlbnRpb25fdmVjX3NpemVcPg==</entry>
         <entry encoding="base64">XDx3X2NcPg==</entry>
@@ -532,6 +535,9 @@
         <entry encoding="base64">XDxfYXR0ZW50aW9uX2xheWVyc1w+</entry>
         <entry>_call_input</entry>
         <entry encoding="base64">XDxfY2VsbF9pbnB1dF9mblw+</entry>
+        <entry encoding="base64">XDxCYWhkYW5hdUF0dGVudGlvblw+</entry>
+        <entry>print</entry>
+        <entry>logging</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
