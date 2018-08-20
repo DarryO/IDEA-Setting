@@ -115,6 +115,9 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" timestamp="1534734374882">
+        <mark key="'" line="201" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/tests/test_input_fn.py" timestamp="1534477949483">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="15" column="0" />
@@ -219,8 +222,8 @@
         <mark key="." line="26" column="30" />
         <mark key="^" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" timestamp="1534496787616">
-        <mark key="'" line="98" column="51" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" timestamp="1534734198390">
+        <mark key="'" line="132" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/sample_config.py" timestamp="1534392205846">
         <mark key="'" line="10" column="37" />
@@ -349,36 +352,12 @@
         <mark key="]" line="37" column="8" />
         <mark key="." line="37" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" timestamp="1534495167659">
-        <mark key="'" line="154" column="4" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" timestamp="1534733797602">
+        <mark key="'" line="18" column="30" />
         <mark key="^" line="18" column="60" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="40" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="81" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="150" column="28" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inputs/inputs.py" />
-      <jump line="25" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/input_utils.py" />
-      <jump line="16" column="47" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/input_utils.py" />
-      <jump line="21" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="22" column="24" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/input_utils.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/input_utils.py" />
-      <jump line="59" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
-      <jump line="19" column="31" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/tests/test_input_fn.py" />
-      <jump line="19" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inference/inference.py" />
-      <jump line="61" column="20" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inference/inference.py" />
-      <jump line="225" column="7" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/base/model/model.py" />
-      <jump line="235" column="25" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/base/model/model.py" />
-      <jump line="10" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/base/model/model.py" />
-      <jump line="15" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/base/model/model.py" />
-      <jump line="21" column="29" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/base/model/model.py" />
-      <jump line="57" column="28" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="132" column="28" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="121" column="50" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="112" column="38" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
-      <jump line="111" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
       <jump line="93" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/input_utils.py" />
       <jump line="52" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
       <jump line="116" column="20" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
@@ -455,6 +434,30 @@
       <jump line="411" column="12" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
       <jump line="19" column="36" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
       <jump line="98" column="12" filename="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" />
+      <jump line="136" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
+      <jump line="18" column="30" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
+      <jump line="132" column="33" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
+      <jump line="80" column="35" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="321" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="73" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="367" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="355" column="55" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="90" column="54" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="363" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="366" column="62" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="376" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="377" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="391" column="37" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="411" column="19" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="390" column="36" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="69" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="392" column="21" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="188" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="194" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="149" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="361" column="27" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
+      <jump line="201" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention_wrapper.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -464,7 +467,7 @@
         <text>是encode hidden</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdXRwdXRfYXR0ZW50aW9uXD4=</text>
+        <text encoding="base64">XDxfY2VsbF9pbnB1dF9mblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBhdHRlbnRpb25fd3JhcHBlciBpbXBvcnQgQXR0ZW50aW9uV3JhcHBlcgo=</text>
@@ -501,19 +504,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvdXRwdXRfYXR0ZW50aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxfY2VsbF9pbnB1dF9mblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdXRwdXRfYXR0ZW50aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfY2VsbF9pbnB1dF9mblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>add_t</entry>
-        <entry>decoded</entry>
-        <entry encoding="base64">XDxfbGFiZWxzXD4=</entry>
-        <entry encoding="base64">XDxfdG9fd29yZF90Ylw+</entry>
-        <entry>length</entry>
         <entry>input_length</entry>
         <entry encoding="base64">XDxsaW5lYXJcPg==</entry>
         <entry encoding="base64">XDxXX2hcPg==</entry>
@@ -522,13 +520,18 @@
         <entry encoding="base64">XDx3X2NcPg==</entry>
         <entry encoding="base64">XDxfcHJvYmFiaWxpdHlfZm5cPg==</entry>
         <entry encoding="base64">XDxoYXJkbWF4XD4=</entry>
-        <entry encoding="base64">XDxfY29tcHV0ZV9hdHRlbnRpb25cPg==</entry>
         <entry encoding="base64">XDxBdHRlbnRpb25NZWNoYW5pc21cPg==</entry>
         <entry>attention_wr</entry>
         <entry>wra</entry>
         <entry encoding="base64">XDxBdHRlbnRpb25XcmFwcGVyXD4=</entry>
         <entry encoding="base64">XDxfb3V0cHV0X2F0dGVudGlvblw+</entry>
         <entry encoding="base64">XDxvdXRwdXRfYXR0ZW50aW9uXD4=</entry>
+        <entry>AttentionW</entry>
+        <entry encoding="base64">XDxjZWxsX291dHB1dFw+</entry>
+        <entry encoding="base64">XDxfY29tcHV0ZV9hdHRlbnRpb25cPg==</entry>
+        <entry encoding="base64">XDxfYXR0ZW50aW9uX2xheWVyc1w+</entry>
+        <entry>_call_input</entry>
+        <entry encoding="base64">XDxfY2VsbF9pbnB1dF9mblw+</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
