@@ -249,8 +249,8 @@
         <mark key="." line="26" column="30" />
         <mark key="^" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" timestamp="1534925544440">
-        <mark key="'" line="172" column="19" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" timestamp="1534928461466">
+        <mark key="'" line="207" column="28" />
         <mark key="[" line="172" column="0" />
         <mark key="]" line="232" column="0" />
         <mark key="." line="105" column="15" />
@@ -419,8 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="590" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model_bk.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
       <jump line="66" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
       <jump line="265" column="7" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
       <jump line="86" column="81" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
@@ -506,7 +504,6 @@
       <jump line="126" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/decoder.py" />
       <jump line="20" column="19" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/decoder.py" />
       <jump line="92" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/decoder.py" />
-      <jump line="207" column="68" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
       <jump line="216" column="36" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
       <jump line="209" column="32" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
       <jump line="220" column="30" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
@@ -519,6 +516,9 @@
       <jump line="150" column="50" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
       <jump line="157" column="20" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
       <jump line="172" column="19" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
+      <jump line="210" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
+      <jump line="231" column="31" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
+      <jump line="207" column="28" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -528,7 +528,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdHRuX2Rpc3RcPg==</text>
+        <text encoding="base64">XDxhdHRuX2Rpc3RzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvdXRwdXRzID0gW10KICAgICAgICBhdHRuX2Rpc3RzID0gW10KICAgICAgICBwX2dlbnMgPSBbXQogICAgICAgIHN0YXRlID0gaW5pdGlhbF9zdGF0ZQogICAgICAgICMgaW5pdGlhbGl6ZSBjb3ZlcmFnZSB0byBOb25lIG9yIHdoYXRldmVyIHdhcyBwYXNzZWQgaW4KICAgICAgICBjb3ZlcmFnZSA9IHByZXZfY292ZXJhZ2UKICAgICAgICBjb250ZXh0X3ZlY3RvciA9IGFycmF5X29wcy56ZXJvcyhbYmF0Y2hfc2l6ZSwgYXR0bl9zaXplXSkKICAgICAgICAjIEVuc3VyZSB0aGUgc2Vjb25kIHNoYXBlIG9mIGF0dGVudGlvbiB2ZWN0b3JzIGlzIHNldC4KICAgICAgICBjb250ZXh0X3ZlY3Rvci5zZXRfc2hhcGUoW05vbmUsIGF0dG5fc2l6ZV0pCiAgICAgICAgaWYgaW5pdGlhbF9zdGF0ZV9hdHRlbnRpb246CiAgICAgICAgICAgICMgdHJ1ZSBpbiBkZWNvZGUgbW9kZQogICAgICAgICAgICAjIFJlLWNhbGN1bGF0ZSB0aGUgY29udGV4dCB2ZWN0b3IgZnJvbSB0aGUgcHJldmlvdXMgc3RlcCBzbyB0aGF0IHdlIGNhbiBwYXNzIGl0CiAgICAgICAgICAgICMgdGhyb3VnaCBhIGxpbmVhciBsYXllciB3aXRoIHRoaXMgc3RlcCdzIGlucHV0IHRvIGdldCBhIG1vZGlmaWVkIHZlcnNpb24gb2YgdGhlIGlucHV0CiAgICAgICAgICAgICMgaW4gZGVjb2RlIG1vZGUsIHRoaXMgaXMgd2hhdCB1cGRhdGVzIHRoZSBjb3ZlcmFnZSB2ZWN0b3IKICAgICAgICAgICAgY29udGV4dF92ZWN0b3IsIF8sIGNvdmVyYWdlID0gYXR0ZW50aW9uKGluaXRpYWxfc3RhdGUsIGNvdmVyYWdlKQogICAgICAgIGZvciBpLCBpbnAgaW4gZW51bWVyYXRlKGRlY29kZXJfaW5wdXRzKToKICAgICAgICAgICAgdGYubG9nZ2luZy5pbmZvKCJBZGRpbmcgYXR0ZW50aW9uX2RlY29kZXIgdGltZXN0ZXAgJWkgb2YgJWkiLCBpLCBsZW4oZGVjb2Rlcl9pbnB1dHMpKQogICAgICAgICAgICBpZiBpID4gMDoKICAgICAgICAgICAgICAgIHZhcmlhYmxlX3Njb3BlLmdldF92YXJpYWJsZV9zY29wZSgpLnJldXNlX3ZhcmlhYmxlcygpCgogICAgICAgICAgICAjIE1lcmdlIGlucHV0IGFuZCBwcmV2aW91cyBhdHRlbnRpb25zIGludG8gb25lIHZlY3RvciB4IG9mIHRoZSBzYW1lIHNpemUgYXMgaW5wCiAgICAgICAgICAgIGlucHV0X3NpemUgPSBpbnAuZ2V0X3NoYXBlKCkud2l0aF9yYW5rKDIpWzFdCiAgICAgICAgICAgIGlmIGlucHV0X3NpemUudmFsdWUgaXMgTm9uZToKICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIkNvdWxkIG5vdCBpbmZlciBpbnB1dCBzaXplIGZyb20gaW5wdXQ6ICVzIiAlIGlucC5uYW1lKQogICAgICAgICAgICB4ID0gbGluZWFyKFtpbnBdICsgW2NvbnRleHRfdmVjdG9yXSwgaW5wdXRfc2l6ZSwgVHJ1ZSkKCiAgICAgICAgICAgICMgUnVuIHRoZSBkZWNvZGVyIFJOTiBjZWxsLiBjZWxsX291dHB1dCA9IGRlY29kZXIgc3RhdGUKICAgICAgICAgICAgY2VsbF9vdXRwdXQsIHN0YXRlID0gY2VsbCh4LCBzdGF0ZSkKCiAgICAgICAgICAgICMgUnVuIHRoZSBhdHRlbnRpb24gbWVjaGFuaXNtLgogICAgICAgICAgICBpZiBpID09IDAgYW5kIGluaXRpYWxfc3RhdGVfYXR0ZW50aW9uOgogICAgICAgICAgICAgICAgIyBhbHdheXMgdHJ1ZSBpbiBkZWNvZGUgbW9kZQogICAgICAgICAgICAgICAgd2l0aCB2YXJpYWJsZV9zY29wZS52YXJpYWJsZV9zY29wZSh2YXJpYWJsZV9zY29wZS5nZXRfdmFyaWFibGVfc2NvcGUoKSwgcmV1c2U9VHJ1ZSk6CiAgICAgICAgICAgICAgICAgICAgIyB5b3UgbmVlZCB0aGlzIGJlY2F1c2UgeW91J3ZlIGFscmVhZHkgcnVuIHRoZSBpbml0aWFsIGF0dGVudGlvbiguLi4pIGNhbGwKICAgICAgICAgICAgICAgICAgICAjIGRvbid0IGFsbG93IGNvdmVyYWdlIHRvIHVwZGF0ZQogICAgICAgICAgICAgICAgICAgIGNvbnRleHRfdmVjdG9yLCBhdHRuX2Rpc3QsIF8gPSBhdHRlbnRpb24oc3RhdGUsIGNvdmVyYWdlKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgY29udGV4dF92ZWN0b3IsIGF0dG5fZGlzdCwgY292ZXJhZ2UgPSBhdHRlbnRpb24oc3RhdGUsIGNvdmVyYWdlKQogICAgICAgICAgICBhdHRuX2Rpc3RzLmFwcGVuZChhdHRuX2Rpc3QpCgogICAgICAgICAgICAjIENhbGN1bGF0ZSBwX2dlbgogICAgICAgICAgICBpZiBwb2ludGVyX2dlbjoKICAgICAgICAgICAgICAgIHdpdGggdGYudmFyaWFibGVfc2NvcGUoJ2NhbGN1bGF0ZV9wZ2VuJyk6CiAgICAgICAgICAgICAgICAgICAgIyBUZW5zb3Igc2hhcGUgKGJhdGNoX3NpemUsIDEpCiAgICAgICAgICAgICAgICAgICAgcF9nZW4gPSBsaW5lYXIoW2NvbnRleHRfdmVjdG9yLCBzdGF0ZS5jLCBzdGF0ZS5oLCB4XSwgMSwgVHJ1ZSkKICAgICAgICAgICAgICAgICAgICBwX2dlbiA9IHRmLnNpZ21vaWQocF9nZW4pCiAgICAgICAgICAgICAgICAgICAgcF9nZW5zLmFwcGVuZChwX2dlbikKCiAgICAgICAgICAgICMgQ29uY2F0ZW5hdGUgdGhlIGNlbGxfb3V0cHV0ICg9IGRlY29kZXIgc3RhdGUpIGFuZCB0aGUgY29udGV4dCB2ZWN0b3IsCiAgICAgICAgICAgICMgYW5kIHBhc3MgdGhlbSB0aHJvdWdoIGEgbGluZWFyIGxheWVyCiAgICAgICAgICAgICMgVGhpcyBpcyBWW3NfdCwgaCpfdF0gKyBiIGluIHRoZSBwYXBlcgogICAgICAgICAgICB3aXRoIHZhcmlhYmxlX3Njb3BlLnZhcmlhYmxlX3Njb3BlKCJBdHRuT3V0cHV0UHJvamVjdGlvbiIpOgogICAgICAgICAgICAgICAgb3V0cHV0ID0gbGluZWFyKFtjZWxsX291dHB1dF0gKyBbY29udGV4dF92ZWN0b3JdLCBjZWxsLm91dHB1dF9zaXplLCBUcnVlKQogICAgICAgICAgICBvdXRwdXRzLmFwcGVuZChvdXRwdXQpCgogICAgICAgICMgSWYgdXNpbmcgY292ZXJhZ2UsIHJlc2hhcGUgaXQKICAgICAgICBpZiBjb3ZlcmFnZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgY292ZXJhZ2UgPSBhcnJheV9vcHMucmVzaGFwZShjb3ZlcmFnZSwgW2JhdGNoX3NpemUsIC0xXSkKCiAgICAgICAgcmV0dXJuIG91dHB1dHMsIHN0YXRlLCBhdHRuX2Rpc3RzLCBwX2dlbnMsIGNvdmVyYWdlCgo=</text>
@@ -565,15 +565,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdHRuX2Rpc3RcPg==</last-search>
+      <last-search encoding="base64">XDxhdHRuX2Rpc3RzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdHRuX2Rpc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhdHRuX2Rpc3RzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcHJvYmFiaWxpdHlfZm5cPg==</entry>
         <entry encoding="base64">XDxsaW5lYXJcPg==</entry>
         <entry encoding="base64">XDxMdW9uZ0F0dGVudGlvblw+</entry>
         <entry encoding="base64">XDxlbmNfb3V0cHV0c1w+</entry>
@@ -593,6 +592,7 @@
         <entry encoding="base64">XDxjb3ZlcmFnZVw+</entry>
         <entry encoding="base64">XDxjb250ZXh0X3ZlY3Rvclw+</entry>
         <entry encoding="base64">XDxhdHRuX2Rpc3RcPg==</entry>
+        <entry encoding="base64">XDxhdHRuX2Rpc3RzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
