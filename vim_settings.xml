@@ -214,6 +214,13 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" timestamp="1534907927010">
+        <mark key="'" line="226" column="36" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="1" />
+        <mark key="." line="24" column="1" />
+        <mark key="^" line="24" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/helper.py" timestamp="1534392867791">
         <mark key="'" line="18" column="25" />
         <mark key="[" line="24" column="30" />
@@ -221,7 +228,7 @@
         <mark key="." line="26" column="30" />
         <mark key="^" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" timestamp="1534734198390">
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" timestamp="1534907860319">
         <mark key="'" line="132" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inference/inference.py" timestamp="1534418811343">
@@ -302,6 +309,9 @@
         <mark key="." line="73" column="57" />
         <mark key="^" line="73" column="57" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/beam_search.py" timestamp="1534907920710">
+        <mark key="'" line="121" column="89" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/cnn-dailymail/data.py" timestamp="1533634577303">
         <mark key="'" line="139" column="4" />
         <mark key="[" line="17" column="82" />
@@ -316,22 +326,12 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" timestamp="1534737843939">
-        <mark key="'" line="15" column="23" />
-        <mark key="[" line="78" column="41" />
-        <mark key="]" line="78" column="51" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" timestamp="1534908431630">
+        <mark key="'" line="101" column="32" />
         <mark key="^" line="78" column="51" />
-        <mark key="." line="78" column="51" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="75" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="201" column="22" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="186" column="42" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="179" column="37" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="156" column="32" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="146" column="32" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="114" column="27" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
       <jump line="106" column="48" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
       <jump line="75" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention.py" />
       <jump line="121" column="48" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
@@ -425,19 +425,26 @@
       <jump line="14" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inputs/inputs.py" />
       <jump line="47" column="18" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inputs/inputs.py" />
       <jump line="77" column="26" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inputs/inputs.py" />
+      <jump line="101" column="32" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
+      <jump line="55" column="64" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
+      <jump line="225" column="83" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/beam_search.py" />
+      <jump line="122" column="25" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/beam_search.py" />
+      <jump line="121" column="89" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/beam_search.py" />
+      <jump line="226" column="36" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>TrainingHelper</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9iYWJpbGl0eV9mblw+</text>
+        <text>decode_one</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IGJhc2UgYXMgYmFzZV9tb2RlbAo=</text>
+        <text encoding="base64">ZnJvbSBteWxpYi50ZW5zb3JmbG93IGltcG9ydCBpbnB1dF91dGlscwpmcm9tIG15bGliLnRlbnNvcmZsb3cgaW1wb3J0IHV0aWxzCmZyb20gLmF0dGVudGlvbiBpbXBvcnQgQmFoZGFuYXVBdHRlbnRpb24sIEx1b25nQXR0ZW50aW9uCmZyb20gLmRlY29kZXIgaW1wb3J0IEJhc2ljRGVjb2Rlcgpmcm9tIC5oZWxwZXIgaW1wb3J0IFRyYWluaW5nSGVscGVyLCBHcmVlZHlFbWJlZGRpbmdIZWxwZXIKZnJvbSBhdHRlbnRpb25fd3JhcHBlciBpbXBvcnQgQXR0ZW50aW9uV3JhcHBlcgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByYXdfZW5jX2JhdGNoX2V4dGVuZF92b2NhYiwgXAo=</text>
@@ -471,16 +478,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9iYWJpbGl0eV9mblw+</last-search>
+      <last-search>decode_one</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9iYWJpbGl0eV9mblw+</last-pattern>
+      <last-pattern>decode_one</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3X2NcPg==</entry>
-        <entry encoding="base64">XDxoYXJkbWF4XD4=</entry>
         <entry encoding="base64">XDxBdHRlbnRpb25NZWNoYW5pc21cPg==</entry>
         <entry>attention_wr</entry>
         <entry>wra</entry>
@@ -499,6 +504,8 @@
         <entry encoding="base64">XDxfcHJvYmFiaWxpdHlfZm5cPg==</entry>
         <entry encoding="base64">XDxfbHVvbmdfc2NvcmVcPg==</entry>
         <entry encoding="base64">XDxwcm9iYWJpbGl0eV9mblw+</entry>
+        <entry>decode</entry>
+        <entry>decode_one</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
