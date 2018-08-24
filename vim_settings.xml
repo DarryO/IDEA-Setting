@@ -111,6 +111,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/confs/config.py" timestamp="1535092362157">
+        <mark key="'" line="46" column="13" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="26" />
+        <mark key="^" line="49" column="28" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/tests/test_input_fn.py" timestamp="1534902223001">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="19" column="20" />
@@ -163,11 +170,12 @@
         <mark key="." line="114" column="50" />
         <mark key="^" line="114" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" timestamp="1535090497119">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="515" column="0" />
-        <mark key="]" line="515" column="0" />
-        <mark key="." line="515" column="0" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" timestamp="1535093006570">
+        <mark key="'" line="194" column="86" />
+        <mark key="[" line="289" column="72" />
+        <mark key="]" line="289" column="114" />
+        <mark key="." line="289" column="114" />
+        <mark key="^" line="289" column="114" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/confs/config.py" timestamp="1534902166689">
         <mark key="[" line="13" column="0" />
@@ -423,58 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="30" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/general.py" />
-      <jump line="346" column="27" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/general.py" />
-      <jump line="389" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
-      <jump line="19" column="42" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
-      <jump line="185" column="58" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
-      <jump line="172" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
-      <jump line="175" column="31" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
-      <jump line="124" column="18" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/decoder.py" />
-      <jump line="90" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/decoder.py" />
-      <jump line="80" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/decoder.py" />
-      <jump line="23" column="45" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/decoder.py" />
-      <jump line="361" column="79" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
-      <jump line="66" column="29" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
-      <jump line="72" column="10" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
-      <jump line="155" column="28" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/decoder.py" />
-      <jump line="289" column="105" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model_bk.py" />
-      <jump line="203" column="43" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="46" column="26" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="94" column="94" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="107" column="31" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="23" column="42" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="125" column="52" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="135" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="113" column="48" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="78" column="18" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="43" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="92" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="144" column="24" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="100" column="36" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="141" column="32" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="143" column="44" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="152" column="32" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="154" column="44" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="83" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="85" column="53" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="94" column="33" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="95" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="98" column="51" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="139" column="64" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention_decoder.py" />
-      <jump line="174" column="45" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="122" column="51" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="124" column="20" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="157" column="46" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="159" column="66" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="118" column="39" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="123" column="18" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="161" column="28" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="172" column="28" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
-      <jump line="36" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
       <jump line="48" column="31" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
       <jump line="49" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
       <jump line="50" column="48" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" />
@@ -523,80 +479,132 @@
       <jump line="85" column="9" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inputs/inputs.py" />
       <jump line="54" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inputs/inputs.py" />
       <jump line="83" column="21" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inputs/inputs.py" />
+      <jump line="269" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="54" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="99" column="53" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="291" column="105" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="32" column="1" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/confs/config.py" />
+      <jump line="47" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/confs/config.py" />
+      <jump line="49" column="18" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="57" column="35" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="39" column="43" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="214" column="40" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="37" column="19" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="246" column="32" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="247" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="248" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="258" column="63" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="260" column="70" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="262" column="70" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="275" column="65" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="298" column="65" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="308" column="90" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="300" column="47" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="309" column="90" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="324" column="81" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="200" column="95" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="205" column="99" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="80" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="299" column="36" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="201" column="95" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="206" column="99" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="215" column="21" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="43" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="263" column="82" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="261" column="82" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="44" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="287" column="105" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="18" column="31" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="446" column="22" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="404" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="403" column="92" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="395" column="86" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="193" column="72" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="188" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="187" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="190" column="37" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="289" column="71" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="288" column="105" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="72" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="90" column="102" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="91" column="100" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="170" column="73" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="189" column="24" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
+      <jump line="194" column="86" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmNfYmF0Y2hcPg==</text>
+        <text>prev_coverage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnZW5jX3Bvc19iYXRjaCc6IGVuY19wb3NfYmF0Y2gsCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0X3ByZXZfY292ZXJhZ2UgPSBzZWxmLnRleHRfcHJldl9jb3ZlcmFnZSBpZiBzZWxmLl9pc19pbmZlciBhbmQgc2VsZi5fY292ZXJhZ2UgZWxzZSBOb25lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhwYXJhbV9saXN0ID0gWydtb2RlJywgJ2JhdGNoX3NpemUnLCAnbWF4X2RlY19zdGVwcycsCiAgICAgICAgICAgICAgICAgICAnbWF4X2VuY19zdGVwcycgJ3BvaW50ZXJfZ2VuJ10K</text>
+        <text encoding="base64">ICAgICAgICBzZW1fcHJldl9jb3ZlcmFnZSA9IHNlbGYuc2VtX3ByZXZfY292ZXJhZ2UgaWYgc2VsZi5faXNfaW5mZXIgYW5kIHNlbGYuX2NvdmVyYWdlIGVsc2UgTm9uZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICcnJwogICAgICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKCdleHRlcm5hbCcpOgogICAgICAgICAgICAgICAgb3V0dGVyX2VtYmVkZGluZyA9IHRmLmdldF92YXJpYWJsZSgnZW1iZWRkaW5nJywgW3ZzaXplLCA1MF0sIGR0eXBlPXRmLmZsb2F0MzIpCiAgICAgICAgICAgICAgICBvdXR0ZXJfZW1iZWRkaW5nX2lucHV0cyA9IHRmLm5uLmVtYmVkZGluZ19sb29rdXAob3V0dGVyX2VtYmVkZGluZywgc2VsZi5fZW5jX2JhdGNoKQoKICAgICAgICAgICAgZW1iX2VuY19pbnB1dHMgPSB0Zi5jb25jYXQoW2VtYl9lbmNfaW5wdXRzLCBvdXR0ZXJfZW1iZWRkaW5nX2lucHV0c10sIC0xKQogICAgICAgICAgICAnJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVtYl9kaW0gPSAxMjgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhwYXJhbV9saXN0ID0gWydtb2RlJywgJ2JhdGNoX3NpemUnLCAnbWF4X2RlY19zdGVwcycsCiAgICAgICAgICAgICAgICAgICAnbWF4X2VuY19zdGVwcycgJ3BvaW50ZXJfZ2VuJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGluZmVyZW5jZShhcnRpY2xlLCBhYnN0cmFjdCk6CiAgICBwYXNzCgoK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbCBpbXBvcnQgU3VtbWFyaXphdGlvbk1vZGVsCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbHMucG9pbnRlcl9nZW5lcmF0b3IuaW5wdXRzLmlucHV0cyBpbXBvcnQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZCA9IE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBpbnB1dHMuc3VtbWFyaXphdGlvbl9nZW5lcmF0b3JfaW5wdXRzIGltcG9ydCBpbmZlcl9pbnB1dF9mbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbmNfYmF0Y2hcPg==</last-search>
+      <last-search>prev_coverage</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmNfYmF0Y2hcPg==</last-pattern>
+      <last-pattern>prev_coverage</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbmNvZGVyX2ZlYXR1cmVzXD4=</entry>
-        <entry encoding="base64">XDx3X2NcPg==</entry>
-        <entry>w_c</entry>
-        <entry>v</entry>
-        <entry encoding="base64">XDx2XD4=</entry>
-        <entry encoding="base64">XDxjb3ZlcmFnZVw+</entry>
-        <entry encoding="base64">XDxjb250ZXh0X3ZlY3Rvclw+</entry>
-        <entry encoding="base64">XDxhdHRuX2Rpc3RcPg==</entry>
-        <entry encoding="base64">XDxhdHRuX2Rpc3RzXD4=</entry>
-        <entry encoding="base64">XDxydW5fZW5jb2Rlclw+</entry>
-        <entry encoding="base64">XDxXX2hcPg==</entry>
-        <entry encoding="base64">XDx3X2hcPg==</entry>
-        <entry encoding="base64">XDxpbmZlcl9pbnB1dF9mblw+</entry>
-        <entry encoding="base64">XDxpbnB1dF9mblw+</entry>
-        <entry encoding="base64">XDxtb2RlbF9pbmZlcmVuY2VfZm5cPg==</entry>
         <entry>pos</entry>
         <entry encoding="base64">XDxlbmNfcG9zX2lucHV0XD4=</entry>
         <entry encoding="base64">XDxyYXdfZW5jX2JhdGNoXD4=</entry>
         <entry encoding="base64">XDxlbmNfcG9zX2JhdGNoXD4=</entry>
         <entry encoding="base64">XDxlbmNfYmF0Y2hcPg==</entry>
+        <entry encoding="base64">XDxfZW5jX2JhdGNoXD4=</entry>
+        <entry>vcab</entry>
+        <entry encoding="base64">XDx3b3JkX3ZvY2FiX3NpemVcPg==</entry>
+        <entry>vocab</entry>
+        <entry>vocab_sie</entry>
+        <entry>vocab_size</entry>
+        <entry>vsize</entry>
+        <entry>esm</entry>
+        <entry encoding="base64">XDxfZW1iX2RpbVw+</entry>
+        <entry encoding="base64">XDxfc2VtX2VtYl9kaW1cPg==</entry>
+        <entry encoding="base64">XDxhdHRlbnRpb25fZGVjb2Rlclw+</entry>
+        <entry encoding="base64">XDxwcmV2X2NvdmVyYWdlXD4=</entry>
+        <entry>prev</entry>
+        <entry encoding="base64">XDxfYWRkX2RlY29kZXJcPg==</entry>
+        <entry>prev_coverage</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
