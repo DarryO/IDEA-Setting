@@ -102,6 +102,10 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention.py" timestamp="1534921003546">
+        <mark key="'" line="124" column="12" />
+        <mark key="^" line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/base/confs/config.py" timestamp="1534403753690">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="22" />
@@ -179,11 +183,8 @@
         <mark key="." line="114" column="50" />
         <mark key="^" line="114" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" timestamp="1535108148698">
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" timestamp="1535438840621">
         <mark key="'" line="428" column="12" />
-        <mark key="[" line="455" column="41" />
-        <mark key="]" line="456" column="48" />
-        <mark key="." line="456" column="48" />
         <mark key="^" line="456" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/confs/config.py" timestamp="1534902166689">
@@ -557,31 +558,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiISEhISEhISEhISEhISEhIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fZW5jXwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb3ZlcmFnZV9sb3NzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiISEhISEhISEhISEhISEhIikK</text>
+        <text encoding="base64">ICAgIGNvdmVyYWdlX2xvc3MgPSAodGV4dF9jb3ZlcmFnZV9sb3NzICsgc2VtX2NvdmVyYWdlX2xvc3MpIC8gMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiISEhISEhISEhISEhISEhIikK</text>
+        <text encoding="base64">ICAgIHNlbV9jb3ZlcmFnZV9sb3NzID0gX21hc2tfYW5kX2F2ZyhzZW1fY292bG9zc2VzLCBwYWRkaW5nX21hc2spCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiISEhISEhISEhISEhIikK</text>
+        <text encoding="base64">ICAgIHRleHRfY292ZXJhZ2VfbG9zcyA9IF9tYXNrX2FuZF9hdmcodGV4dF9jb3Zsb3NzZXMsIHBhZGRpbmdfbWFzaykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQEBAQEBAQEBAQEBAQEBAQEBAQEBAIikK</text>
+        <text encoding="base64">ICAgICAgICBzZW1fY292ZXJhZ2UgKz0gc2VtX2EgICMgdXBkYXRlIHRoZSBjb3ZlcmFnZSB2ZWN0b3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiMX5+fn5+fn5+fn4qKioqKioqKioqKioqIikK</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0X2NvdmVyYWdlICs9IHRleHRfYSAgIyB1cGRhdGUgdGhlIGNvdmVyYWdlIHZlY3Rvcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiMn5+fn5+fn5+fn4qKioqKioqKioqKioqIikK</text>
+        <text encoding="base64">ICAgICAgICBzZW1fY292bG9zc2VzLmFwcGVuZChzZW1fY292bG9zcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ+fn5+fn5+fn5+KioqKioqKioqKioqKiIpCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0X2Nvdmxvc3Nlcy5hcHBlbmQodGV4dF9jb3Zsb3NzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
