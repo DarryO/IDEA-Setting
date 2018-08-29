@@ -110,8 +110,8 @@
         <mark key="." line="52" column="51" />
         <mark key="^" line="52" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" timestamp="1535525633360">
-        <mark key="'" line="212" column="0" />
+      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" timestamp="1535526874333">
+        <mark key="'" line="318" column="12" />
         <mark key="[" line="211" column="49" />
         <mark key="]" line="211" column="48" />
         <mark key="." line="211" column="48" />
@@ -196,12 +196,12 @@
         <mark key="." line="50" column="63" />
         <mark key="^" line="50" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" timestamp="1535474568743">
-        <mark key="'" line="148" column="13" />
-        <mark key="[" line="234" column="50" />
-        <mark key="]" line="234" column="53" />
-        <mark key="^" line="234" column="53" />
-        <mark key="." line="234" column="53" />
+      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" timestamp="1535527261944">
+        <mark key="'" line="57" column="12" />
+        <mark key="[" line="235" column="53" />
+        <mark key="]" line="235" column="48" />
+        <mark key="^" line="235" column="48" />
+        <mark key="." line="235" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/playground/tf/attention.py" timestamp="1534498214759">
         <mark key="'" line="25" column="0" />
@@ -483,12 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="73" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="318" column="22" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="234" column="24" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="135" column="33" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="148" column="13" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="143" column="19" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
       <jump line="147" column="31" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
       <jump line="93" column="41" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
       <jump line="89" column="46" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
@@ -583,6 +577,12 @@
       <jump line="39" column="32" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
       <jump line="610" column="4" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
       <jump line="111" column="9" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
+      <jump line="232" column="8" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
+      <jump line="318" column="12" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
+      <jump line="382" column="14" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
+      <jump line="234" column="59" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
+      <jump line="57" column="12" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -592,7 +592,7 @@
         <text encoding="base64">J3NlbV9lbWJfZGltJywg</text>
       </register>
       <register name="/" type="4">
-        <text>reduce_states</text>
+        <text>assert</text>
       </register>
       <register name="0" type="4">
         <text>,FLAGS.pos_vocab_path</text>
@@ -629,15 +629,14 @@
       </register>
     </registers>
     <search>
-      <last-search>reduce_states</last-search>
+      <last-search>assert</last-search>
       <last-offset />
-      <last-pattern>reduce_states</last-pattern>
+      <last-pattern>assert</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxydW5fdHJhaW5pbmdcPg==</entry>
         <entry>run_train_step</entry>
         <entry encoding="base64">XDxfbWFrZV9mZWVkX2RpY3RcPg==</entry>
         <entry>seq2seq</entry>
@@ -657,6 +656,7 @@
         <entry encoding="base64">XDxocHNcPg==</entry>
         <entry>vocab_path</entry>
         <entry>reduce_states</entry>
+        <entry>assert</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -677,6 +677,7 @@
         <entry>92</entry>
         <entry>160</entry>
         <entry>q</entry>
+        <entry>235</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
