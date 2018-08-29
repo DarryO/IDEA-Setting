@@ -16,8 +16,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" timestamp="1535475384110">
-        <mark key="'" line="185" column="8" />
+      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" timestamp="1535526107640">
+        <mark key="'" line="39" column="32" />
+        <mark key="[" line="329" column="90" />
+        <mark key="]" line="330" column="18" />
+        <mark key="." line="330" column="18" />
+        <mark key="^" line="330" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/inference.py" timestamp="1535107356019">
         <mark key="'" line="48" column="27" />
@@ -40,11 +44,12 @@
         <mark key="." line="19" column="9" />
         <mark key="^" line="19" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" timestamp="1535520732143">
-        <mark key="'" line="31" column="34" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" timestamp="1535526293899">
+        <mark key="'" line="111" column="9" />
+        <mark key="[" line="296" column="63" />
+        <mark key="]" line="296" column="63" />
+        <mark key="." line="296" column="63" />
+        <mark key="^" line="296" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/__init__.py" timestamp="1535087711992">
         <mark key="[" line="0" column="0" />
@@ -105,8 +110,8 @@
         <mark key="." line="52" column="51" />
         <mark key="^" line="52" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" timestamp="1535475301229">
-        <mark key="'" line="69" column="18" />
+      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" timestamp="1535525633360">
+        <mark key="'" line="212" column="0" />
         <mark key="[" line="211" column="49" />
         <mark key="]" line="211" column="48" />
         <mark key="." line="211" column="48" />
@@ -140,6 +145,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/decode.py" timestamp="1535525579163">
+        <mark key="[" line="249" column="51" />
+        <mark key="]" line="250" column="3" />
+        <mark key="^" line="250" column="3" />
+        <mark key="." line="250" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/confs/config.py" timestamp="1535093300681">
         <mark key="'" line="46" column="13" />
@@ -235,9 +246,6 @@
         <mark key="]" line="32" column="40" />
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/helper.py" timestamp="1534737979632">
-        <mark key="'" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/inputs/utils.py" timestamp="1534390689831">
         <mark key="'" line="86" column="0" />
@@ -440,14 +448,11 @@
         <mark key="." line="73" column="57" />
         <mark key="^" line="73" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/beam_search.py" timestamp="1534907920710">
-        <mark key="'" line="121" column="89" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/attention_decoder.py" timestamp="1535519981184">
-        <mark key="[" line="68" column="26" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="69" column="0" />
+      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/attention_decoder.py" timestamp="1535523409529">
+        <mark key="'" line="275" column="26" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="59" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ali/cnn-dailymail/data.py" timestamp="1533634577303">
         <mark key="'" line="139" column="4" />
@@ -478,65 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="110" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="112" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="113" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="114" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="116" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="389" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/decode.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/beam_search.py" />
-      <jump line="236" column="55" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="299" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="442" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="599" column="18" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="600" column="26" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="602" column="32" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="603" column="22" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="605" column="19" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="598" column="22" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="38" column="39" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="64" column="48" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="76" column="18" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="96" column="92" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="263" column="65" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="282" column="80" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="105" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="78" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="246" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="455" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="298" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="294" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="199" column="35" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="410" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="453" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="402" column="52" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="293" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="126" column="54" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/beam_search.py" />
-      <jump line="121" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/beam_search.py" />
-      <jump line="123" column="6" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/beam_search.py" />
-      <jump line="416" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="428" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="297" column="28" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="359" column="8" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="292" column="8" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="30" column="23" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="34" column="10" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="45" column="22" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
-      <jump line="112" column="20" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
-      <jump line="115" column="63" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
-      <jump line="120" column="19" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
-      <jump line="125" column="22" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
-      <jump line="141" column="34" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
-      <jump line="111" column="4" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
-      <jump line="27" column="6" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="31" column="27" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="342" column="67" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="230" column="40" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
-      <jump line="240" column="13" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
       <jump line="319" column="73" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
       <jump line="318" column="22" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
       <jump line="234" column="24" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" />
@@ -556,7 +502,6 @@
       <jump line="67" column="18" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
       <jump line="16" column="33" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
-      <jump line="39" column="60" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
       <jump line="70" column="274" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
       <jump line="76" column="284" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
       <jump line="78" column="177" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
@@ -571,87 +516,147 @@
       <jump line="154" column="19" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
       <jump line="185" column="8" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
-      <jump line="346" column="25" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
-      <jump line="359" column="25" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
-      <jump line="380" column="25" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
       <jump line="31" column="34" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
       <jump line="36" column="24" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/attention_decoder.py" />
       <jump line="240" column="0" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/attention_decoder.py" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/attention_decoder.py" />
+      <jump line="390" column="0" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="105" column="88" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="206" column="22" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="18" column="1" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="275" column="26" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/attention_decoder.py" />
+      <jump line="261" column="57" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="266" column="57" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="265" column="45" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="347" column="50" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="349" column="68" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="410" column="46" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="424" column="46" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="545" column="4" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="380" column="4" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="35" column="13" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="381" column="74" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="61" column="95" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="103" column="75" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="102" column="75" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="264" column="81" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="262" column="81" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="205" column="27" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="337" column="4" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="295" column="51" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="304" column="90" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="359" column="108" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="183" column="95" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="189" column="99" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="203" column="109" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="216" column="48" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="218" column="99" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="222" column="65" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="248" column="13" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="249" column="12" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="250" column="12" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="520" column="22" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="521" column="22" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="173" column="36" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="460" column="12" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="472" column="12" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="51" column="69" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="275" column="0" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="314" column="42" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="67" column="29" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="350" column="14" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="200" column="34" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="346" column="0" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="361" column="16" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="212" column="0" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" />
+      <jump line="318" column="61" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="60" column="29" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="327" column="24" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="236" column="0" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="344" column="35" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="342" column="7" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="338" column="46" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="330" column="18" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="37" column="28" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="38" column="32" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="39" column="32" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" />
+      <jump line="610" column="4" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
+      <jump line="111" column="9" filename="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">J3NlbV9lbWJfZGltJywg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbWFrZV9mZWVkX2RpY3RcPg==</text>
+        <text>reduce_states</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZnBhdGggKyAnLnBvcycsICJ3IikgYXMgZjoKICAgICAgICAgICAgZmllbGRuYW1lcyA9IFsncG9zJ10KICAgICAgICAgICAgd3JpdGVyID0gY3N2LkRpY3RXcml0ZXIoZiwgZGVsaW1pdGVyPSJcdCIsIGZpZWxkbmFtZXM9ZmllbGRuYW1lcykKICAgICAgICAgICAgZm9yIGkgaW4geHJhbmdlKHNlbGYucG9zX3NpemUoKSk6CiAgICAgICAgICAgICAgICB3cml0ZXIud3JpdGVyb3coeyJwb3MiOiBzZWxmLl9wb3NfaWRfdG9fd29yZFtpXX0pCg==</text>
+      <register name="0" type="4">
+        <text>,FLAGS.pos_vocab_path</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxhdGVzdF90b2tlbnM6IFRva2VucyB0byBiZSBmZWQgYXMgaW5wdXQgaW50byB0aGUgZGVjb2RlciBmb3IgdGhpcyB0aW1lc3RlcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fZGVjX2luX3N0YXRlID0gc2VsZi5fcmVkdWNlX3N0YXRlcyhmd19zdCwgYndfc3QpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhdGNoOiBCYXRjaCBvYmplY3QgY29udGFpbmluZyBzaW5nbGUgZXhhbXBsZSByZXBlYXRlZCBhY3Jvc3MgdGhlIGJhdGNoCg==</text>
+        <text encoding="base64">ICAgICMgY3JlYXRlIGEgdm9jYWJ1bGFyeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlc3M6IFRlbnNvcmZsb3cgc2Vzc2lvbi4K</text>
+        <text encoding="base64">ICAgICAgICAjIFRoZSBtb2RlbCBpcyBjb25maWd1cmVkIHdpdGggbWF4X2RlY19zdGVwcz0xIGJlY2F1c2Ugd2Ugb25seSBldmVyIHJ1biBvbmUgc3RlcCBvZiB0aGUgZGVjb2RlciBhdCBhIHRpbWUgKHRvIGRvIGJlYW0gc2VhcmNoKS4gTm90ZSB0aGF0IHRoZSBiYXRjaGVyIGlzIGluaXRpYWxpemVkIHdpdGggbWF4X2RlY19zdGVwcyBlcXVhbCB0byBlLmcuIDEwMCBiZWNhdXNlIHRoZSBiYXRjaGVzIG5lZWQgdG8gY29udGFpbiB0aGUgZnVsbCBzdW1tYXJpZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBcmdzOgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWNvZGVfbW9kZWxfaHBzID0gaHBzICAjIFRoaXMgd2lsbCBiZSB0aGUgaHlwZXJwYXJhbWV0ZXJzIGZvciB0aGUgZGVjb2RlciBtb2RlbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBydW5fZW5jb2RlcihzZWxmLCBzZXNzLCBiYXRjaCk6CiAgICAgICAgIiIiRm9yIGJlYW0gc2VhcmNoIGRlY29kaW5nLiBSdW4gdGhlIGVuY29kZXIgb24gdGhlIGJhdGNoIGFuZCByZXR1cm4gdGhlIGVuY29kZXIgc3RhdGVzIGFuZCBkZWNvZGVyIGluaXRpYWwgc3RhdGUuCgogICAgICAgIEFyZ3M6CiAgICAgICAgICBzZXNzOiBUZW5zb3JmbG93IHNlc3Npb24uCiAgICAgICAgICBiYXRjaDogQmF0Y2ggb2JqZWN0IHRoYXQgaXMgdGhlIHNhbWUgZXhhbXBsZSByZXBlYXRlZCBhY3Jvc3MgdGhlIGJhdGNoIChmb3IgYmVhbSBzZWFyY2gpCgogICAgICAgIFJldHVybnM6CiAgICAgICAgICBlbmNfc3RhdGVzOiBUaGUgZW5jb2RlciBzdGF0ZXMuIEEgdGVuc29yIG9mIHNoYXBlIFtiYXRjaF9zaXplLCA8PW1heF9lbmNfc3RlcHMsIDIqaGlkZGVuX2RpbV0uCiAgICAgICAgICBkZWNfaW5fc3RhdGU6IEEgTFNUTVN0YXRlVHVwbGUgb2Ygc2hhcGUgKFsxLGhpZGRlbl9kaW1dLFsxLGhpZGRlbl9kaW1dKQogICAgICAgICIiIgogICAgICAgIGZlZWRfZGljdCA9IHNlbGYuX21ha2VfZmVlZF9kaWN0KGJhdGNoLCBqdXN0X2VuYz1UcnVlKSAgIyBmZWVkIHRoZSBiYXRjaCBpbnRvIHRoZSBwbGFjZWhvbGRlcnMKICAgICAgICAoZW5jX3N0YXRlcywgZGVjX2luX3N0YXRlLCBnbG9iYWxfc3RlcCkgPSBzZXNzLnJ1bihbc2VsZi5fZW5jX3N0YXRlcywgc2VsZi5fZGVjX2luX3N0YXRlLCBzZWxmLmdsb2JhbF9zdGVwXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmZWVkX2RpY3QpICAjIHJ1biB0aGUgZW5jb2RlcgoKICAgICAgICAjIGRlY19pbl9zdGF0ZSBpcyBMU1RNU3RhdGVUdXBsZSBzaGFwZSAoW2JhdGNoX3NpemUsaGlkZGVuX2RpbV0sW2JhdGNoX3NpemUsaGlkZGVuX2RpbV0pCiAgICAgICAgIyBHaXZlbiB0aGF0IHRoZSBiYXRjaCBpcyBhIHNpbmdsZSBleGFtcGxlIHJlcGVhdGVkLAogICAgICAgICMgZGVjX2luX3N0YXRlIGlzIGlkZW50aWNhbCBhY3Jvc3MgdGhlIGJhdGNoIHNvIHdlIGp1c3QgdGFrZSB0aGUgdG9wIHJvdy4KICAgICAgICBkZWNfaW5fc3RhdGUgPSB0Zi5jb250cmliLnJubi5MU1RNU3RhdGVUdXBsZShkZWNfaW5fc3RhdGUuY1swXSwgZGVjX2luX3N0YXRlLmhbMF0pCiAgICAgICAgcmV0dXJuIGVuY19zdGF0ZXMsIGRlY19pbl9zdGF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJGb3IgYmVhbSBzZWFyY2ggZGVjb2RpbmcuIFJ1biB0aGUgZGVjb2RlciBmb3Igb25lIHN0ZXAuCg==</text>
+        <text encoding="base64">ICAgIGRlZiBkZWNvZGVfb25lc3RlcChzZWxmLCBzZXNzLCBiYXRjaCwgbGF0ZXN0X3Rva2VucywgZW5jX3N0YXRlcywgZGVjX2luaXRfc3RhdGVzLCBwcmV2X2NvdmVyYWdlKToKICAgICAgICAiIiJGb3IgYmVhbSBzZWFyY2ggZGVjb2RpbmcuIFJ1biB0aGUgZGVjb2RlciBmb3Igb25lIHN0ZXAuCgogICAgICAgIEFyZ3M6CiAgICAgICAgICBzZXNzOiBUZW5zb3JmbG93IHNlc3Npb24uCiAgICAgICAgICBiYXRjaDogQmF0Y2ggb2JqZWN0IGNvbnRhaW5pbmcgc2luZ2xlIGV4YW1wbGUgcmVwZWF0ZWQgYWNyb3NzIHRoZSBiYXRjaAogICAgICAgICAgbGF0ZXN0X3Rva2VuczogVG9rZW5zIHRvIGJlIGZlZCBhcyBpbnB1dCBpbnRvIHRoZSBkZWNvZGVyIGZvciB0aGlzIHRpbWVzdGVwCiAgICAgICAgICBlbmNfc3RhdGVzOiBUaGUgZW5jb2RlciBzdGF0ZXMuCiAgICAgICAgICBkZWNfaW5pdF9zdGF0ZXM6IExpc3Qgb2YgYmVhbV9zaXplIExTVE1TdGF0ZVR1cGxlczsgdGhlIGRlY29kZXIgc3RhdGVzIGZyb20gdGhlIHByZXZpb3VzIHRpbWVzdGVwCiAgICAgICAgICBwcmV2X2NvdmVyYWdlOiBMaXN0IG9mIG5wIGFycmF5cy4gVGhlIGNvdmVyYWdlIHZlY3RvcnMgZnJvbSB0aGUgcHJldmlvdXMgdGltZXN0ZXAuIExpc3Qgb2YgTm9uZSBpZiBub3QgdXNpbmcgY292ZXJhZ2UuCgogICAgICAgIFJldHVybnM6CiAgICAgICAgICBpZHM6IHRvcCAyayBpZHMuIHNoYXBlIFtiZWFtX3NpemUsIDIqYmVhbV9zaXplXQogICAgICAgICAgcHJvYnM6IHRvcCAyayBsb2cgcHJvYmFiaWxpdGllcy4gc2hhcGUgW2JlYW1fc2l6ZSwgMipiZWFtX3NpemVdCiAgICAgICAgICBuZXdfc3RhdGVzOiBuZXcgc3RhdGVzIG9mIHRoZSBkZWNvZGVyLiBhIGxpc3QgbGVuZ3RoIGJlYW1fc2l6ZSBjb250YWluaW5nCiAgICAgICAgICAgIExTVE1TdGF0ZVR1cGxlcyBlYWNoIG9mIHNoYXBlIChbaGlkZGVuX2RpbSxdLFtoaWRkZW5fZGltLF0pCiAgICAgICAgICBhdHRuX2Rpc3RzOiBMaXN0IGxlbmd0aCBiZWFtX3NpemUgY29udGFpbmluZyBsaXN0cyBsZW5ndGggYXR0bl9sZW5ndGguCiAgICAgICAgICBwX2dlbnM6IEdlbmVyYXRpb24gcHJvYmFiaWxpdGllcyBmb3IgdGhpcyBzdGVwLiBBIGxpc3QgbGVuZ3RoIGJlYW1fc2l6ZS4gTGlzdCBvZiBOb25lIGlmIGluIGJhc2VsaW5lIG1vZGUuCiAgICAgICAgICBuZXdfY292ZXJhZ2U6IENvdmVyYWdlIHZlY3RvcnMgZm9yIHRoaXMgc3RlcC4gQSBsaXN0IG9mIGFycmF5cy4gTGlzdCBvZiBOb25lIGlmIGNvdmVyYWdlIGlzIG5vdCB0dXJuZWQgb24uCiAgICAgICAgIiIiCgogICAgICAgIGJlYW1fc2l6ZSA9IGxlbihkZWNfaW5pdF9zdGF0ZXMpCgogICAgICAgICMgVHVybiBkZWNfaW5pdF9zdGF0ZXMgKGEgbGlzdCBvZiBMU1RNU3RhdGVUdXBsZXMpIGludG8gYSBzaW5nbGUgTFNUTVN0YXRlVHVwbGUgZm9yIHRoZSBiYXRjaAogICAgICAgIGNlbGxzID0gW25wLmV4cGFuZF9kaW1zKHN0YXRlLmMsIGF4aXM9MCkgZm9yIHN0YXRlIGluIGRlY19pbml0X3N0YXRlc10KICAgICAgICBoaWRkZW5zID0gW25wLmV4cGFuZF9kaW1zKHN0YXRlLmgsIGF4aXM9MCkgZm9yIHN0YXRlIGluIGRlY19pbml0X3N0YXRlc10KICAgICAgICBuZXdfYyA9IG5wLmNvbmNhdGVuYXRlKGNlbGxzLCBheGlzPTApICAjIHNoYXBlIFtiYXRjaF9zaXplLGhpZGRlbl9kaW1dCiAgICAgICAgbmV3X2ggPSBucC5jb25jYXRlbmF0ZShoaWRkZW5zLCBheGlzPTApICAjIHNoYXBlIFtiYXRjaF9zaXplLGhpZGRlbl9kaW1dCiAgICAgICAgbmV3X2RlY19pbl9zdGF0ZSA9IHRmLmNvbnRyaWIucm5uLkxTVE1TdGF0ZVR1cGxlKG5ld19jLCBuZXdfaCkKCiAgICAgICAgZmVlZCA9IHsKICAgICAgICAgICAgc2VsZi5fZW5jX3N0YXRlczogZW5jX3N0YXRlcywKICAgICAgICAgICAgc2VsZi5fZW5jX3BhZGRpbmdfbWFzazogYmF0Y2guZW5jX3BhZGRpbmdfbWFzaywKICAgICAgICAgICAgc2VsZi5fZGVjX2luX3N0YXRlOiBuZXdfZGVjX2luX3N0YXRlLAogICAgICAgICAgICBzZWxmLl9kZWNfYmF0Y2g6IG5wLnRyYW5zcG9zZShucC5hcnJheShbbGF0ZXN0X3Rva2Vuc10pKSwKICAgICAgICB9CgogICAgICAgIHRvX3JldHVybiA9IHsKICAgICAgICAgICAgImlkcyI6IHNlbGYuX3RvcGtfaWRzLAogICAgICAgICAgICAicHJvYnMiOiBzZWxmLl90b3BrX2xvZ19wcm9icywKICAgICAgICAgICAgInN0YXRlcyI6IHNlbGYuX2RlY19vdXRfc3RhdGUsCiAgICAgICAgICAgICJhdHRuX2Rpc3RzIjogc2VsZi5hdHRuX2Rpc3RzCiAgICAgICAgfQoKICAgICAgICBpZiBGTEFHUy5wb2ludGVyX2dlbjoKICAgICAgICAgICAgZmVlZFtzZWxmLl9lbmNfYmF0Y2hfZXh0ZW5kX3ZvY2FiXSA9IGJhdGNoLmVuY19iYXRjaF9leHRlbmRfdm9jYWIKICAgICAgICAgICAgZmVlZFtzZWxmLl9tYXhfYXJ0X29vdnNdID0gYmF0Y2gubWF4X2FydF9vb3ZzCiAgICAgICAgICAgIHRvX3JldHVyblsncF9nZW5zJ10gPSBzZWxmLnBfZ2VucwoKICAgICAgICBpZiBzZWxmLl9ocHMuY292ZXJhZ2U6CiAgICAgICAgICAgIGZlZWRbc2VsZi5wcmV2X2NvdmVyYWdlXSA9IG5wLnN0YWNrKHByZXZfY292ZXJhZ2UsIGF4aXM9MCkKICAgICAgICAgICAgdG9fcmV0dXJuWydjb3ZlcmFnZSddID0gc2VsZi5jb3ZlcmFnZQoKICAgICAgICByZXN1bHRzID0gc2Vzcy5ydW4odG9fcmV0dXJuLCBmZWVkX2RpY3Q9ZmVlZCkgICMgcnVuIHRoZSBkZWNvZGVyIHN0ZXAKCiAgICAgICAgIyBDb252ZXJ0IHJlc3VsdHNbJ3N0YXRlcyddIChhIHNpbmdsZSBMU1RNU3RhdGVUdXBsZSkgaW50byBhIGxpc3Qgb2YgTFNUTVN0YXRlVHVwbGUgLS0gb25lIGZvciBlYWNoIGh5cG90aGVzaXMKICAgICAgICBuZXdfc3RhdGVzID0gW3RmLmNvbnRyaWIucm5uLkxTVE1TdGF0ZVR1cGxlKHJlc3VsdHNbJ3N0YXRlcyddLmNbaSwgOl0sIHJlc3VsdHNbJ3N0YXRlcyddLmhbaSwgOl0pIGZvciBpIGluCiAgICAgICAgICAgICAgICAgICAgICB4cmFuZ2UoYmVhbV9zaXplKV0KCiAgICAgICAgIyBDb252ZXJ0IHNpbmdsZXRvbiBsaXN0IGNvbnRhaW5pbmcgYSB0ZW5zb3IgdG8gYSBsaXN0IG9mIGsgYXJyYXlzCiAgICAgICAgYXNzZXJ0IGxlbihyZXN1bHRzWydhdHRuX2Rpc3RzJ10pID09IDEKICAgICAgICBhdHRuX2Rpc3RzID0gcmVzdWx0c1snYXR0bl9kaXN0cyddWzBdLnRvbGlzdCgpCgogICAgICAgIGlmIEZMQUdTLnBvaW50ZXJfZ2VuOgogICAgICAgICAgICAjIENvbnZlcnQgc2luZ2xldG9uIGxpc3QgY29udGFpbmluZyBhIHRlbnNvciB0byBhIGxpc3Qgb2YgayBhcnJheXMKICAgICAgICAgICAgYXNzZXJ0IGxlbihyZXN1bHRzWydwX2dlbnMnXSkgPT0gMQogICAgICAgICAgICBwX2dlbnMgPSByZXN1bHRzWydwX2dlbnMnXVswXS50b2xpc3QoKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHBfZ2VucyA9IFtOb25lIGZvciBfIGluIHhyYW5nZShiZWFtX3NpemUpXQoKICAgICAgICAjIENvbnZlcnQgdGhlIGNvdmVyYWdlIHRlbnNvciB0byBhIGxpc3QgbGVuZ3RoIGsgY29udGFpbmluZyB0aGUgY292ZXJhZ2UgdmVjdG9yIGZvciBlYWNoIGh5cG90aGVzaXMKICAgICAgICBpZiBGTEFHUy5jb3ZlcmFnZToKICAgICAgICAgICAgbmV3X2NvdmVyYWdlID0gcmVzdWx0c1snY292ZXJhZ2UnXS50b2xpc3QoKQogICAgICAgICAgICBhc3NlcnQgbGVuKG5ld19jb3ZlcmFnZSkgPT0gYmVhbV9zaXplCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbmV3X2NvdmVyYWdlID0gW05vbmUgZm9yIF8gaW4geHJhbmdlKGJlYW1fc2l6ZSldCgogICAgICAgIHJldHVybiByZXN1bHRzWydpZHMnXSwgcmVzdWx0c1sncHJvYnMnXSwgbmV3X3N0YXRlcywgYXR0bl9kaXN0cywgcF9nZW5zLCBuZXdfY292ZXJhZ2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBkZWNvZGVfb25lc3RlcChzZWxmLCBzZXNzLCBiYXRjaCwgbGF0ZXN0X3Rva2VucywgZW5jX3N0YXRlcywgZGVjX2luaXRfc3RhdGVzLCBwcmV2X2NvdmVyYWdlKToK</text>
+        <text encoding="base64">ZGVmIF9jb3ZlcmFnZV9sb3NzKGF0dG5fZGlzdHMsIHBhZGRpbmdfbWFzayk6CiAgICAiIiJDYWxjdWxhdGVzIHRoZSBjb3ZlcmFnZSBsb3NzIGZyb20gdGhlIGF0dGVudGlvbiBkaXN0cmlidXRpb25zLgoKICAgIEFyZ3M6CiAgICAgIGF0dG5fZGlzdHM6IFRoZSBhdHRlbnRpb24gZGlzdHJpYnV0aW9ucyBmb3IgZWFjaCBkZWNvZGVyIHRpbWVzdGVwLiBBIGxpc3QgbGVuZ3RoIG1heF9kZWNfc3RlcHMgY29udGFpbmluZyBzaGFwZSAoYmF0Y2hfc2l6ZSwgYXR0bl9sZW5ndGgpCiAgICAgIHBhZGRpbmdfbWFzazogc2hhcGUgKGJhdGNoX3NpemUsIG1heF9kZWNfc3RlcHMpLgoKICAgIFJldHVybnM6CiAgICAgIGNvdmVyYWdlX2xvc3M6IHNjYWxhcgogICAgIiIiCiAgICBjb3ZlcmFnZSA9IHRmLnplcm9zX2xpa2UoYXR0bl9kaXN0c1swXSkgICMgc2hhcGUgKGJhdGNoX3NpemUsIGF0dG5fbGVuZ3RoKS4gSW5pdGlhbCBjb3ZlcmFnZSBpcyB6ZXJvLgogICAgIyBDb3ZlcmFnZSBsb3NzIHBlciBkZWNvZGVyIHRpbWVzdGVwLiBXaWxsIGJlIGxpc3QgbGVuZ3RoIG1heF9kZWNfc3RlcHMgY29udGFpbmluZyBzaGFwZSAoYmF0Y2hfc2l6ZSkuCiAgICBjb3Zsb3NzZXMgPSBbXQogICAgZm9yIGEgaW4gYXR0bl9kaXN0czoKICAgICAgICBjb3Zsb3NzID0gdGYucmVkdWNlX3N1bSh0Zi5taW5pbXVtKGEsIGNvdmVyYWdlKSwgWzFdKSAgIyBjYWxjdWxhdGUgdGhlIGNvdmVyYWdlIGxvc3MgZm9yIHRoaXMgc3RlcAogICAgICAgIGNvdmxvc3Nlcy5hcHBlbmQoY292bG9zcykKICAgICAgICBjb3ZlcmFnZSArPSBhICAjIHVwZGF0ZSB0aGUgY292ZXJhZ2UgdmVjdG9yCiAgICBjb3ZlcmFnZV9sb3NzID0gX21hc2tfYW5kX2F2Zyhjb3Zsb3NzZXMsIHBhZGRpbmdfbWFzaykKICAgIHJldHVybiBjb3ZlcmFnZV9sb3NzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvdmVyYWdlX2xvc3MgPSBfY292ZXJhZ2VfbG9zcyhzZWxmLmF0dG5fZGlzdHMsIHNlbGYuX2RlY19wYWRkaW5nX21hc2spCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZW5jX3N0YXRlcywgZGVjX2luX3N0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvdmVyYWdlX2xvc3MgPSBfY292ZXJhZ2VfbG9zcyhzZWxmLmF0dG5fZGlzdHMsIHNlbGYuX2RlY19wYWRkaW5nX21hc2spCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbWFrZV9mZWVkX2RpY3RcPg==</last-search>
+      <last-search>reduce_states</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbWFrZV9mZWVkX2RpY3RcPg==</last-pattern>
+      <last-pattern>reduce_states</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZGVjX2luX3N0YXRlXD4=</entry>
-        <entry encoding="base64">XDxlbmNfb3V0cHV0c1w+</entry>
-        <entry encoding="base64">XDxfZW5jX3NlbV9zdGF0ZXNcPg==</entry>
-        <entry>decode_one</entry>
-        <entry encoding="base64">XDxfZW5jX3N0YXRlc1w+</entry>
-        <entry>run_encoder</entry>
-        <entry encoding="base64">XDxlbmNfc3RhdGVzXD4=</entry>
-        <entry encoding="base64">XDx0ZXh0X2dlbmVyYXRvclw+</entry>
-        <entry encoding="base64">XDxpbnB1dF9nZW5cPg==</entry>
-        <entry encoding="base64">XDxhcnRpY2xlXD4=</entry>
-        <entry>Example</entry>
-        <entry encoding="base64">XDxleGFtcGxlX2dlbmVyYXRvclw+</entry>
-        <entry encoding="base64">XDxfdm9jYWJcPg==</entry>
-        <entry encoding="base64">XDxFeGFtcGxlXD4=</entry>
-        <entry encoding="base64">XDxpbml0X2VuY29kZXJfc2VxXD4=</entry>
-        <entry>vocab</entry>
-        <entry>train</entry>
         <entry encoding="base64">XDxydW5fdHJhaW5pbmdcPg==</entry>
         <entry>run_train_step</entry>
         <entry encoding="base64">XDxfbWFrZV9mZWVkX2RpY3RcPg==</entry>
+        <entry>seq2seq</entry>
+        <entry encoding="base64">XDxfYWRkX2VuY29kZXJcPg==</entry>
+        <entry encoding="base64">XDxfY292ZXJhZ2VfbG9zc1w+</entry>
+        <entry encoding="base64">XDxfZ2xvYmFsX3N0ZXBcPg==</entry>
+        <entry encoding="base64">XDxnbG9iYWxfc3RlcFw+</entry>
+        <entry encoding="base64">XDxyYW5kX3VuaWZfaW5pdFw+</entry>
+        <entry encoding="base64">XDxzZW1fZW1iX2RpbVw+</entry>
+        <entry>vsize</entry>
+        <entry encoding="base64">XDxfdGV4dF9wcmV2X2NvdmVyYWdlXD4=</entry>
+        <entry encoding="base64">XDx0ZXh0X3ByZXZfY292ZXJhZ2VcPg==</entry>
+        <entry>vocab_size</entry>
+        <entry encoding="base64">XDxfd29yZF92c2l6ZVw+</entry>
+        <entry>sem_emb</entry>
+        <entry>hps</entry>
+        <entry encoding="base64">XDxocHNcPg==</entry>
+        <entry>vocab_path</entry>
+        <entry>reduce_states</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
