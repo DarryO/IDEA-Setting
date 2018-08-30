@@ -63,12 +63,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" timestamp="1535612910475">
-        <mark key="'" line="223" column="16" />
-        <mark key="[" line="225" column="29" />
-        <mark key="]" line="225" column="24" />
-        <mark key="^" line="225" column="24" />
-        <mark key="." line="225" column="24" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" timestamp="1535613289032">
+        <mark key="'" line="83" column="43" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inputs/inputs.py" timestamp="1534901646110">
         <mark key="'" line="47" column="18" />
@@ -153,14 +152,28 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model_bk.py" timestamp="1534923391671">
+        <mark key="'" line="289" column="105" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/decode.py" timestamp="1535525579163">
         <mark key="[" line="249" column="51" />
         <mark key="]" line="250" column="3" />
         <mark key="^" line="250" column="3" />
         <mark key="." line="250" column="3" />
       </file>
-      <file name="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" timestamp="1535612744858">
-        <mark key="'" line="944" column="17" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/confs/config.py" timestamp="1535093300681">
+        <mark key="'" line="46" column="13" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" timestamp="1535613796798">
+        <mark key="'" line="968" column="0" />
+        <mark key="[" line="968" column="0" />
+        <mark key="]" line="993" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/tests/test_input_fn.py" timestamp="1534902223001">
         <mark key="'" line="8" column="0" />
@@ -169,11 +182,23 @@
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model_bk.py" timestamp="1534909965645">
+        <mark key="'" line="590" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/helper.py" timestamp="1534922573842">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="32" />
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/inputs/seq2seq_inputs.py" timestamp="1534393519804">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="65" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/input_utils.py" timestamp="1534738075206">
         <mark key="'" line="92" column="0" />
@@ -183,6 +208,19 @@
       </file>
       <file name="/Python Console" timestamp="1534727847586">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" timestamp="1535614768354">
+        <mark key="'" line="268" column="8" />
+        <mark key="[" line="266" column="15" />
+        <mark key="]" line="266" column="21" />
+        <mark key="." line="266" column="21" />
+        <mark key="^" line="266" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/sample/model.py" timestamp="1534389591953">
+        <mark key="'" line="83" column="4" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="88" column="68" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/seq2seq/model.py" timestamp="1534393841508">
         <mark key="'" line="41" column="27" />
@@ -241,9 +279,6 @@
         <mark key="]" line="32" column="40" />
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/helper.py" timestamp="1534737979632">
-        <mark key="'" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/inputs/utils.py" timestamp="1534390689831">
         <mark key="'" line="86" column="0" />
@@ -320,12 +355,30 @@
         <mark key="." line="81" column="44" />
         <mark key="^" line="61" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/sample_config.py" timestamp="1534392205846">
+        <mark key="'" line="10" column="37" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="41" column="53" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inference/inference.py" timestamp="1535089263333">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="56" column="35" />
         <mark key="." line="46" column="17" />
         <mark key="^" line="46" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/sample/inference.py" timestamp="1534326010627">
+        <mark key="'" line="60" column="19" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/seq2seq/helper.py" timestamp="1534328983285">
+        <mark key="'" line="285" column="8" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="298" column="45" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1535608081718">
         <mark key="[" line="0" column="0" />
@@ -357,6 +410,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/cli.py" timestamp="1534404529289">
+        <mark key="'" line="8" column="15" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/playground/tf/new_api.py" timestamp="1534144668004">
         <mark key="'" line="16" column="55" />
         <mark key="[" line="48" column="38" />
@@ -383,6 +442,12 @@
         <mark key="]" line="210" column="17" />
         <mark key="." line="210" column="17" />
         <mark key="^" line="210" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" timestamp="1534473442188">
+        <mark key="'" line="19" column="31" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ali/cnn-dailymail/batcher.py" timestamp="1533641542005">
         <mark key="'" line="56" column="28" />
@@ -426,15 +491,18 @@
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/base/model/model.py" timestamp="1534477182694">
+        <mark key="'" line="21" column="29" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/helper.py" timestamp="1534392360568">
         <mark key="'" line="14" column="31" />
         <mark key="[" line="73" column="27" />
         <mark key="]" line="73" column="57" />
         <mark key="." line="73" column="57" />
         <mark key="^" line="73" column="57" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/beam_search.py" timestamp="1534907920710">
-        <mark key="'" line="121" column="89" />
       </file>
       <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/attention_decoder.py" timestamp="1535596094370">
         <mark key="'" line="301" column="74" />
@@ -464,63 +532,14 @@
         <mark key="^" line="86" column="31" />
         <mark key="." line="86" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/base/inference.py" timestamp="1533710968027">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="8" />
+        <mark key="." line="37" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" />
-      <jump line="37" column="25" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" />
-      <jump line="122" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="116" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="168" column="34" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="77" column="35" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="97" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="106" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="115" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="183" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="154" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="132" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="74" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="165" column="58" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="196" column="4" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="138" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="166" column="70" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="206" column="35" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="103" column="38" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="95" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="230" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="92" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="148" column="15" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="164" column="6" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="176" column="9" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="194" column="12" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="119" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="135" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="127" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="69" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="70" column="27" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="76" column="27" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="142" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="149" column="27" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="144" column="6" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="863" column="4" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="361" column="4" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="767" column="4" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="195" column="17" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="348" column="6" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="351" column="50" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="353" column="9" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="362" column="7" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="367" column="8" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="476" column="15" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="489" column="6" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="492" column="50" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="494" column="9" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="498" column="7" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="192" column="9" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="392" column="22" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="335" column="15" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
       <jump line="193" column="8" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
       <jump line="191" column="27" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
       <jump line="190" column="23" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
@@ -535,10 +554,8 @@
       <jump line="753" column="9" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
       <jump line="507" column="8" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
       <jump line="500" column="46" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="208" column="32" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="196" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="191" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="84" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="226" column="47" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="228" column="40" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
@@ -548,9 +565,6 @@
       <jump line="499" column="6" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
       <jump line="1309" column="0" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
       <jump line="932" column="20" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="938" column="9" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="941" column="13" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="944" column="17" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
       <jump line="88" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="184" column="41" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="185" column="18" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
@@ -566,6 +580,66 @@
       <jump line="198" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="222" column="25" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="223" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
+      <jump line="1101" column="6" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="1104" column="22" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="1106" column="13" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="1107" column="19" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="1132" column="9" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="1293" column="17" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="1292" column="46" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="1288" column="58" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="1287" column="32" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="1286" column="22" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="1284" column="21" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="1281" column="24" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="1273" column="6" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="1253" column="4" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="48" column="5" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="191" column="44" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
+      <jump line="203" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
+      <jump line="1193" column="10" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="33" column="44" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
+      <jump line="164" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
+      <jump line="120" column="11" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="234" column="53" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="906" column="0" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="907" column="6" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="908" column="28" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="911" column="42" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="938" column="9" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="941" column="13" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="944" column="17" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="996" column="0" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="121" column="43" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="285" column="47" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="150" column="79" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="24" column="36" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="401" column="21" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="406" column="63" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="25" column="6" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="62" column="21" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="65" column="18" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="968" column="0" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="323" column="39" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="162" column="51" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="27" column="6" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="64" column="21" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="266" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="313" column="19" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="357" column="33" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="386" column="39" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="273" column="16" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="408" column="35" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="407" column="28" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="342" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="321" column="39" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="268" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -575,71 +649,71 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250ZXh0X3ZlY3Rvclw+</text>
+        <text>item_or</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlnbm1lbnRzID0gc2VsZi5fcHJvYmFiaWxpdHlfZm4oc2NvcmUsIHByZXZpb3VzX2FsaWdubWVudHMpCg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmNvbnRyaWIuc2VxMnNlcS5weXRob24ub3BzLmF0dGVudGlvbl93cmFwcGVyIGltcG9ydCBfemVyb19zdGF0ZV90ZW5zb3JzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X3plcm9fc3RhdGVfdGVuc29ycyA9IHJubl9jZWxsX2ltcGwuX3plcm9fc3RhdGVfdGVuc29ycyAgIyBweWxpbnQ6IGRpc2FibGU9cHJvdGVjdGVkLWFjY2VzcwoKCmRlZiBfY29tcHV0ZV9hdHRlbnRpb24oYXR0ZW50aW9uX21lY2hhbmlzbSwgY2VsbF9vdXRwdXQsIHByZXZpb3VzX2FsaWdubWVudHMsCiAgICAgICAgICAgICAgICAgICAgICAgYXR0ZW50aW9uX2xheWVyKToKICAgICIiIkNvbXB1dGVzIHRoZSBhdHRlbnRpb24gYW5kIGFsaWdubWVudHMgZm9yIGEgZ2l2ZW4gYXR0ZW50aW9uX21lY2hhbmlzbS4iIiIKICAgIGFsaWdubWVudHMgPSBhdHRlbnRpb25fbWVjaGFuaXNtKAogICAgICAgIGNlbGxfb3V0cHV0LCBwcmV2aW91c19hbGlnbm1lbnRzPXByZXZpb3VzX2FsaWdubWVudHMpCgogICAgIyBSZXNoYXBlIGZyb20gW2JhdGNoX3NpemUsIG1lbW9yeV90aW1lXSB0byBbYmF0Y2hfc2l6ZSwgMSwgbWVtb3J5X3RpbWVdCiAgICBleHBhbmRlZF9hbGlnbm1lbnRzID0gYXJyYXlfb3BzLmV4cGFuZF9kaW1zKGFsaWdubWVudHMsIDEpCiAgICAjIENvbnRleHQgaXMgdGhlIGlubmVyIHByb2R1Y3Qgb2YgYWxpZ25tZW50cyBhbmQgdmFsdWVzIGFsb25nIHRoZQogICAgIyBtZW1vcnkgdGltZSBkaW1lbnNpb24uCiAgICAjIGFsaWdubWVudHMgc2hhcGUgaXMKICAgICMgICBbYmF0Y2hfc2l6ZSwgMSwgbWVtb3J5X3RpbWVdCiAgICAjIGF0dGVudGlvbl9tZWNoYW5pc20udmFsdWVzIHNoYXBlIGlzCiAgICAjICAgW2JhdGNoX3NpemUsIG1lbW9yeV90aW1lLCBtZW1vcnlfc2l6ZV0KICAgICMgdGhlIGJhdGNoZWQgbWF0bXVsIGlzIG92ZXIgbWVtb3J5X3RpbWUsIHNvIHRoZSBvdXRwdXQgc2hhcGUgaXMKICAgICMgICBbYmF0Y2hfc2l6ZSwgMSwgbWVtb3J5X3NpemVdLgogICAgIyB3ZSB0aGVuIHNxdWVlemUgb3V0IHRoZSBzaW5nbGV0b24gZGltLgogICAgY29udGV4dCA9IG1hdGhfb3BzLm1hdG11bChleHBhbmRlZF9hbGlnbm1lbnRzLCBhdHRlbnRpb25fbWVjaGFuaXNtLnZhbHVlcykKICAgIGNvbnRleHQgPSBhcnJheV9vcHMuc3F1ZWV6ZShjb250ZXh0LCBbMV0pCgogICAgaWYgYXR0ZW50aW9uX2xheWVyIGlzIG5vdCBOb25lOgogICAgICAgIGF0dGVudGlvbiA9IGF0dGVudGlvbl9sYXllcihhcnJheV9vcHMuY29uY2F0KFtjZWxsX291dHB1dCwgY29udGV4dF0sIDEpKQogICAgZWxzZToKICAgICAgICBhdHRlbnRpb24gPSBjb250ZXh0CgogICAgcmV0dXJuIGF0dGVudGlvbiwgYWxpZ25tZW50cwoKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgQ2FsY3VsYXRlIGF0dGVudGlvbiBkaXN0cmlidXRpb24K</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IHZhcmlhYmxlX3Njb3BlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF0dG5fZGlzdCA9IGFsaWdubWVudHMK</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IGNsaXBfb3BzCmZyb20gdGVuc29yZmxvdy5weXRob24ub3BzIGltcG9ydCBmdW5jdGlvbmFsX29wcwpmcm9tIHRlbnNvcmZsb3cucHl0aG9uLm9wcyBpbXBvcnQgaW5pdF9vcHMKZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IG1hdGhfb3BzCmZyb20gdGVuc29yZmxvdy5weXRob24ub3BzIGltcG9ydCBubl9vcHMKZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IHJhbmRvbV9vcHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19jYWxsMV9fKHNlbGYsIHF1ZXJ5LCBwcmV2aW91c19hbGlnbm1lbnRzKToKICAgICAgICB3aXRoIHZhcmlhYmxlX3Njb3BlLnZhcmlhYmxlX3Njb3BlKE5vbmUsICJiYWhkYW5hdV9hdHRlbnRpb24iLCBbcXVlcnldKToKICAgICAgICAgICAgcHJvY2Vzc2VkX3F1ZXJ5ID0gc2VsZi5xdWVyeV9sYXllcihxdWVyeSkgaWYgc2VsZi5xdWVyeV9sYXllciBlbHNlIHF1ZXJ5CiAgICAgICAgICAgIHNjb3JlID0gX2JhaGRhbmF1X3Njb3JlKHByb2Nlc3NlZF9xdWVyeSwgc2VsZi5fa2V5cywgc2VsZi5fbm9ybWFsaXplKQogICAgICAgIGFsaWdubWVudHMgPSBzZWxmLl9wcm9iYWJpbGl0eV9mbihzY29yZSwgcHJldmlvdXNfYWxpZ25tZW50cykKICAgICAgICByZXR1cm4gYWxpZ25tZW50cwo=</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5sYXllcnMgaW1wb3J0IGJhc2UgYXMgbGF5ZXJzX2Jhc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3JlID0gX2JhaGRhbmF1X3Njb3JlKHByb2Nlc3NlZF9xdWVyeSwgc2VsZi5fa2V5cywgc2VsZi5fbm9ybWFsaXplKQo=</text>
+        <text encoding="base64">aW1wb3J0IGZ1bmN0b29scwppbXBvcnQgbWF0aAoKaW1wb3J0IG51bXB5IGFzIG5wCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgUG9pbnRlckF0dGVudGlvbldyYXBwZXJTdGF0ZSgKICAgIGNvbGxlY3Rpb25zLm5hbWVkdHVwbGUoIkF0dGVudGlvbldyYXBwZXJTdGF0ZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICgiY2VsbF9zdGF0ZSIsICJhdHRlbnRpb24iLCAidGltZSIsICJhbGlnbm1lbnRzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJhbGlnbm1lbnRfaGlzdG9yeSIsICJjb3ZlcmFnZXMiLCAiY292ZXJhZ2VfaGlzdG9yeSIpKSk6CiAgICAiIiJgbmFtZWR0dXBsZWAgc3RvcmluZyB0aGUgc3RhdGUgb2YgYSBgQXR0ZW50aW9uV3JhcHBlcmAuCgogICAgQ29udGFpbnM6CgogICAgICAtIGBjZWxsX3N0YXRlYDogVGhlIHN0YXRlIG9mIHRoZSB3cmFwcGVkIGBSTk5DZWxsYCBhdCB0aGUgcHJldmlvdXMgdGltZQogICAgICAgIHN0ZXAuCiAgICAgIC0gYGF0dGVudGlvbmA6IFRoZSBhdHRlbnRpb24gZW1pdHRlZCBhdCB0aGUgcHJldmlvdXMgdGltZSBzdGVwLgogICAgICAtIGB0aW1lYDogaW50MzIgc2NhbGFyIGNvbnRhaW5pbmcgdGhlIGN1cnJlbnQgdGltZSBzdGVwLgogICAgICAtIGBhbGlnbm1lbnRzYDogQSBzaW5nbGUgb3IgdHVwbGUgb2YgYFRlbnNvcmAocykgY29udGFpbmluZyB0aGUgYWxpZ25tZW50cwogICAgICAgICBlbWl0dGVkIGF0IHRoZSBwcmV2aW91cyB0aW1lIHN0ZXAgZm9yIGVhY2ggYXR0ZW50aW9uIG1lY2hhbmlzbS4KICAgICAgLSBgYWxpZ25tZW50X2hpc3RvcnlgOiAoaWYgZW5hYmxlZCkgYSBzaW5nbGUgb3IgdHVwbGUgb2YgYFRlbnNvckFycmF5YChzKQogICAgICAgICBjb250YWluaW5nIGFsaWdubWVudCBtYXRyaWNlcyBmcm9tIGFsbCB0aW1lIHN0ZXBzIGZvciBlYWNoIGF0dGVudGlvbgogICAgICAgICBtZWNoYW5pc20uIENhbGwgYHN0YWNrKClgIG9uIGVhY2ggdG8gY29udmVydCB0byBhIGBUZW5zb3JgLgogICAgIiIiCgogICAgZGVmIGNsb25lKHNlbGYsICoqa3dhcmdzKToKICAgICAgICAiIiJDbG9uZSB0aGlzIG9iamVjdCwgb3ZlcnJpZGluZyBjb21wb25lbnRzIHByb3ZpZGVkIGJ5IGt3YXJncy4KCiAgICAgICAgRXhhbXBsZToKCiAgICAgICAgYGBgcHl0aG9uCiAgICAgICAgaW5pdGlhbF9zdGF0ZSA9IGF0dGVudGlvbl93cmFwcGVyLnplcm9fc3RhdGUoZHR5cGU9Li4uLCBiYXRjaF9zaXplPS4uLikKICAgICAgICBpbml0aWFsX3N0YXRlID0gaW5pdGlhbF9zdGF0ZS5jbG9uZShjZWxsX3N0YXRlPWVuY29kZXJfc3RhdGUpCiAgICAgICAgYGBgCgogICAgICAgIEFyZ3M6CiAgICAgICAgICAqKmt3YXJnczogQW55IHByb3BlcnRpZXMgb2YgdGhlIHN0YXRlIG9iamVjdCB0byByZXBsYWNlIGluIHRoZSByZXR1cm5lZAogICAgICAgICAgICBgQXR0ZW50aW9uV3JhcHBlclN0YXRlYC4KCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgIEEgbmV3IGBBdHRlbnRpb25XcmFwcGVyU3RhdGVgIHdob3NlIHByb3BlcnRpZXMgYXJlIHRoZSBzYW1lIGFzCiAgICAgICAgICB0aGlzIG9uZSwgZXhjZXB0IGFueSBvdmVycmlkZGVuIHByb3BlcnRpZXMgYXMgcHJvdmlkZWQgaW4gYGt3YXJnc2AuCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIHN1cGVyKFBvaW50ZXJBdHRlbnRpb25XcmFwcGVyU3RhdGUsIHNlbGYpLl9yZXBsYWNlKCoqa3dhcmdzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBQYXNzIHRoZSBkZWNvZGVyIHN0YXRlIHRocm91Z2ggYSBsaW5lYXIgbGF5ZXIgKHRoaXMgaXMgV19zIHNfdCArIGJfYXR0biBpbiB0aGUgcGFwZXIpCiAgICAgICAgICAgICMgc2hhcGUgKGJhdGNoX3NpemUsIGF0dGVudGlvbl92ZWNfc2l6ZSkKICAgICAgICAgICAgZGVjb2Rlcl9mZWF0dXJlcyA9IGxpbmVhcihkZWNvZGVyX3N0YXRlLCBzZWxmLl9hdHRlbnRpb25fdmVjX3NpemUsIFRydWUpCiAgICAgICAgICAgICMgcmVzaGFwZSB0byAoYmF0Y2hfc2l6ZSwgMSwgMSwgYXR0ZW50aW9uX3ZlY19zaXplKQogICAgICAgICAgICBkZWNvZGVyX2ZlYXR1cmVzID0gdGYuZXhwYW5kX2RpbXModGYuZXhwYW5kX2RpbXMoZGVjb2Rlcl9mZWF0dXJlcywgMSksIDEpCg==</text>
+        <text encoding="base64">ZGVmIF9iYWhkYW5hdV9zY29yZShwcm9jZXNzZWRfcXVlcnksIGtleXMsIG5vcm1hbGl6ZSk6CiAgICBkdHlwZSA9IHByb2Nlc3NlZF9xdWVyeS5kdHlwZQogICAgIyBHZXQgdGhlIG51bWJlciBvZiBoaWRkZW4gdW5pdHMgZnJvbSB0aGUgdHJhaWxpbmcgZGltZW5zaW9uIG9mIGtleXMKICAgIG51bV91bml0cyA9IGtleXMuc2hhcGVbMl0udmFsdWUgb3IgYXJyYXlfb3BzLnNoYXBlKGtleXMpWzJdCiAgICAjIFJlc2hhcGUgZnJvbSBbYmF0Y2hfc2l6ZSwgLi4uXSB0byBbYmF0Y2hfc2l6ZSwgMSwgLi4uXSBmb3IgYnJvYWRjYXN0aW5nLgogICAgcHJvY2Vzc2VkX3F1ZXJ5ID0gYXJyYXlfb3BzLmV4cGFuZF9kaW1zKHByb2Nlc3NlZF9xdWVyeSwgMSkKICAgIHYgPSB2YXJpYWJsZV9zY29wZS5nZXRfdmFyaWFibGUoCiAgICAgICAgImF0dGVudGlvbl92IiwgW251bV91bml0c10sIGR0eXBlPWR0eXBlKQogICAgaWYgbm9ybWFsaXplOgogICAgICAgICMgU2NhbGFyIHVzZWQgaW4gd2VpZ2h0IG5vcm1hbGl6YXRpb24KICAgICAgICBnID0gdmFyaWFibGVfc2NvcGUuZ2V0X3ZhcmlhYmxlKAogICAgICAgICAgICAiYXR0ZW50aW9uX2ciLCBkdHlwZT1kdHlwZSwKICAgICAgICAgICAgaW5pdGlhbGl6ZXI9aW5pdF9vcHMuY29uc3RhbnRfaW5pdGlhbGl6ZXIobWF0aC5zcXJ0KCgxLiAvIG51bV91bml0cykpKSwKICAgICAgICAgICAgc2hhcGU9KCkpCiAgICAgICAgIyBCaWFzIGFkZGVkIHByaW9yIHRvIHRoZSBub25saW5lYXJpdHkKICAgICAgICBiID0gdmFyaWFibGVfc2NvcGUuZ2V0X3ZhcmlhYmxlKAogICAgICAgICAgICAiYXR0ZW50aW9uX2IiLCBbbnVtX3VuaXRzXSwgZHR5cGU9ZHR5cGUsCiAgICAgICAgICAgIGluaXRpYWxpemVyPWluaXRfb3BzLnplcm9zX2luaXRpYWxpemVyKCkpCiAgICAgICAgIyBub3JtZWRfdiA9IGcgKiB2IC8gfHx2fHwKICAgICAgICBub3JtZWRfdiA9IGcgKiB2ICogbWF0aF9vcHMucnNxcnQoCiAgICAgICAgICAgIG1hdGhfb3BzLnJlZHVjZV9zdW0obWF0aF9vcHMuc3F1YXJlKHYpKSkKICAgICAgICByZXR1cm4gbWF0aF9vcHMucmVkdWNlX3N1bSgKICAgICAgICAgICAgbm9ybWVkX3YgKiBtYXRoX29wcy50YW5oKGtleXMgKyBwcm9jZXNzZWRfcXVlcnkgKyBiKSwgWzJdKQogICAgZWxzZToKICAgICAgICByZXR1cm4gbWF0aF9vcHMucmVkdWNlX3N1bSh2ICogbWF0aF9vcHMudGFuaChrZXlzICsgcHJvY2Vzc2VkX3F1ZXJ5KSwgWzJdKQoKCmNsYXNzIEJhaGRhbmF1QXR0ZW50aW9uKF9CYXNlQXR0ZW50aW9uTWVjaGFuaXNtKToKCiAgICBkZWYgX19pbml0X18oc2VsZiwKICAgICAgICAgICAgICAgICBudW1fdW5pdHMsCiAgICAgICAgICAgICAgICAgbWVtb3J5LAogICAgICAgICAgICAgICAgIG1lbW9yeV9zZXF1ZW5jZV9sZW5ndGg9Tm9uZSwKICAgICAgICAgICAgICAgICBub3JtYWxpemU9RmFsc2UsCiAgICAgICAgICAgICAgICAgcHJvYmFiaWxpdHlfZm49Tm9uZSwKICAgICAgICAgICAgICAgICBzY29yZV9tYXNrX3ZhbHVlPWZsb2F0KCItaW5mIiksCiAgICAgICAgICAgICAgICAgbmFtZT0iQmFoZGFuYXVBdHRlbnRpb24iKToKICAgICAgICBpZiBwcm9iYWJpbGl0eV9mbiBpcyBOb25lOgogICAgICAgICAgICBwcm9iYWJpbGl0eV9mbiA9IG5uX29wcy5zb2Z0bWF4CiAgICAgICAgd3JhcHBlZF9wcm9iYWJpbGl0eV9mbiA9IGxhbWJkYSBzY29yZSwgXzogcHJvYmFiaWxpdHlfZm4oc2NvcmUpCiAgICAgICAgc3VwZXIoQmFoZGFuYXVBdHRlbnRpb24sIHNlbGYpLl9faW5pdF9fKAogICAgICAgICAgICBxdWVyeV9sYXllcj1sYXllcnNfY29yZS5EZW5zZSgKICAgICAgICAgICAgICAgIG51bV91bml0cywgbmFtZT0icXVlcnlfbGF5ZXIiLCB1c2VfYmlhcz1GYWxzZSksCiAgICAgICAgICAgIG1lbW9yeV9sYXllcj1sYXllcnNfY29yZS5EZW5zZSgKICAgICAgICAgICAgICAgIG51bV91bml0cywgbmFtZT0ibWVtb3J5X2xheWVyIiwgdXNlX2JpYXM9RmFsc2UpLAogICAgICAgICAgICBtZW1vcnk9bWVtb3J5LAogICAgICAgICAgICBwcm9iYWJpbGl0eV9mbj13cmFwcGVkX3Byb2JhYmlsaXR5X2ZuLAogICAgICAgICAgICBtZW1vcnlfc2VxdWVuY2VfbGVuZ3RoPW1lbW9yeV9zZXF1ZW5jZV9sZW5ndGgsCiAgICAgICAgICAgIHNjb3JlX21hc2tfdmFsdWU9c2NvcmVfbWFza192YWx1ZSwKICAgICAgICAgICAgbmFtZT1uYW1lKQogICAgICAgIHNlbGYuX251bV91bml0cyA9IG51bV91bml0cwogICAgICAgIHNlbGYuX25vcm1hbGl6ZSA9IG5vcm1hbGl6ZQogICAgICAgIHNlbGYuX25hbWUgPSBuYW1lCgogICAgZGVmIF9fY2FsbF9fKHNlbGYsIHF1ZXJ5LCBwcmV2aW91c19hbGlnbm1lbnRzKToKICAgICAgICB3aXRoIHZhcmlhYmxlX3Njb3BlLnZhcmlhYmxlX3Njb3BlKE5vbmUsICJiYWhkYW5hdV9hdHRlbnRpb24iLCBbcXVlcnldKToKICAgICAgICAgICAgcHJvY2Vzc2VkX3F1ZXJ5ID0gc2VsZi5xdWVyeV9sYXllcihxdWVyeSkgaWYgc2VsZi5xdWVyeV9sYXllciBlbHNlIHF1ZXJ5CiAgICAgICAgICAgIHNjb3JlID0gX2JhaGRhbmF1X3Njb3JlKHByb2Nlc3NlZF9xdWVyeSwgc2VsZi5fa2V5cywgc2VsZi5fbm9ybWFsaXplKQogICAgICAgIGFsaWdubWVudHMgPSBzZWxmLl9wcm9iYWJpbGl0eV9mbihzY29yZSwgcHJldmlvdXNfYWxpZ25tZW50cykKICAgICAgICByZXR1cm4gYWxpZ25tZW50cwoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X19hbGxfXyA9IFsKICAgICJCYWhkYW5hdUF0dGVudGlvbiIsCl0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCB2YXJpYWJsZV9zY29wZS52YXJpYWJsZV9zY29wZShOb25lLCAicG9pbnRlcl9hdHRlbnRpb24iLCBbcXVlcnldKToKICAgICAgICAgICAgICAgIHByb2Nlc3NlZF9xdWVyeSA9IHNlbGYucXVlcnlfbGF5ZXIocXVlcnkpIGlmIHNlbGYucXVlcnlfbGF5ZXIgZWxzZSBxdWVyeQogICAgICAgICAgICAgICAgc2NvcmUgPSBfYmFoZGFuYXVfc2NvcmUocHJvY2Vzc2VkX3F1ZXJ5LCBzZWxmLl9rZXlzLCBzZWxmLl9ub3JtYWxpemUpCgogICAgICAgICAgICAjIFBhc3MgdGhlIGRlY29kZXIgc3RhdGUgdGhyb3VnaCBhIGxpbmVhciBsYXllciAodGhpcyBpcyBXX3Mgc190ICsgYl9hdHRuIGluIHRoZSBwYXBlcikKICAgICAgICAgICAgIyBzaGFwZSAoYmF0Y2hfc2l6ZSwgYXR0ZW50aW9uX3ZlY19zaXplKQogICAgICAgICAgICBkZWNvZGVyX2ZlYXR1cmVzID0gbGluZWFyKGRlY29kZXJfc3RhdGUsIHNlbGYuX2F0dGVudGlvbl92ZWNfc2l6ZSwgVHJ1ZSkKICAgICAgICAgICAgIyByZXNoYXBlIHRvIChiYXRjaF9zaXplLCAxLCAxLCBhdHRlbnRpb25fdmVjX3NpemUpCiAgICAgICAgICAgIGRlY29kZXJfZmVhdHVyZXMgPSB0Zi5leHBhbmRfZGltcyh0Zi5leHBhbmRfZGltcyhkZWNvZGVyX2ZlYXR1cmVzLCAxKSwgMSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250ZXh0X3ZlY3Rvclw+</last-search>
+      <last-search>item_or</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250ZXh0X3ZlY3Rvclw+</last-pattern>
+      <last-pattern>item_or</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>keys_</entry>
-        <entry>self._keys</entry>
-        <entry encoding="base64">XDxfbm9ybWFsaXplXD4=</entry>
-        <entry encoding="base64">XDxtYXNrZWRfYXR0ZW50aW9uXD4=</entry>
-        <entry>__init__</entry>
-        <entry encoding="base64">XDxtZW1vcnlfc2VxdWVuY2VfbGVuZ3RoXD4=</entry>
-        <entry encoding="base64">XDxfbWF5YmVfbWFza19zY29yZVw+</entry>
-        <entry encoding="base64">XDxfcG9pbnRlcl9zY29yZVw+</entry>
-        <entry>prob</entry>
-        <entry encoding="base64">XDx3cmFwcGVkX3Byb2JhYmlsaXR5X2ZuXD4=</entry>
-        <entry encoding="base64">XDxfcHJvYmFiaWxpdHlfZm5cPg==</entry>
-        <entry encoding="base64">XDxwcm9iYWJpbGl0eV9mblw+</entry>
-        <entry encoding="base64">XDxfX2NhbGxfX1w+</entry>
-        <entry encoding="base64">XDxhdHRuX2Rpc3RcPg==</entry>
-        <entry>attention_wra</entry>
         <entry encoding="base64">XDxhdHRlbnRpb25fd3JhcHBlclw+</entry>
         <entry>AttentionWrapper</entry>
         <entry encoding="base64">XDx2XD4=</entry>
         <entry encoding="base64">XDxhbGlnbm1lbnRzXD4=</entry>
         <entry encoding="base64">XDxjb250ZXh0X3ZlY3Rvclw+</entry>
+        <entry encoding="base64">XDxjZWxsX2lucHV0X2ZuXD4=</entry>
+        <entry encoding="base64">XDxfY2VsbF9pbnB1dF9mblw+</entry>
+        <entry encoding="base64">XDxzdGF0ZVw+</entry>
+        <entry encoding="base64">XDxBdHRlbnRpb25XcmFwcGVyU3RhdGVcPg==</entry>
+        <entry>__init__</entry>
+        <entry>AttentionWrap</entry>
+        <entry>_zeros</entry>
+        <entry>_zero</entry>
+        <entry encoding="base64">XDxhY2Nlc3NcPg==</entry>
+        <entry encoding="base64">XDxfemVyb19zdGF0ZV90ZW5zb3JzXD4=</entry>
+        <entry>_compute</entry>
+        <entry>def call</entry>
+        <entry encoding="base64">XDxQb2ludGVyQXR0ZW50aW9uV3JhcHBlclN0YXRlXD4=</entry>
+        <entry encoding="base64">XDxfaXRlbV9vcl90dXBsZVw+</entry>
+        <entry>item_or</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
