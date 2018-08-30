@@ -64,11 +64,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" timestamp="1535628630879">
-        <mark key="'" line="95" column="27" />
-        <mark key="[" line="114" column="32" />
-        <mark key="]" line="114" column="32" />
-        <mark key="^" line="155" column="24" />
-        <mark key="." line="114" column="32" />
+        <mark key="'" line="96" column="27" />
+        <mark key="[" line="115" column="32" />
+        <mark key="]" line="115" column="32" />
+        <mark key="^" line="156" column="24" />
+        <mark key="." line="115" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inputs/inputs.py" timestamp="1534901646110">
         <mark key="'" line="47" column="18" />
@@ -183,11 +183,12 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/input_utils.py" timestamp="1534738075206">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/input_utils.py" timestamp="1535629358072">
+        <mark key="'" line="115" column="4" />
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="67" column="7" />
+        <mark key="." line="67" column="7" />
+        <mark key="^" line="67" column="7" />
       </file>
       <file name="/Python Console" timestamp="1534727847586">
         <mark key="[" line="0" column="0" />
@@ -256,6 +257,9 @@
         <mark key="]" line="32" column="40" />
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/helper.py" timestamp="1534737979632">
+        <mark key="'" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/inputs/utils.py" timestamp="1534390689831">
         <mark key="'" line="86" column="0" />
@@ -332,6 +336,9 @@
         <mark key="]" line="81" column="44" />
         <mark key="." line="81" column="44" />
         <mark key="^" line="61" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/inputs/inputs.py" timestamp="1535629318873">
+        <mark key="'" line="77" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inference/inference.py" timestamp="1535089263333">
         <mark key="'" line="85" column="0" />
@@ -446,6 +453,9 @@
         <mark key="." line="73" column="57" />
         <mark key="^" line="73" column="57" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/beam_search.py" timestamp="1534907920710">
+        <mark key="'" line="121" column="89" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/attention_decoder.py" timestamp="1535596094370">
         <mark key="'" line="301" column="74" />
         <mark key="[" line="279" column="102" />
@@ -476,10 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="45" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="202" column="15" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
-      <jump line="123" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="116" column="21" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="131" column="21" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="135" column="39" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="87" column="33" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
@@ -576,6 +582,10 @@
       <jump line="282" column="55" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="35" column="20" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="22" column="31" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="111" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/input_utils.py" />
+      <jump line="57" column="10" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/inputs/inputs.py" />
+      <jump line="64" column="45" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/inputs/inputs.py" />
+      <jump line="77" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/inputs/inputs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -585,7 +595,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNeUF0dGVudGlvbldyYXBwZXJcPg==</text>
+        <text>pad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKCdlbWJlZCcsIHJldXNlPVRydWUpOgo=</text>
@@ -622,15 +632,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNeUF0dGVudGlvbldyYXBwZXJcPg==</last-search>
+      <last-search>pad</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNeUF0dGVudGlvbldyYXBwZXJcPg==</last-pattern>
+      <last-pattern>pad</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fina</entry>
         <entry>Pointer</entry>
         <entry encoding="base64">XDxmaW5hbGl6ZVw+</entry>
         <entry encoding="base64">XDxfY29tcHV0ZV9hdHRlbnRpb25cPg==</entry>
@@ -650,6 +659,7 @@
         <entry>wrapp</entry>
         <entry>wrapper</entry>
         <entry encoding="base64">XDxNeUF0dGVudGlvbldyYXBwZXJcPg==</entry>
+        <entry>pad</entry>
       </history-search>
       <history-cmd>
         <entry>107</entry>
@@ -666,11 +676,11 @@
         <entry>92</entry>
         <entry>160</entry>
         <entry>235</entry>
-        <entry>q</entry>
         <entry>230</entry>
         <entry>94</entry>
         <entry>32</entry>
         <entry>99</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
