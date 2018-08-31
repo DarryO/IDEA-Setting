@@ -36,12 +36,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inputs/inputs.py" timestamp="1535702820662">
-        <mark key="'" line="61" column="23" />
-        <mark key="[" line="40" column="52" />
-        <mark key="]" line="40" column="8" />
-        <mark key="." line="40" column="8" />
-        <mark key="^" line="39" column="12" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inputs/inputs.py" timestamp="1535703651699">
+        <mark key="'" line="68" column="23" />
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="24" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/main.py" timestamp="1534737993549">
         <mark key="'" line="15" column="29" />
@@ -683,22 +683,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIF9wYXJzZV9saW5lKGxpbmUpOgogICAgcGFzcwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CgoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIF9wYXJzZV9saW5lKGxpbmUpOgogICAgcGFzcwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlY29kZV9vdXRwdXRzLCBzZWxmLl9kZWNfb3V0X3N0YXRlLCBzZWxmLmF0dG5fZGlzdHMsIHNlbGYucF9nZW5zLCBzZWxmLmNvdmVyYWdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
