@@ -228,8 +228,8 @@
         <mark key="^" line="335" column="7" />
         <mark key="." line="335" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1535646367364">
-        <mark key="'" line="232" column="25" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1535681714344">
+        <mark key="'" line="143" column="8" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
@@ -559,10 +559,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="19" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/inputs/inputs.py" />
-      <jump line="92" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="146" column="26" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="152" column="48" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="163" column="40" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="284" column="43" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="327" column="45" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -659,6 +656,9 @@
       <jump line="38" column="10" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="105" column="35" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="147" column="61" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
+      <jump line="50" column="51" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="152" column="10" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="143" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -668,7 +668,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfa2V5c1w+</text>
+        <text encoding="base64">XDxfY2FsY19maW5hbF9kaXN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN1cGVyKEF0dGVudGlvbldyYXBwZXIsIHNlbGYpLl9faW5pdF9fKG5hbWU9bmFtZSkKICAgIGlmIG5vdCBybm5fY2VsbF9pbXBsLl9saWtlX3JubmNlbGwoY2VsbCk6ICAjIHB5bGludDogZGlzYWJsZT1wcm90ZWN0ZWQtYWNjZXNzCiAgICAgIHJhaXNlIFR5cGVFcnJvcigKICAgICAgICAgICJjZWxsIG11c3QgYmUgYW4gUk5OQ2VsbCwgc2F3IHR5cGU6ICVzIiAlIHR5cGUoY2VsbCkuX19uYW1lX18pCiAgICBpZiBpc2luc3RhbmNlKGF0dGVudGlvbl9tZWNoYW5pc20sIChsaXN0LCB0dXBsZSkpOgogICAgICBzZWxmLl9pc19tdWx0aSA9IFRydWUKICAgICAgYXR0ZW50aW9uX21lY2hhbmlzbXMgPSBhdHRlbnRpb25fbWVjaGFuaXNtCiAgICAgIGZvciBhdHRlbnRpb25fbWVjaGFuaXNtIGluIGF0dGVudGlvbl9tZWNoYW5pc21zOgogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKGF0dGVudGlvbl9tZWNoYW5pc20sIEF0dGVudGlvbk1lY2hhbmlzbSk6CiAgICAgICAgICByYWlzZSBUeXBlRXJyb3IoCiAgICAgICAgICAgICAgImF0dGVudGlvbl9tZWNoYW5pc20gbXVzdCBjb250YWluIG9ubHkgaW5zdGFuY2VzIG9mICIKICAgICAgICAgICAgICAiQXR0ZW50aW9uTWVjaGFuaXNtLCBzYXcgdHlwZTogJXMiCiAgICAgICAgICAgICAgJSB0eXBlKGF0dGVudGlvbl9tZWNoYW5pc20pLl9fbmFtZV9fKQogICAgZWxzZToKICAgICAgc2VsZi5faXNfbXVsdGkgPSBGYWxzZQogICAgICBpZiBub3QgaXNpbnN0YW5jZShhdHRlbnRpb25fbWVjaGFuaXNtLCBBdHRlbnRpb25NZWNoYW5pc20pOgogICAgICAgIHJhaXNlIFR5cGVFcnJvcigKICAgICAgICAgICAgImF0dGVudGlvbl9tZWNoYW5pc20gbXVzdCBiZSBhbiBBdHRlbnRpb25NZWNoYW5pc20gb3IgbGlzdCBvZiAiCiAgICAgICAgICAgICJtdWx0aXBsZSBBdHRlbnRpb25NZWNoYW5pc20gaW5zdGFuY2VzLCBzYXcgdHlwZTogJXMiCiAgICAgICAgICAgICUgdHlwZShhdHRlbnRpb25fbWVjaGFuaXNtKS5fX25hbWVfXykKICAgICAgYXR0ZW50aW9uX21lY2hhbmlzbXMgPSAoYXR0ZW50aW9uX21lY2hhbmlzbSwpCgogICAgaWYgY2VsbF9pbnB1dF9mbiBpcyBOb25lOgogICAgICBjZWxsX2lucHV0X2ZuID0gKAogICAgICAgICAgbGFtYmRhIGlucHV0cywgYXR0ZW50aW9uOiBhcnJheV9vcHMuY29uY2F0KFtpbnB1dHMsIGF0dGVudGlvbl0sIC0xKSkKICAgIGVsc2U6CiAgICAgIGlmIG5vdCBjYWxsYWJsZShjZWxsX2lucHV0X2ZuKToKICAgICAgICByYWlzZSBUeXBlRXJyb3IoCiAgICAgICAgICAgICJjZWxsX2lucHV0X2ZuIG11c3QgYmUgY2FsbGFibGUsIHNhdyB0eXBlOiAlcyIKICAgICAgICAgICAgJSB0eXBlKGNlbGxfaW5wdXRfZm4pLl9fbmFtZV9fKQoKICAgIGlmIGF0dGVudGlvbl9sYXllcl9zaXplIGlzIG5vdCBOb25lOgogICAgICBhdHRlbnRpb25fbGF5ZXJfc2l6ZXMgPSB0dXBsZSgKICAgICAgICAgIGF0dGVudGlvbl9sYXllcl9zaXplCiAgICAgICAgICBpZiBpc2luc3RhbmNlKGF0dGVudGlvbl9sYXllcl9zaXplLCAobGlzdCwgdHVwbGUpKQogICAgICAgICAgZWxzZSAoYXR0ZW50aW9uX2xheWVyX3NpemUsKSkKICAgICAgaWYgbGVuKGF0dGVudGlvbl9sYXllcl9zaXplcykgIT0gbGVuKGF0dGVudGlvbl9tZWNoYW5pc21zKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKAogICAgICAgICAgICAiSWYgcHJvdmlkZWQsIGF0dGVudGlvbl9sYXllcl9zaXplIG11c3QgY29udGFpbiBleGFjdGx5IG9uZSAiCiAgICAgICAgICAgICJpbnRlZ2VyIHBlciBhdHRlbnRpb25fbWVjaGFuaXNtLCBzYXc6ICVkIHZzICVkIgogICAgICAgICAgICAlIChsZW4oYXR0ZW50aW9uX2xheWVyX3NpemVzKSwgbGVuKGF0dGVudGlvbl9tZWNoYW5pc21zKSkpCiAgICAgIHNlbGYuX2F0dGVudGlvbl9sYXllcnMgPSB0dXBsZSgKICAgICAgICAgIGxheWVyc19jb3JlLkRlbnNlKAogICAgICAgICAgICAgIGF0dGVudGlvbl9sYXllcl9zaXplLCBuYW1lPSJhdHRlbnRpb25fbGF5ZXIiLCB1c2VfYmlhcz1GYWxzZSkKICAgICAgICAgIGZvciBhdHRlbnRpb25fbGF5ZXJfc2l6ZSBpbiBhdHRlbnRpb25fbGF5ZXJfc2l6ZXMpCiAgICAgIHNlbGYuX2F0dGVudGlvbl9sYXllcl9zaXplID0gc3VtKGF0dGVudGlvbl9sYXllcl9zaXplcykKICAgIGVsc2U6CiAgICAgIHNlbGYuX2F0dGVudGlvbl9sYXllcnMgPSBOb25lCiAgICAgIHNlbGYuX2F0dGVudGlvbl9sYXllcl9zaXplID0gc3VtKAogICAgICAgICAgYXR0ZW50aW9uX21lY2hhbmlzbS52YWx1ZXMuZ2V0X3NoYXBlKClbLTFdLnZhbHVlCiAgICAgICAgICBmb3IgYXR0ZW50aW9uX21lY2hhbmlzbSBpbiBhdHRlbnRpb25fbWVjaGFuaXNtcykKCiAgICBzZWxmLl9jZWxsID0gY2VsbAogICAgc2VsZi5fYXR0ZW50aW9uX21lY2hhbmlzbXMgPSBhdHRlbnRpb25fbWVjaGFuaXNtcwogICAgc2VsZi5fY2VsbF9pbnB1dF9mbiA9IGNlbGxfaW5wdXRfZm4KICAgIHNlbGYuX291dHB1dF9hdHRlbnRpb24gPSBvdXRwdXRfYXR0ZW50aW9uCiAgICBzZWxmLl9hbGlnbm1lbnRfaGlzdG9yeSA9IGFsaWdubWVudF9oaXN0b3J5CiAgICB3aXRoIG9wcy5uYW1lX3Njb3BlKG5hbWUsICJBdHRlbnRpb25XcmFwcGVySW5pdCIpOgogICAgICBpZiBpbml0aWFsX2NlbGxfc3RhdGUgaXMgTm9uZToKICAgICAgICBzZWxmLl9pbml0aWFsX2NlbGxfc3RhdGUgPSBOb25lCiAgICAgIGVsc2U6CiAgICAgICAgZmluYWxfc3RhdGVfdGVuc29yID0gbmVzdC5mbGF0dGVuKGluaXRpYWxfY2VsbF9zdGF0ZSlbLTFdCiAgICAgICAgc3RhdGVfYmF0Y2hfc2l6ZSA9ICgKICAgICAgICAgICAgZmluYWxfc3RhdGVfdGVuc29yLnNoYXBlWzBdLnZhbHVlCiAgICAgICAgICAgIG9yIGFycmF5X29wcy5zaGFwZShmaW5hbF9zdGF0ZV90ZW5zb3IpWzBdKQogICAgICAgIGVycm9yX21lc3NhZ2UgPSAoCiAgICAgICAgICAgICJXaGVuIGNvbnN0cnVjdGluZyBBdHRlbnRpb25XcmFwcGVyICVzOiAiICUgc2VsZi5fYmFzZV9uYW1lICsKICAgICAgICAgICAgIk5vbi1tYXRjaGluZyBiYXRjaCBzaXplcyBiZXR3ZWVuIHRoZSBtZW1vcnkgIgogICAgICAgICAgICAiKGVuY29kZXIgb3V0cHV0KSBhbmQgaW5pdGlhbF9jZWxsX3N0YXRlLiAgQXJlIHlvdSB1c2luZyAiCiAgICAgICAgICAgICJ0aGUgQmVhbVNlYXJjaERlY29kZXI/ICBZb3UgbWF5IG5lZWQgdG8gdGlsZSB5b3VyIGluaXRpYWwgc3RhdGUgIgogICAgICAgICAgICAidmlhIHRoZSB0Zi5jb250cmliLnNlcTJzZXEudGlsZV9iYXRjaCBmdW5jdGlvbiB3aXRoIGFyZ3VtZW50ICIKICAgICAgICAgICAgIm11bHRpcGxlPWJlYW1fd2lkdGguIikKICAgICAgICB3aXRoIG9wcy5jb250cm9sX2RlcGVuZGVuY2llcygKICAgICAgICAgICAgc2VsZi5fYmF0Y2hfc2l6ZV9jaGVja3Moc3RhdGVfYmF0Y2hfc2l6ZSwgZXJyb3JfbWVzc2FnZSkpOgogICAgICAgICAgc2VsZi5faW5pdGlhbF9jZWxsX3N0YXRlID0gbmVzdC5tYXBfc3RydWN0dXJlKAogICAgICAgICAgICAgIGxhbWJkYSBzOiBhcnJheV9vcHMuaWRlbnRpdHkocywgbmFtZT0iY2hlY2tfaW5pdGlhbF9jZWxsX3N0YXRlIiksCiAgICAgICAgICAgICAgaW5pdGlhbF9jZWxsX3N0YXRlKQo=</text>
@@ -706,21 +706,18 @@
         <text encoding="base64">ICAgIHByaW50KCIhISEhISEhIiwgaW5wKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>267</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfa2V5c1w+</last-search>
+      <last-search encoding="base64">XDxfY2FsY19maW5hbF9kaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfa2V5c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfY2FsY19maW5hbF9kaXN0XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBdHRlbnRpb25XcmFwcGVyXD4=</entry>
-        <entry encoding="base64">XDxNeUF0dGVudGlvbldyYXBwZXJTdGF0ZVw+</entry>
-        <entry encoding="base64">XDxfbHVvbmdfc2NvcmVcPg==</entry>
         <entry>_score</entry>
         <entry>bah</entry>
         <entry>expand</entry>
@@ -738,9 +735,11 @@
         <entry encoding="base64">XDxtZW1vcnlfbGF5ZXJcPg==</entry>
         <entry>keys</entry>
         <entry encoding="base64">XDxfa2V5c1w+</entry>
+        <entry>final_</entry>
+        <entry>final_di</entry>
+        <entry encoding="base64">XDxfY2FsY19maW5hbF9kaXN0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>w:w</entry>
         <entry>111</entry>
         <entry>137</entry>
         <entry>wq</entry>
@@ -760,6 +759,7 @@
         <entry>40</entry>
         <entry>58</entry>
         <entry>w</entry>
+        <entry>267</entry>
       </history-cmd>
       <history-expr />
       <history-input />
