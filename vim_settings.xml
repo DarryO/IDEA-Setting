@@ -16,19 +16,19 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/inference.py" timestamp="1535107356019">
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/inference.py" timestamp="1535942017703">
         <mark key="'" line="48" column="27" />
-        <mark key="[" line="86" column="38" />
-        <mark key="]" line="86" column="37" />
-        <mark key="." line="86" column="37" />
-        <mark key="^" line="86" column="37" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+        <mark key="^" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/vocab.py" timestamp="1535607995927">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="174" column="20" />
-        <mark key="]" line="174" column="20" />
-        <mark key="^" line="174" column="20" />
-        <mark key="." line="174" column="20" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/vocab.py" timestamp="1535942085715">
+        <mark key="'" line="76" column="8" />
+        <mark key="[" line="77" column="55" />
+        <mark key="]" line="77" column="55" />
+        <mark key="^" line="77" column="55" />
+        <mark key="." line="77" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/__init__.py" timestamp="1535087711992">
         <mark key="[" line="0" column="0" />
@@ -36,12 +36,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inputs/inputs.py" timestamp="1535703651699">
-        <mark key="'" line="68" column="23" />
-        <mark key="[" line="23" column="31" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
-        <mark key="^" line="24" column="16" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inputs/inputs.py" timestamp="1535941732910">
+        <mark key="'" line="23" column="31" />
+        <mark key="[" line="47" column="69" />
+        <mark key="]" line="47" column="69" />
+        <mark key="." line="47" column="69" />
+        <mark key="^" line="47" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/main.py" timestamp="1534737993549">
         <mark key="'" line="15" column="29" />
@@ -62,12 +62,12 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="23" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/batch.py" timestamp="1535107223796">
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/batch.py" timestamp="1535942050552">
         <mark key="'" line="173" column="17" />
-        <mark key="[" line="52" column="52" />
-        <mark key="]" line="52" column="51" />
-        <mark key="." line="52" column="51" />
-        <mark key="^" line="52" column="51" />
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="19" column="2" />
+        <mark key="." line="19" column="2" />
+        <mark key="^" line="19" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/__init__.py" timestamp="1534474302392">
         <mark key="[" line="2" column="39" />
@@ -88,8 +88,11 @@
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
       </file>
-      <file name="/Python Console" timestamp="1534727847586">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/decode.py" timestamp="1535941852538">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="6" />
+        <mark key="^" line="22" column="6" />
+        <mark key="." line="22" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" timestamp="1535678782019">
         <mark key="'" line="30" column="32" />
@@ -104,10 +107,6 @@
         <mark key="]" line="21" column="91" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="2" column="76" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/model.py" timestamp="1535608045779">
-        <mark key="'" line="332" column="39" />
-        <mark key="^" line="456" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/ali/cnn-dailymail/make_datafiles.py" timestamp="1533620985843">
         <mark key="'" line="0" column="0" />
@@ -136,19 +135,19 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/beam_search.py" timestamp="1535108119342">
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/beam_search.py" timestamp="1535942041028">
         <mark key="'" line="123" column="6" />
-        <mark key="[" line="156" column="23" />
-        <mark key="]" line="157" column="26" />
-        <mark key="." line="157" column="26" />
-        <mark key="^" line="157" column="26" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="6" />
+        <mark key="." line="19" column="6" />
+        <mark key="^" line="19" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/decode.py" timestamp="1535107454431">
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/decode.py" timestamp="1535942033367">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="39" column="39" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="6" />
+        <mark key="^" line="20" column="6" />
+        <mark key="." line="20" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" timestamp="1535625530897">
         <mark key="'" line="101" column="18" />
@@ -228,12 +227,11 @@
         <mark key="^" line="335" column="7" />
         <mark key="." line="335" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1535681714344">
-        <mark key="'" line="143" column="8" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="60" column="67" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1535942158435">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="59" column="67" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" timestamp="1534499371011">
         <mark key="'" line="98" column="12" />
@@ -263,6 +261,12 @@
         <mark key="^" line="86" column="31" />
         <mark key="." line="86" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/batch.py" timestamp="1535941964161">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="6" />
+        <mark key="." line="23" column="6" />
+        <mark key="^" line="23" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" timestamp="1535526107640">
         <mark key="'" line="39" column="32" />
         <mark key="[" line="329" column="90" />
@@ -283,12 +287,6 @@
         <mark key="]" line="19" column="9" />
         <mark key="." line="19" column="9" />
         <mark key="^" line="19" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" timestamp="1535602509854">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" timestamp="1535646238764">
         <mark key="'" line="148" column="61" />
@@ -335,10 +333,6 @@
         <mark key="]" line="57" column="72" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/attention.py" timestamp="1534921003546">
-        <mark key="'" line="124" column="12" />
-        <mark key="^" line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/base/confs/config.py" timestamp="1534403753690">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="22" />
@@ -364,16 +358,22 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" timestamp="1535678679307">
-        <mark key="'" line="449" column="6" />
-        <mark key="[" line="1078" column="0" />
-        <mark key="]" line="1154" column="32" />
+      <file name="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" timestamp="1535941705285">
+        <mark key="'" line="1086" column="36" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model_bk.py" timestamp="1534909965645">
         <mark key="'" line="590" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/beam_search.py" timestamp="1535941876454">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="6" />
+        <mark key="^" line="20" column="6" />
+        <mark key="." line="20" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/helper.py" timestamp="1534922573842">
         <mark key="[" line="5" column="39" />
@@ -466,15 +466,19 @@
         <mark key="]" line="298" column="45" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535608081718">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/inference.py" timestamp="1535941762243">
+        <mark key="'" line="13" column="17" />
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+        <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/inference.py" timestamp="1535090131212">
-        <mark key="'" line="34" column="4" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="63" column="21" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/vocab.py" timestamp="1535941820636">
+        <mark key="'" line="73" column="8" />
+        <mark key="[" line="73" column="136" />
+        <mark key="]" line="73" column="136" />
+        <mark key="." line="73" column="136" />
+        <mark key="^" line="73" column="136" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/basic/main.py" timestamp="1534324953236">
         <mark key="'" line="22" column="4" />
@@ -483,11 +487,12 @@
         <mark key="^" line="2" column="79" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/cli.py" timestamp="1534404529289">
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/cli.py" timestamp="1535942206597">
         <mark key="'" line="8" column="15" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="100" column="4" />
+        <mark key="]" line="100" column="5" />
+        <mark key="." line="100" column="5" />
+        <mark key="^" line="100" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/playground/tf/new_api.py" timestamp="1534144668004">
         <mark key="'" line="16" column="55" />
@@ -557,25 +562,15 @@
         <mark key="]" line="37" column="8" />
         <mark key="." line="37" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" timestamp="1535941708427">
+        <mark key="'" line="84" column="27" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="37" />
+        <mark key="^" line="21" column="5" />
+        <mark key="." line="9" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="40" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="284" column="43" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="327" column="45" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="330" column="22" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="18" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="27" column="4" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="247" column="20" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="233" column="20" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="220" column="60" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="25" column="10" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="64" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="73" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="94" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="72" column="15" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="63" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="101" column="21" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="92" column="25" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
       <jump line="56" column="44" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
       <jump line="21" column="68" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
       <jump line="179" column="31" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
@@ -659,65 +654,79 @@
       <jump line="152" column="10" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="143" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="30" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inputs/inputs.py" />
+      <jump line="81" column="27" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model.py" />
+      <jump line="1086" column="36" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
+      <jump line="23" column="31" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inputs/inputs.py" />
+      <jump line="265" column="59" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="13" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/inference.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/vocab.py" />
+      <jump line="19" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/vocab.py" />
+      <jump line="59" column="22" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/vocab.py" />
+      <jump line="70" column="20" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/vocab.py" />
+      <jump line="73" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/vocab.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/vocab.py" />
+      <jump line="73" column="42" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/vocab.py" />
+      <jump line="77" column="55" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/vocab.py" />
+      <jump line="60" column="20" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/vocab.py" />
+      <jump line="72" column="20" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/vocab.py" />
+      <jump line="76" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/vocab.py" />
+      <jump line="25" column="30" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2FsY19maW5hbF9kaXN0XD4=</text>
+        <text encoding="base64">XDxfbGlrZV9ybm5jZWxsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKEF0dGVudGlvbldyYXBwZXIsIHNlbGYpLl9faW5pdF9fKG5hbWU9bmFtZSkKICAgIGlmIG5vdCBybm5fY2VsbF9pbXBsLl9saWtlX3JubmNlbGwoY2VsbCk6ICAjIHB5bGludDogZGlzYWJsZT1wcm90ZWN0ZWQtYWNjZXNzCiAgICAgIHJhaXNlIFR5cGVFcnJvcigKICAgICAgICAgICJjZWxsIG11c3QgYmUgYW4gUk5OQ2VsbCwgc2F3IHR5cGU6ICVzIiAlIHR5cGUoY2VsbCkuX19uYW1lX18pCiAgICBpZiBpc2luc3RhbmNlKGF0dGVudGlvbl9tZWNoYW5pc20sIChsaXN0LCB0dXBsZSkpOgogICAgICBzZWxmLl9pc19tdWx0aSA9IFRydWUKICAgICAgYXR0ZW50aW9uX21lY2hhbmlzbXMgPSBhdHRlbnRpb25fbWVjaGFuaXNtCiAgICAgIGZvciBhdHRlbnRpb25fbWVjaGFuaXNtIGluIGF0dGVudGlvbl9tZWNoYW5pc21zOgogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKGF0dGVudGlvbl9tZWNoYW5pc20sIEF0dGVudGlvbk1lY2hhbmlzbSk6CiAgICAgICAgICByYWlzZSBUeXBlRXJyb3IoCiAgICAgICAgICAgICAgImF0dGVudGlvbl9tZWNoYW5pc20gbXVzdCBjb250YWluIG9ubHkgaW5zdGFuY2VzIG9mICIKICAgICAgICAgICAgICAiQXR0ZW50aW9uTWVjaGFuaXNtLCBzYXcgdHlwZTogJXMiCiAgICAgICAgICAgICAgJSB0eXBlKGF0dGVudGlvbl9tZWNoYW5pc20pLl9fbmFtZV9fKQogICAgZWxzZToKICAgICAgc2VsZi5faXNfbXVsdGkgPSBGYWxzZQogICAgICBpZiBub3QgaXNpbnN0YW5jZShhdHRlbnRpb25fbWVjaGFuaXNtLCBBdHRlbnRpb25NZWNoYW5pc20pOgogICAgICAgIHJhaXNlIFR5cGVFcnJvcigKICAgICAgICAgICAgImF0dGVudGlvbl9tZWNoYW5pc20gbXVzdCBiZSBhbiBBdHRlbnRpb25NZWNoYW5pc20gb3IgbGlzdCBvZiAiCiAgICAgICAgICAgICJtdWx0aXBsZSBBdHRlbnRpb25NZWNoYW5pc20gaW5zdGFuY2VzLCBzYXcgdHlwZTogJXMiCiAgICAgICAgICAgICUgdHlwZShhdHRlbnRpb25fbWVjaGFuaXNtKS5fX25hbWVfXykKICAgICAgYXR0ZW50aW9uX21lY2hhbmlzbXMgPSAoYXR0ZW50aW9uX21lY2hhbmlzbSwpCgogICAgaWYgY2VsbF9pbnB1dF9mbiBpcyBOb25lOgogICAgICBjZWxsX2lucHV0X2ZuID0gKAogICAgICAgICAgbGFtYmRhIGlucHV0cywgYXR0ZW50aW9uOiBhcnJheV9vcHMuY29uY2F0KFtpbnB1dHMsIGF0dGVudGlvbl0sIC0xKSkKICAgIGVsc2U6CiAgICAgIGlmIG5vdCBjYWxsYWJsZShjZWxsX2lucHV0X2ZuKToKICAgICAgICByYWlzZSBUeXBlRXJyb3IoCiAgICAgICAgICAgICJjZWxsX2lucHV0X2ZuIG11c3QgYmUgY2FsbGFibGUsIHNhdyB0eXBlOiAlcyIKICAgICAgICAgICAgJSB0eXBlKGNlbGxfaW5wdXRfZm4pLl9fbmFtZV9fKQoKICAgIGlmIGF0dGVudGlvbl9sYXllcl9zaXplIGlzIG5vdCBOb25lOgogICAgICBhdHRlbnRpb25fbGF5ZXJfc2l6ZXMgPSB0dXBsZSgKICAgICAgICAgIGF0dGVudGlvbl9sYXllcl9zaXplCiAgICAgICAgICBpZiBpc2luc3RhbmNlKGF0dGVudGlvbl9sYXllcl9zaXplLCAobGlzdCwgdHVwbGUpKQogICAgICAgICAgZWxzZSAoYXR0ZW50aW9uX2xheWVyX3NpemUsKSkKICAgICAgaWYgbGVuKGF0dGVudGlvbl9sYXllcl9zaXplcykgIT0gbGVuKGF0dGVudGlvbl9tZWNoYW5pc21zKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKAogICAgICAgICAgICAiSWYgcHJvdmlkZWQsIGF0dGVudGlvbl9sYXllcl9zaXplIG11c3QgY29udGFpbiBleGFjdGx5IG9uZSAiCiAgICAgICAgICAgICJpbnRlZ2VyIHBlciBhdHRlbnRpb25fbWVjaGFuaXNtLCBzYXc6ICVkIHZzICVkIgogICAgICAgICAgICAlIChsZW4oYXR0ZW50aW9uX2xheWVyX3NpemVzKSwgbGVuKGF0dGVudGlvbl9tZWNoYW5pc21zKSkpCiAgICAgIHNlbGYuX2F0dGVudGlvbl9sYXllcnMgPSB0dXBsZSgKICAgICAgICAgIGxheWVyc19jb3JlLkRlbnNlKAogICAgICAgICAgICAgIGF0dGVudGlvbl9sYXllcl9zaXplLCBuYW1lPSJhdHRlbnRpb25fbGF5ZXIiLCB1c2VfYmlhcz1GYWxzZSkKICAgICAgICAgIGZvciBhdHRlbnRpb25fbGF5ZXJfc2l6ZSBpbiBhdHRlbnRpb25fbGF5ZXJfc2l6ZXMpCiAgICAgIHNlbGYuX2F0dGVudGlvbl9sYXllcl9zaXplID0gc3VtKGF0dGVudGlvbl9sYXllcl9zaXplcykKICAgIGVsc2U6CiAgICAgIHNlbGYuX2F0dGVudGlvbl9sYXllcnMgPSBOb25lCiAgICAgIHNlbGYuX2F0dGVudGlvbl9sYXllcl9zaXplID0gc3VtKAogICAgICAgICAgYXR0ZW50aW9uX21lY2hhbmlzbS52YWx1ZXMuZ2V0X3NoYXBlKClbLTFdLnZhbHVlCiAgICAgICAgICBmb3IgYXR0ZW50aW9uX21lY2hhbmlzbSBpbiBhdHRlbnRpb25fbWVjaGFuaXNtcykKCiAgICBzZWxmLl9jZWxsID0gY2VsbAogICAgc2VsZi5fYXR0ZW50aW9uX21lY2hhbmlzbXMgPSBhdHRlbnRpb25fbWVjaGFuaXNtcwogICAgc2VsZi5fY2VsbF9pbnB1dF9mbiA9IGNlbGxfaW5wdXRfZm4KICAgIHNlbGYuX291dHB1dF9hdHRlbnRpb24gPSBvdXRwdXRfYXR0ZW50aW9uCiAgICBzZWxmLl9hbGlnbm1lbnRfaGlzdG9yeSA9IGFsaWdubWVudF9oaXN0b3J5CiAgICB3aXRoIG9wcy5uYW1lX3Njb3BlKG5hbWUsICJBdHRlbnRpb25XcmFwcGVySW5pdCIpOgogICAgICBpZiBpbml0aWFsX2NlbGxfc3RhdGUgaXMgTm9uZToKICAgICAgICBzZWxmLl9pbml0aWFsX2NlbGxfc3RhdGUgPSBOb25lCiAgICAgIGVsc2U6CiAgICAgICAgZmluYWxfc3RhdGVfdGVuc29yID0gbmVzdC5mbGF0dGVuKGluaXRpYWxfY2VsbF9zdGF0ZSlbLTFdCiAgICAgICAgc3RhdGVfYmF0Y2hfc2l6ZSA9ICgKICAgICAgICAgICAgZmluYWxfc3RhdGVfdGVuc29yLnNoYXBlWzBdLnZhbHVlCiAgICAgICAgICAgIG9yIGFycmF5X29wcy5zaGFwZShmaW5hbF9zdGF0ZV90ZW5zb3IpWzBdKQogICAgICAgIGVycm9yX21lc3NhZ2UgPSAoCiAgICAgICAgICAgICJXaGVuIGNvbnN0cnVjdGluZyBBdHRlbnRpb25XcmFwcGVyICVzOiAiICUgc2VsZi5fYmFzZV9uYW1lICsKICAgICAgICAgICAgIk5vbi1tYXRjaGluZyBiYXRjaCBzaXplcyBiZXR3ZWVuIHRoZSBtZW1vcnkgIgogICAgICAgICAgICAiKGVuY29kZXIgb3V0cHV0KSBhbmQgaW5pdGlhbF9jZWxsX3N0YXRlLiAgQXJlIHlvdSB1c2luZyAiCiAgICAgICAgICAgICJ0aGUgQmVhbVNlYXJjaERlY29kZXI/ICBZb3UgbWF5IG5lZWQgdG8gdGlsZSB5b3VyIGluaXRpYWwgc3RhdGUgIgogICAgICAgICAgICAidmlhIHRoZSB0Zi5jb250cmliLnNlcTJzZXEudGlsZV9iYXRjaCBmdW5jdGlvbiB3aXRoIGFyZ3VtZW50ICIKICAgICAgICAgICAgIm11bHRpcGxlPWJlYW1fd2lkdGguIikKICAgICAgICB3aXRoIG9wcy5jb250cm9sX2RlcGVuZGVuY2llcygKICAgICAgICAgICAgc2VsZi5fYmF0Y2hfc2l6ZV9jaGVja3Moc3RhdGVfYmF0Y2hfc2l6ZSwgZXJyb3JfbWVzc2FnZSkpOgogICAgICAgICAgc2VsZi5faW5pdGlhbF9jZWxsX3N0YXRlID0gbmVzdC5tYXBfc3RydWN0dXJlKAogICAgICAgICAgICAgIGxhbWJkYSBzOiBhcnJheV9vcHMuaWRlbnRpdHkocywgbmFtZT0iY2hlY2tfaW5pdGlhbF9jZWxsX3N0YXRlIiksCiAgICAgICAgICAgICAgaW5pdGlhbF9jZWxsX3N0YXRlKQo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IHByaW50X2Z1bmN0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X2xpa2Vfcm5uY2VsbCA9IHJubl9jZWxsX2ltcGwuX2xpa2Vfcm5uY2VsbCAgIyBweWxpbnQ6IGRpc2FibGU9aW52YWxpZC1uYW1lLCBwcm90ZWN0ZWQtYWNjZXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X2xpa2Vfcm5uY2VsbCA9IHJubl9jZWxsX2ltcGwuX2xpa2Vfcm5uY2VsbCAgIyBweWxpbnQ6IGRpc2FibGU9aW52YWxpZC1uYW1lLCBwcm90ZWN0ZWQtYWNjZXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFF1ZXVlCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">IyAKIwojIAojIAojIAojCiMgCiMgCiMKIyAKIyAKIyAKIyAKIwojIAojCiMKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIF9wYXJzZV9saW5lKGxpbmUpOgogICAgcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2FsY19maW5hbF9kaXN0XD4=</last-search>
+      <last-search encoding="base64">XDxfbGlrZV9ybm5jZWxsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2FsY19maW5hbF9kaXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfbGlrZV9ybm5jZWxsXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_score</entry>
-        <entry>bah</entry>
         <entry>expand</entry>
         <entry>score</entry>
-        <entry>print</entry>
         <entry encoding="base64">XDxhdHRlbnRpb25fdmVjX3NpemVcPg==</entry>
         <entry encoding="base64">XDxfcG9pbnRlcl9zY29yZVw+</entry>
         <entry encoding="base64">XDxfbWVtb3J5XD4=</entry>
@@ -733,9 +742,11 @@
         <entry>final_</entry>
         <entry>final_di</entry>
         <entry encoding="base64">XDxfY2FsY19maW5hbF9kaXN0XD4=</entry>
+        <entry encoding="base64">XDx2b2NhYl9saWJcPg==</entry>
+        <entry>print</entry>
+        <entry encoding="base64">XDxfbGlrZV9ybm5jZWxsXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>111</entry>
         <entry>137</entry>
         <entry>wq</entry>
         <entry>text_</entry>
@@ -754,6 +765,7 @@
         <entry>40</entry>
         <entry>58</entry>
         <entry>267</entry>
+        <entry>26</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
