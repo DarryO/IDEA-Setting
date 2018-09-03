@@ -241,6 +241,9 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="111" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/beam_search.py" timestamp="1534907920710">
+        <mark key="'" line="121" column="89" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/cnn-dailymail/data.py" timestamp="1533634577303">
         <mark key="'" line="139" column="4" />
         <mark key="[" line="17" column="82" />
@@ -353,6 +356,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_decoder.py" timestamp="1535960399497">
+        <mark key="'" line="207" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/confs/config.py" timestamp="1535093300681">
         <mark key="'" line="46" column="13" />
         <mark key="[" line="33" column="0" />
@@ -426,6 +432,9 @@
         <mark key="]" line="13" column="37" />
         <mark key="^" line="2" column="80" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/helper.py" timestamp="1534737979632">
+        <mark key="'" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/playground/tf/helper.py" timestamp="1534328975275">
         <mark key="'" line="4" column="0" />
@@ -572,7 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="23" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
       <jump line="142" column="61" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="36" column="33" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="34" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -672,6 +680,7 @@
       <jump line="67" column="27" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/cli.py" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/helper.py" />
       <jump line="16" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inputs/inputs.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_decoder.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
