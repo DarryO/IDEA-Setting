@@ -464,11 +464,12 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" timestamp="1535966605479">
-        <mark key="'" line="96" column="27" />
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="68" />
-        <mark key="." line="223" column="93" />
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" timestamp="1535968201513">
+        <mark key="'" line="224" column="94" />
+        <mark key="[" line="220" column="30" />
+        <mark key="]" line="220" column="30" />
+        <mark key="." line="220" column="30" />
+        <mark key="^" line="220" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/seq2seq/helper.py" timestamp="1534328983285">
         <mark key="'" line="285" column="8" />
@@ -581,10 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="24" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
-      <jump line="56" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
-      <jump line="19" column="13" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
-      <jump line="23" column="20" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
       <jump line="26" column="8" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
       <jump line="30" column="34" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
       <jump line="32" column="28" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" />
@@ -681,6 +678,10 @@
       <jump line="220" column="49" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
       <jump line="218" column="37" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
       <jump line="96" column="27" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
+      <jump line="297" column="70" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
+      <jump line="232" column="53" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
+      <jump line="275" column="59" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
+      <jump line="224" column="94" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -690,7 +691,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZW5jX2JhdGNoX2V4dGVuZF92b2NhYlw+</text>
+        <text encoding="base64">XDxhdHRuX2Rpc3RzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBBZGQgdGhlIG91dHB1dCBwcm9qZWN0aW9uIHRvIG9idGFpbiB0aGUgdm9jYWJ1bGFyeSBkaXN0cmlidXRpb24KICAgICAgICAgICAgd2l0aCB0Zi52YXJpYWJsZV9zY29wZSgnb3V0cHV0X3Byb2plY3Rpb24nKToKICAgICAgICAgICAgICAgIHcgPSB0Zi5nZXRfdmFyaWFibGUoJ3cnLCBbc2VsZi5faGlkZGVuX2RpbSwgdnNpemVdLCBkdHlwZT10Zi5mbG9hdDMyLCBpbml0aWFsaXplcj1zZWxmLnRydW5jX25vcm1faW5pdCkKICAgICAgICAgICAgICAgIHYgPSB0Zi5nZXRfdmFyaWFibGUoJ3YnLCBbdnNpemVdLCBkdHlwZT10Zi5mbG9hdDMyLCBpbml0aWFsaXplcj1zZWxmLnRydW5jX25vcm1faW5pdCkKICAgICAgICAgICAgICAgICMgdm9jYWJfc2NvcmVzIGlzIHRoZSB2b2NhYnVsYXJ5IGRpc3RyaWJ1dGlvbiBiZWZvcmUgYXBwbHlpbmcgc29mdG1heC4KICAgICAgICAgICAgICAgICMgRWFjaCBlbnRyeSBvbiB0aGUgbGlzdCBjb3JyZXNwb25kcyB0byBvbmUgZGVjb2RlciBzdGVwCiAgICAgICAgICAgICAgICB2b2NhYl9zY29yZXMgPSBbXQogICAgICAgICAgICAgICAgZm9yIGksIG91dHB1dCBpbiBlbnVtZXJhdGUoZGVjb2Rlcl9vdXRwdXRzKToKICAgICAgICAgICAgICAgICAgICBpZiBpID4gMDoKICAgICAgICAgICAgICAgICAgICAgICAgdGYuZ2V0X3ZhcmlhYmxlX3Njb3BlKCkucmV1c2VfdmFyaWFibGVzKCkKICAgICAgICAgICAgICAgICAgICB2b2NhYl9zY29yZXMuYXBwZW5kKHRmLm5uLnh3X3BsdXNfYihvdXRwdXQsIHcsIHYpKSAgIyBhcHBseSB0aGUgbGluZWFyIGxheWVyCgogICAgICAgICAgICAgICAgIyBUaGUgdm9jYWJ1bGFyeSBkaXN0cmlidXRpb25zLiBMaXN0IGxlbmd0aCBtYXhfZGVjX3N0ZXBzIG9mIChiYXRjaF9zaXplLCB2c2l6ZSkgYXJyYXlzLgogICAgICAgICAgICAgICAgIyBUaGUgd29yZHMgYXJlIGluIHRoZSBvcmRlciB0aGV5IGFwcGVhciBpbiB0aGUgdm9jYWJ1bGFyeSBmaWxlLgogICAgICAgICAgICAgICAgdm9jYWJfZGlzdHMgPSBbdGYubm4uc29mdG1heChzKSBmb3IgcyBpbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdm9jYWJfc2NvcmVzXQo=</text>
@@ -727,15 +728,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZW5jX2JhdGNoX2V4dGVuZF92b2NhYlw+</last-search>
+      <last-search encoding="base64">XDxhdHRuX2Rpc3RzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZW5jX2JhdGNoX2V4dGVuZF92b2NhYlw+</last-pattern>
+      <last-pattern encoding="base64">XDxhdHRuX2Rpc3RzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxmbGFnc1w+</entry>
         <entry>AttentionWrapper</entry>
         <entry encoding="base64">XDxBdHRlbnRpb25NZWNoYW5pc21cPg==</entry>
@@ -746,7 +746,6 @@
         <entry>_final_dist</entry>
         <entry>final_dist</entry>
         <entry>calcu</entry>
-        <entry>attn_dist</entry>
         <entry encoding="base64">XDxfZmluYWxfZGlzdFw+</entry>
         <entry encoding="base64">XDxfZmluYWxfZGlzdHNcPg==</entry>
         <entry encoding="base64">XDx2b2NhYl9zY29yZXNcPg==</entry>
@@ -755,6 +754,8 @@
         <entry encoding="base64">XDxkZWNvZGVcPg==</entry>
         <entry>_final_d</entry>
         <entry encoding="base64">XDxfZW5jX2JhdGNoX2V4dGVuZF92b2NhYlw+</entry>
+        <entry>attn_dist</entry>
+        <entry encoding="base64">XDxhdHRuX2Rpc3RzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>text_</entry>
