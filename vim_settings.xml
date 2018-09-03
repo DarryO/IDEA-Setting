@@ -36,12 +36,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inputs/inputs.py" timestamp="1535945266825">
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inputs/inputs.py" timestamp="1535948270111">
         <mark key="'" line="23" column="31" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="51" column="73" />
+        <mark key="[" line="61" column="54" />
+        <mark key="]" line="61" column="17" />
+        <mark key="." line="61" column="17" />
+        <mark key="^" line="61" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/main.py" timestamp="1534737993549">
         <mark key="'" line="15" column="29" />
@@ -617,34 +617,34 @@
         <text encoding="base64">XDxmbGFnc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IHByaW50X2Z1bmN0aW9uCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBkYXRhc2V0Lm1ha2Vfb25lX3Nob3RfaXRlcmF0b3IoKS5nZXRfbmV4dCgpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGFzZXQgPSBkYXRhc2V0LmJhdGNoKGJhdGNoX3NpemUpCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IyAKIyAKIyA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbmZpZ19kaWN0ID0gZmxhZ3MuX19kaWN0X19bJ19fZmxhZ3MnXQo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">IyAKIyA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnISEhISEhISEhJywgZGlyKHRmLmFwcC5mbGFncykpCg==</text>
+        <text encoding="base64">ICAgIGRhdGFzZXQgPSBkYXRhc2V0LmJhdGNoKGJhdGNoX3NpemUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBmcm9tIHRlbnNvcmZsb3cuY29udHJpYi5zZXEyc2VxLnB5dGhvbi5vcHMuYXR0ZW50aW9uX3dyYXBwZXIgaW1wb3J0IEF0dGVudGlvbldyYXBwZXIK</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbmZpZ19kaWN0ID0gZmxhZ3MuX19kaWN0X19bJ19fZmxhZ3MnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IHJubl9jZWxsX2ltcGwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnISEhISEhISEhJywgZGlyKHRmLmFwcC5mbGFncykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXIoZmxhZ3MpKQogICAgICAgIHByaW50KCJmbGFncyIsIGZsYWdzWydtb2RlJ10pCg==</text>
+        <text encoding="base64">IyBmcm9tIHRlbnNvcmZsb3cuY29udHJpYi5zZXEyc2VxLnB5dGhvbi5vcHMuYXR0ZW50aW9uX3dyYXBwZXIgaW1wb3J0IEF0dGVudGlvbldyYXBwZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">X2xpa2Vfcm5uY2VsbCA9IHJubl9jZWxsX2ltcGwuX2xpa2Vfcm5uY2VsbCAgIyBweWxpbnQ6IGRpc2FibGU9aW52YWxpZC1uYW1lLCBwcm90ZWN0ZWQtYWNjZXNzCg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMgaW1wb3J0IHJubl9jZWxsX2ltcGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">X2xpa2Vfcm5uY2VsbCA9IHJubl9jZWxsX2ltcGwuX2xpa2Vfcm5uY2VsbCAgIyBweWxpbnQ6IGRpc2FibGU9aW52YWxpZC1uYW1lLCBwcm90ZWN0ZWQtYWNjZXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaXIoZmxhZ3MpKQogICAgICAgIHByaW50KCJmbGFncyIsIGZsYWdzWydtb2RlJ10pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFF1ZXVlCg==</text>
+        <text encoding="base64">X2xpa2Vfcm5uY2VsbCA9IHJubl9jZWxsX2ltcGwuX2xpa2Vfcm5uY2VsbCAgIyBweWxpbnQ6IGRpc2FibGU9aW52YWxpZC1uYW1lLCBwcm90ZWN0ZWQtYWNjZXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
