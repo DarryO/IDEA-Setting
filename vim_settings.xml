@@ -262,10 +262,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1536643711079">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1536647043019">
+        <mark key="'" line="159" column="20" />
+        <mark key="[" line="215" column="46" />
+        <mark key="]" line="215" column="20" />
+        <mark key="." line="215" column="20" />
+        <mark key="^" line="215" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" timestamp="1535625530897">
         <mark key="'" line="101" column="18" />
@@ -511,7 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="6" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
       <jump line="169" column="12" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
       <jump line="87" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="109" column="22" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
@@ -611,6 +612,7 @@
       <jump line="2" column="17" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/confs/config.py" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/inputs/inputs.py" />
       <jump line="33" column="83" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/inputs/inputs.py" />
+      <jump line="159" column="20" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
