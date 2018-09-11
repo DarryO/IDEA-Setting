@@ -10,6 +10,13 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" timestamp="1535526107640">
+        <mark key="'" line="39" column="32" />
+        <mark key="[" line="329" column="90" />
+        <mark key="]" line="330" column="18" />
+        <mark key="." line="330" column="18" />
+        <mark key="^" line="330" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/inference.py" timestamp="1535942017703">
         <mark key="'" line="48" column="27" />
         <mark key="[" line="10" column="0" />
@@ -17,12 +24,45 @@
         <mark key="." line="10" column="6" />
         <mark key="^" line="10" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/helper.py" timestamp="1535962023114">
+        <mark key="'" line="13" column="30" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inference/inference.py" timestamp="1534474144815">
+        <mark key="'" line="61" column="20" />
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="9" />
+        <mark key="." line="19" column="9" />
+        <mark key="^" line="19" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/vocab.py" timestamp="1535942085715">
         <mark key="'" line="76" column="8" />
         <mark key="[" line="77" column="55" />
         <mark key="]" line="77" column="55" />
         <mark key="^" line="77" column="55" />
         <mark key="." line="77" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" timestamp="1535602509854">
+        <mark key="'" line="48" column="8" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/confs/config.py" timestamp="1536025549996">
+        <mark key="'" line="2" column="17" />
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="17" />
+        <mark key="^" line="33" column="17" />
+        <mark key="." line="33" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" timestamp="1535985290098">
+        <mark key="'" line="11" column="23" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="138" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/sample/inputs/inputs.py" timestamp="1536025737224">
         <mark key="'" line="16" column="17" />
@@ -38,12 +78,57 @@
         <mark key="^" line="108" column="22" />
         <mark key="." line="107" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/inputs/sample_inputs.py" timestamp="1534393106236">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="2" column="80" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inputs/inputs.py" timestamp="1534738033212">
+        <mark key="'" line="10" column="23" />
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="18" />
+        <mark key="^" line="36" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inference/batch.py" timestamp="1535942050552">
         <mark key="'" line="173" column="17" />
         <mark key="[" line="19" column="3" />
         <mark key="]" line="19" column="2" />
         <mark key="." line="19" column="2" />
         <mark key="^" line="19" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" timestamp="1535530696383">
+        <mark key="'" line="128" column="47" />
+        <mark key="[" line="211" column="49" />
+        <mark key="]" line="211" column="48" />
+        <mark key="." line="211" column="48" />
+        <mark key="^" line="211" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/decoder.py" timestamp="1534737967853">
+        <mark key="'" line="10" column="23" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="43" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model_bk.py" timestamp="1534923391671">
+        <mark key="'" line="289" column="105" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/confs/config.py" timestamp="1535093300681">
+        <mark key="'" line="46" column="13" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" timestamp="1535961759960">
+        <mark key="'" line="169" column="12" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="42" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/tests/test_input_fn.py" timestamp="1534902223001">
         <mark key="'" line="8" column="0" />
@@ -52,6 +137,24 @@
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model_bk.py" timestamp="1534909965645">
+        <mark key="'" line="590" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/inputs/seq2seq_inputs.py" timestamp="1534393519804">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="65" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/input_utils.py" timestamp="1535956732376">
+        <mark key="'" line="45" column="4" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" timestamp="1535985293576">
         <mark key="'" line="10" column="23" />
         <mark key="[" line="14" column="87" />
@@ -59,12 +162,44 @@
         <mark key="^" line="14" column="85" />
         <mark key="." line="14" column="85" />
       </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/sample/model.py" timestamp="1534389591953">
+        <mark key="'" line="83" column="4" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="88" column="68" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" timestamp="1536643697951">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/seq2seq/model.py" timestamp="1534393841508">
+        <mark key="'" line="41" column="27" />
+        <mark key="[" line="50" column="64" />
+        <mark key="]" line="50" column="63" />
+        <mark key="." line="50" column="63" />
+        <mark key="^" line="50" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" timestamp="1535527261944">
+        <mark key="'" line="57" column="12" />
+        <mark key="[" line="235" column="53" />
+        <mark key="]" line="235" column="48" />
+        <mark key="^" line="235" column="48" />
+        <mark key="." line="235" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/playground/tf/attention.py" timestamp="1534498214759">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="91" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="2" column="76" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" timestamp="1534325861007">
+        <mark key="'" line="156" column="8" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="78" />
+        <mark key="." line="114" column="50" />
+        <mark key="^" line="114" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/ali/cnn-dailymail/make_datafiles.py" timestamp="1533620985843">
         <mark key="'" line="0" column="0" />
@@ -79,6 +214,11 @@
         <mark key="]" line="32" column="40" />
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/decoder.py" timestamp="1536643702184">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/inputs/utils.py" timestamp="1534390689831">
         <mark key="'" line="86" column="0" />
@@ -101,12 +241,50 @@
         <mark key="^" line="20" column="6" />
         <mark key="." line="20" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/playground/tf/helper.py" timestamp="1534328975275">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="294" column="44" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/attention_decoder.py" timestamp="1535607813806">
+        <mark key="'" line="27" column="68" />
+        <mark key="[" line="189" column="68" />
+        <mark key="]" line="189" column="68" />
+        <mark key="." line="189" column="68" />
+        <mark key="^" line="189" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/playground/tf/utils.py" timestamp="1534390678795">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="37" column="14" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="36" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1536643711079">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" timestamp="1535625530897">
         <mark key="'" line="101" column="18" />
         <mark key="[" line="61" column="63" />
         <mark key="]" line="62" column="32" />
         <mark key="^" line="62" column="32" />
         <mark key="." line="62" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" timestamp="1535985084952">
+        <mark key="'" line="187" column="8" />
+        <mark key="[" line="334" column="0" />
+        <mark key="]" line="336" column="73" />
+        <mark key="." line="275" column="117" />
+        <mark key="^" line="275" column="117" />
+      </file>
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention.py" timestamp="1536643690745">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/helper.py" timestamp="1534392867791">
         <mark key="'" line="18" column="25" />
@@ -142,234 +320,17 @@
         <mark key="." line="46" column="17" />
         <mark key="^" line="46" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/vocab.py" timestamp="1536643931733">
+        <mark key="[" line="67" column="95" />
+        <mark key="]" line="67" column="95" />
+        <mark key="^" line="67" column="95" />
+        <mark key="." line="67" column="95" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/sample/inference.py" timestamp="1534326010627">
         <mark key="'" line="60" column="19" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" timestamp="1534924505579">
-        <mark key="'" line="59" column="21" />
-        <mark key="[" line="174" column="40" />
-        <mark key="]" line="174" column="45" />
-        <mark key="." line="174" column="45" />
-        <mark key="^" line="174" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" timestamp="1535963030372">
-        <mark key="'" line="12" column="6" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="15" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/cnn-dailymail/batcher.py" timestamp="1533641542005">
-        <mark key="'" line="56" column="28" />
-        <mark key="[" line="334" column="87" />
-        <mark key="]" line="335" column="7" />
-        <mark key="^" line="335" column="7" />
-        <mark key="." line="335" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1535986485137">
-        <mark key="'" line="74" column="46" />
-        <mark key="[" line="196" column="89" />
-        <mark key="]" line="196" column="115" />
-        <mark key="." line="196" column="115" />
-        <mark key="^" line="196" column="115" />
-      </file>
-      <file name="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" timestamp="1534499371011">
-        <mark key="'" line="98" column="12" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="111" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/beam_search.py" timestamp="1534907920710">
-        <mark key="'" line="121" column="89" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/cnn-dailymail/data.py" timestamp="1533634577303">
-        <mark key="'" line="139" column="4" />
-        <mark key="[" line="17" column="82" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/playground/tf/decoder.py" timestamp="1534328954786">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="122" column="58" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inputs/inputs.py" timestamp="1535090891600">
-        <mark key="'" line="83" column="21" />
-        <mark key="[" line="86" column="32" />
-        <mark key="]" line="86" column="31" />
-        <mark key="^" line="86" column="31" />
-        <mark key="." line="86" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/run_summarization.py" timestamp="1535526107640">
-        <mark key="'" line="39" column="32" />
-        <mark key="[" line="329" column="90" />
-        <mark key="]" line="330" column="18" />
-        <mark key="." line="330" column="18" />
-        <mark key="^" line="330" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/helper.py" timestamp="1535962023114">
-        <mark key="'" line="13" column="30" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inference/inference.py" timestamp="1534474144815">
-        <mark key="'" line="61" column="20" />
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="9" />
-        <mark key="." line="19" column="9" />
-        <mark key="^" line="19" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/model.py" timestamp="1535602509854">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/confs/config.py" timestamp="1536025549996">
-        <mark key="'" line="2" column="17" />
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="17" />
-        <mark key="^" line="33" column="17" />
-        <mark key="." line="33" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" timestamp="1535985290098">
-        <mark key="'" line="11" column="23" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="138" column="73" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/inputs/sample_inputs.py" timestamp="1534393106236">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="2" column="80" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/inputs/inputs.py" timestamp="1534738033212">
-        <mark key="'" line="10" column="23" />
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="36" column="18" />
-        <mark key="." line="36" column="18" />
-        <mark key="^" line="36" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/data.py" timestamp="1535530696383">
-        <mark key="'" line="128" column="47" />
-        <mark key="[" line="211" column="49" />
-        <mark key="]" line="211" column="48" />
-        <mark key="." line="211" column="48" />
-        <mark key="^" line="211" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/decoder.py" timestamp="1534737967853">
-        <mark key="'" line="10" column="23" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="43" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model_bk.py" timestamp="1534923391671">
-        <mark key="'" line="289" column="105" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_decoder.py" timestamp="1535960399497">
-        <mark key="'" line="207" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/confs/config.py" timestamp="1535093300681">
-        <mark key="'" line="46" column="13" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" timestamp="1535961759960">
-        <mark key="'" line="169" column="12" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="42" column="38" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/model_bk.py" timestamp="1534909965645">
-        <mark key="'" line="590" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/inputs/seq2seq_inputs.py" timestamp="1534393519804">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="65" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/mylib/tensorflow/input_utils.py" timestamp="1535956732376">
-        <mark key="'" line="45" column="4" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/sample/model.py" timestamp="1534389591953">
-        <mark key="'" line="83" column="4" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="88" column="68" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/seq2seq/model.py" timestamp="1534393841508">
-        <mark key="'" line="41" column="27" />
-        <mark key="[" line="50" column="64" />
-        <mark key="]" line="50" column="63" />
-        <mark key="." line="50" column="63" />
-        <mark key="^" line="50" column="63" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/summarization/pointer-generator/batcher.py" timestamp="1535527261944">
-        <mark key="'" line="57" column="12" />
-        <mark key="[" line="235" column="53" />
-        <mark key="]" line="235" column="48" />
-        <mark key="^" line="235" column="48" />
-        <mark key="." line="235" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/base/model.py" timestamp="1534325861007">
-        <mark key="'" line="156" column="8" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="78" />
-        <mark key="." line="114" column="50" />
-        <mark key="^" line="114" column="50" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/helper.py" timestamp="1534737979632">
-        <mark key="'" line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/playground/tf/helper.py" timestamp="1534328975275">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="294" column="44" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/model/attention_decoder.py" timestamp="1535607813806">
-        <mark key="'" line="27" column="68" />
-        <mark key="[" line="189" column="68" />
-        <mark key="]" line="189" column="68" />
-        <mark key="." line="189" column="68" />
-        <mark key="^" line="189" column="68" />
-      </file>
-      <file name="$USER_HOME$/workspace/playground/tf/utils.py" timestamp="1534390678795">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="37" column="14" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="36" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/model.py" timestamp="1535985084952">
-        <mark key="'" line="187" column="8" />
-        <mark key="[" line="334" column="0" />
-        <mark key="]" line="336" column="73" />
-        <mark key="." line="275" column="117" />
-        <mark key="^" line="275" column="117" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/seq2seq/helper.py" timestamp="1534328983285">
         <mark key="'" line="285" column="8" />
@@ -390,6 +351,13 @@
         <mark key="]" line="73" column="136" />
         <mark key="." line="73" column="136" />
         <mark key="^" line="73" column="136" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/attention.py" timestamp="1534924505579">
+        <mark key="'" line="59" column="21" />
+        <mark key="[" line="174" column="40" />
+        <mark key="]" line="174" column="45" />
+        <mark key="." line="174" column="45" />
+        <mark key="^" line="174" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/basic/main.py" timestamp="1534324953236">
         <mark key="'" line="22" column="4" />
@@ -419,12 +387,38 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/helper.py" timestamp="1536643684452">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" timestamp="1535963030372">
+        <mark key="'" line="12" column="6" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="15" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" timestamp="1533727072705">
         <mark key="'" line="163" column="24" />
         <mark key="[" line="210" column="17" />
         <mark key="]" line="210" column="17" />
         <mark key="." line="210" column="17" />
         <mark key="^" line="210" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/cnn-dailymail/batcher.py" timestamp="1533641542005">
+        <mark key="'" line="56" column="28" />
+        <mark key="[" line="334" column="87" />
+        <mark key="]" line="335" column="7" />
+        <mark key="^" line="335" column="7" />
+        <mark key="." line="335" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1535986485137">
+        <mark key="'" line="74" column="46" />
+        <mark key="[" line="196" column="89" />
+        <mark key="]" line="196" column="115" />
+        <mark key="." line="196" column="115" />
+        <mark key="^" line="196" column="115" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inputs/inputs.py" timestamp="1535087565871">
         <mark key="'" line="79" column="26" />
@@ -446,6 +440,13 @@
         <mark key="]" line="261" column="27" />
         <mark key="." line="261" column="27" />
         <mark key="^" line="261" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/playground/tf/attention_wrapper.py" timestamp="1534499371011">
+        <mark key="'" line="98" column="12" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/model/decoder.py" timestamp="1534925375229">
         <mark key="'" line="92" column="0" />
@@ -473,6 +474,27 @@
         <mark key="]" line="280" column="11" />
         <mark key="." line="280" column="11" />
         <mark key="^" line="280" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/cnn-dailymail/data.py" timestamp="1533634577303">
+        <mark key="'" line="139" column="4" />
+        <mark key="[" line="17" column="82" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/playground/tf/decoder.py" timestamp="1534328954786">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="122" column="58" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/semantic_pointer/inputs/inputs.py" timestamp="1535090891600">
+        <mark key="'" line="83" column="21" />
+        <mark key="[" line="86" column="32" />
+        <mark key="]" line="86" column="31" />
+        <mark key="^" line="86" column="31" />
+        <mark key="." line="86" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/base/inference.py" timestamp="1533710968027">
         <mark key="'" line="19" column="0" />
@@ -604,31 +626,31 @@
         <text encoding="base64">ZGVmIGdldF9wYXJzZV9mdW5jKGZpZWxkX2RlbGltKToKICAgIGRlZiBfcGFyc2VfbGluZShsaW5lKToKICAgICAgICAjIERlY29kZSB0aGUgbGluZSBpbnRvIGl0cyBmaWVsZHMKICAgICAgICBmaWVsZHMgPSB0Zi5kZWNvZGVfY3N2KGxpbmUsIEZJRUxEX0RFRkFVTFRTLCBmaWVsZF9kZWxpbT1maWVsZF9kZWxpbSkKCiAgICAgICAgIyBQYWNrIHRoZSByZXN1bHQgaW50byBhIGRpY3Rpb25hcnkKICAgICAgICBmZWF0dXJlcyA9IGRpY3QoemlwKENPTFVNTlMsIGZpZWxkcykpCgogICAgICAgIGZlYXR1cmVzWydmZWF0dXJlcyddID0gdGYuZGVjb2RlX2NzdihmZWF0dXJlc1snZmVhdHVyZXMnXSwgW1swLjBdXSAqIDEwLCBmaWVsZF9kZWxpbT0nLCcpCiAgICAgICAgIyBTZXBhcmF0ZSB0aGUgbGFiZWwgZnJvbSB0aGUgZmVhdHVyZXMKICAgICAgICBsYWJlbCA9IGZlYXR1cmVzLnBvcCgnbGFiZWwnKQogICAgICAgIHJldHVybiBmZWF0dXJlcywgbGFiZWwKCiAgICByZXR1cm4gX3BhcnNlX2xpbmUKCgpkZWYgaW5wdXRfZm4oZmlsZW5hbWVzLCBiYXRjaF9zaXplLCBlcG9jaHMsIGZpZWxkX2RlbGltLCBsb2NhbD1GYWxzZSwgYnVmZmVyX3NpemU9MTApOgogICAgaWYgbG9jYWw6CiAgICAgICAgZGF0YXNldCA9IHRmLmRhdGEuVGV4dExpbmVEYXRhc2V0KGZpbGVuYW1lcywgYnVmZmVyX3NpemU9MTAwMCkKICAgIGVsc2U6CiAgICAgICAgZGF0YXNldCA9IHRmLmRhdGEuVGFibGVSZWNvcmREYXRhc2V0KGZpbGVuYW1lcykKCiAgICAjIGRhdGFzZXQgPSBkYXRhc2V0Lm1hcChnZXRfcGFyc2VfZnVuYyhmaWVsZF9kZWxpbT1maWVsZF9kZWxpbSkpCiAgICAjIGRhdGFzZXQgPSBkYXRhc2V0LnNodWZmbGUoYnVmZmVyX3NpemUpLnJlcGVhdChlcG9jaHMpLmJhdGNoKGJhdGNoX3NpemUpCgogICAgIyB1c2luZyBtYXBfYW5kX2JhdGNoIGZvciBiZXR0ZXIgcGVyZm9ybWFuY2UKICAgIGRhdGFzZXQgPSBkYXRhc2V0LmFwcGx5KHRmLmNvbnRyaWIuZGF0YS5tYXBfYW5kX2JhdGNoKAogICAgICAgIG1hcF9mdW5jPWdldF9wYXJzZV9mdW5jKGZpZWxkX2RlbGltPWZpZWxkX2RlbGltKSwgYmF0Y2hfc2l6ZT1iYXRjaF9zaXplKSkKICAgIGRhdGFzZXQgPSBkYXRhc2V0LnNodWZmbGUoYnVmZmVyX3NpemUpLnJlcGVhdChlcG9jaHMpCgogICAgIyB1c2luZyBtYWtlX29uZV9zaG90X2l0ZXJhdG9yIGZvciBjb21waXRhYmxlIHdpdGggbG93ZXIgdmVyc2lvbiBvZiB0ZW5zb3JmbG93CiAgICAjIHJldHVybiBkYXRhc2V0Lm1ha2Vfb25lX3Nob3RfaXRlcmF0b3IoKS5nZXRfbmV4dCgpCiAgICByZXR1cm4gZGF0YXNldAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09MVU1OUyA9IHsKICAgIAp9Cgo=</text>
+        <text encoding="base64">IyAgICAgQ3JlYXRpb24gRGF0ZSAgICAgICA6ICAgICBbMjAxNy0wNS0wMiAxNjozNV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGxvY2FsOgo=</text>
+        <text encoding="base64">IyAgICAgQ3JlYXRpb24gRGF0ZSAgICAgICA6ICAgICBbMDgvMTUvMjAxOCAxODoyOF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgZGF0YXNldCA9IHRmLmRhdGEuVGFibGVSZWNvcmREYXRhc2V0KGZpbGVuYW1lcykK</text>
+        <text encoding="base64">IyAgICAgQ3JlYXRpb24gRGF0ZSAgICAgICA6ICAgICBbMjAxOC0wOC0zMCAxNToxM10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">IyAgICAgQ3JlYXRpb24gRGF0ZSAgICAgICA6ICAgICBbMDgvMTUvMjAxOCAxODoyOF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGlucHV0X2ZuKGZpbGVuYW1lcywgYmF0Y2hfc2l6ZSwgZXBvY2hzLCBmaWVsZF9kZWxpbSwgbG9jYWw9RmFsc2UsIGJ1ZmZlcl9zaXplPTEwKToK</text>
+        <text encoding="base64">IyAgICAgQ3JlYXRpb24gRGF0ZSAgICAgICA6ICAgICBbMjAxOC0wOC0xNSAxODoyOF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGlucHV0X2ZuKHRhYmxlcywgYmF0Y2hfc2l6ZSwgbWF4X2VuY19zdGVwcywgbWF4X2RlY19zdGVwcywgZXBvY2hzLCBsb2NhbD1GYWxzZSk6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">Q09MVU1OUyA9IHsKICAgIAp9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlbGltaXRlciA9IGNvbmZpZy50YWJsZV9kZWxpbWl0ZXIK</text>
+        <text encoding="base64">ICAgIGlmIGxvY2FsOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQktLXRhYmxlX2RlbGltaXRlciAifCIgXAo=</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgZGF0YXNldCA9IHRmLmRhdGEuVGFibGVSZWNvcmREYXRhc2V0KGZpbGVuYW1lcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2b2NhYl9kaXN0cyA9IHRmLmxheWVycy5kZW5zZShmaW5hbF9vdXRwdXRzLnJubl9vdXRwdXQsIHZvY2FiX3NpemUsIHVzZV9iaWFzPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
