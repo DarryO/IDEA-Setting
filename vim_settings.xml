@@ -106,6 +106,12 @@
         <mark key="." line="211" column="48" />
         <mark key="^" line="211" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/tests/test_input_fn.py" timestamp="1536738693802">
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/seq2seq/model/decoder.py" timestamp="1534737967853">
         <mark key="'" line="10" column="23" />
         <mark key="[" line="23" column="0" />
@@ -124,11 +130,6 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" timestamp="1535961759960">
-        <mark key="'" line="169" column="12" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="42" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/tests/test_input_fn.py" timestamp="1534902223001">
         <mark key="'" line="8" column="0" />
@@ -200,6 +201,13 @@
         <mark key="]" line="2" column="78" />
         <mark key="." line="114" column="50" />
         <mark key="^" line="114" column="50" />
+      </file>
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/inputs/inputs.py" timestamp="1536738733602">
+        <mark key="'" line="76" column="17" />
+        <mark key="[" line="72" column="10" />
+        <mark key="]" line="72" column="16" />
+        <mark key="." line="72" column="16" />
+        <mark key="^" line="72" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/ali/cnn-dailymail/make_datafiles.py" timestamp="1533620985843">
         <mark key="'" line="0" column="0" />
@@ -513,7 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="12" filename="$USER_HOME$/.local/anaconda3/envs/ali-tf/lib/python2.7/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" />
       <jump line="87" column="12" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="109" column="22" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="48" column="28" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/main.py" />
@@ -613,61 +620,61 @@
       <jump line="38" column="0" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/inputs/inputs.py" />
       <jump line="33" column="83" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/inputs/inputs.py" />
       <jump line="159" column="20" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="75" column="17" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/inputs/inputs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>emb_dim</text>
+        <text encoding="base64">XDxnZXRfcGFyc2VfZnVuY1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGdldF9wYXJzZV9mdW5jKGZpZWxkX2RlbGltKToKICAgIGRlZiBfcGFyc2VfbGluZShsaW5lKToKICAgICAgICAjIERlY29kZSB0aGUgbGluZSBpbnRvIGl0cyBmaWVsZHMKICAgICAgICBmaWVsZHMgPSB0Zi5kZWNvZGVfY3N2KGxpbmUsIEZJRUxEX0RFRkFVTFRTLCBmaWVsZF9kZWxpbT1maWVsZF9kZWxpbSkKCiAgICAgICAgIyBQYWNrIHRoZSByZXN1bHQgaW50byBhIGRpY3Rpb25hcnkKICAgICAgICBmZWF0dXJlcyA9IGRpY3QoemlwKENPTFVNTlMsIGZpZWxkcykpCgogICAgICAgIGZlYXR1cmVzWydmZWF0dXJlcyddID0gdGYuZGVjb2RlX2NzdihmZWF0dXJlc1snZmVhdHVyZXMnXSwgW1swLjBdXSAqIDEwLCBmaWVsZF9kZWxpbT0nLCcpCiAgICAgICAgIyBTZXBhcmF0ZSB0aGUgbGFiZWwgZnJvbSB0aGUgZmVhdHVyZXMKICAgICAgICBsYWJlbCA9IGZlYXR1cmVzLnBvcCgnbGFiZWwnKQogICAgICAgIHJldHVybiBmZWF0dXJlcywgbGFiZWwKCiAgICByZXR1cm4gX3BhcnNlX2xpbmUKCgpkZWYgaW5wdXRfZm4oZmlsZW5hbWVzLCBiYXRjaF9zaXplLCBlcG9jaHMsIGZpZWxkX2RlbGltLCBsb2NhbD1GYWxzZSwgYnVmZmVyX3NpemU9MTApOgogICAgaWYgbG9jYWw6CiAgICAgICAgZGF0YXNldCA9IHRmLmRhdGEuVGV4dExpbmVEYXRhc2V0KGZpbGVuYW1lcywgYnVmZmVyX3NpemU9MTAwMCkKICAgIGVsc2U6CiAgICAgICAgZGF0YXNldCA9IHRmLmRhdGEuVGFibGVSZWNvcmREYXRhc2V0KGZpbGVuYW1lcykKCiAgICAjIGRhdGFzZXQgPSBkYXRhc2V0Lm1hcChnZXRfcGFyc2VfZnVuYyhmaWVsZF9kZWxpbT1maWVsZF9kZWxpbSkpCiAgICAjIGRhdGFzZXQgPSBkYXRhc2V0LnNodWZmbGUoYnVmZmVyX3NpemUpLnJlcGVhdChlcG9jaHMpLmJhdGNoKGJhdGNoX3NpemUpCgogICAgIyB1c2luZyBtYXBfYW5kX2JhdGNoIGZvciBiZXR0ZXIgcGVyZm9ybWFuY2UKICAgIGRhdGFzZXQgPSBkYXRhc2V0LmFwcGx5KHRmLmNvbnRyaWIuZGF0YS5tYXBfYW5kX2JhdGNoKAogICAgICAgIG1hcF9mdW5jPWdldF9wYXJzZV9mdW5jKGZpZWxkX2RlbGltPWZpZWxkX2RlbGltKSwgYmF0Y2hfc2l6ZT1iYXRjaF9zaXplKSkKICAgIGRhdGFzZXQgPSBkYXRhc2V0LnNodWZmbGUoYnVmZmVyX3NpemUpLnJlcGVhdChlcG9jaHMpCgogICAgIyB1c2luZyBtYWtlX29uZV9zaG90X2l0ZXJhdG9yIGZvciBjb21waXRhYmxlIHdpdGggbG93ZXIgdmVyc2lvbiBvZiB0ZW5zb3JmbG93CiAgICAjIHJldHVybiBkYXRhc2V0Lm1ha2Vfb25lX3Nob3RfaXRlcmF0b3IoKS5nZXRfbmV4dCgpCiAgICByZXR1cm4gZGF0YXNldAo=</text>
+        <text encoding="base64">ZGVmIGdldF9wYXJzZV9mdW5jKCk6CgogICAgIyBVc2UgYHRmLnBhcnNlX3NpbmdsZV9leGFtcGxlKClgIHRvIGV4dHJhY3QgZGF0YSBmcm9tIGEgYHRmLkV4YW1wbGVgCiAgICAjIHByb3RvY29sIGJ1ZmZlciwgYW5kIHBlcmZvcm0gYW55IGFkZGl0aW9uYWwgcGVyLXJlY29yZCBwcmVwcm9jZXNzaW5nLgogICAgZGVmIF9wYXJzZXIocmVjb3JkKToKICAgICAgICBrZXlfdG9fZmVhdHVyZSA9IHsKICAgICAgICAgICAgJ3R1cm5faWQnOiB0Zi5GaXhlZExlbkZlYXR1cmUoW10sIHRmLmludDY0KSwKICAgICAgICAgICAgJ3NwYW5fc3RhcnQnOiB0Zi5GaXhlZExlbkZlYXR1cmUoW10sIHRmLmludDY0KSwKICAgICAgICAgICAgJ3NwYW5fZW5kJzogdGYuRml4ZWRMZW5GZWF0dXJlKFtdLCB0Zi5pbnQ2NCksCiAgICAgICAgICAgICdjb250ZXh0JzogdGYuVmFyTGVuRmVhdHVyZSh0Zi5zdHJpbmcpLAogICAgICAgICAgICAncXVlc3Rpb25fdGV4dCc6IHRmLlZhckxlbkZlYXR1cmUodGYuc3RyaW5nKSwKICAgICAgICAgICAgJ2Fuc3dlcl90ZXh0JzogdGYuVmFyTGVuRmVhdHVyZSh0Zi5zdHJpbmcpLAogICAgICAgICAgICAnY29udGV4dF9pZCc6IHRmLlZhckxlbkZlYXR1cmUodGYuc3RyaW5nKSwKICAgICAgICAgICAgJ3NwYW5fdGV4dCc6IHRmLlZhckxlbkZlYXR1cmUodGYuc3RyaW5nKSwKICAgICAgICAgICAgJ2ZpbGVuYW1lJzogdGYuVmFyTGVuRmVhdHVyZSh0Zi5zdHJpbmcpLAogICAgICAgICAgICAnbmFtZSc6IHRmLlZhckxlbkZlYXR1cmUodGYuc3RyaW5nKSwKICAgICAgICAgICAgJ3NvdXJjZSc6IHRmLlZhckxlbkZlYXR1cmUodGYuc3RyaW5nKX0KCiAgICAgICAgcGFyc2VkID0gdGYucGFyc2Vfc2luZ2xlX2V4YW1wbGUocmVjb3JkLCBrZXlfdG9fZmVhdHVyZSkKCiAgICAgICAgIyBQZXJmb3JtIGFkZGl0aW9uYWwgcHJlcHJvY2Vzc2luZyBvbiB0aGUgcGFyc2VkIGRhdGEuCiAgICAgICAgdHVybl9pZCA9IHBhcnNlZFsndHVybl9pZCddCiAgICAgICAgc3Bhbl9zdGFydCA9IHBhcnNlZFsnc3Bhbl9zdGFydCddCiAgICAgICAgc3Bhbl9lbmQgPSBwYXJzZWRbJ3NwYW5fZW5kJ10KICAgICAgICBjb250ZXh0ID0gcGFyc2VkWydjb250ZXh0J10KICAgICAgICBxdWVzdGlvbl90ZXh0ID0gcGFyc2VkWydxdWVzdGlvbl90ZXh0J10KICAgICAgICBhbnN3ZXJfdGV4dCA9IHBhcnNlZFsnYW5zd2VyX3RleHQnXQogICAgICAgIHNwYW5fdGV4dCA9IHBhcnNlZFsnc3Bhbl90ZXh0J10KICAgICAgICBjb250ZXh0X2lkID0gcGFyc2VkWydjb250ZXh0X2lkJ10KICAgICAgICBmaWxlbmFtZSA9IHBhcnNlZFsnZmlsZW5hbWUnXQogICAgICAgIG5hbWUgPSBwYXJzZWRbJ25hbWUnXQogICAgICAgIHNvdXJjZSA9IHBhcnNlZFsnc291cmNlJ10KCiAgICAgICAgZmVhdHVyZSA9IHsKICAgICAgICAgICAgJ3R1cm5faWQnOiB0dXJuX2lkLAogICAgICAgICAgICAnY29udGV4dCc6IGNvbnRleHQsCiAgICAgICAgICAgICdxdWVzdGlvbl90ZXh0JzogcXVlc3Rpb25fdGV4dCwKICAgICAgICAgICAgJ2NvbnRleHRfaWQnOiBjb250ZXh0X2lkLAogICAgICAgICAgICAnc291cmNlJzogc291cmNlLAogICAgICAgICAgICAnbmFtZSc6IG5hbWUsCiAgICAgICAgICAgICdmaWxlbmFtZSc6IGZpbGVuYW1lCiAgICAgICAgfQogICAgICAgIGxhYmVsID0gewogICAgICAgICAgICAnYW5zd2VyX3RleHQnOiBhbnN3ZXJfdGV4dCwKICAgICAgICAgICAgJ3NwYW5fc3RhcnQnOiBzcGFuX3N0YXJ0LAogICAgICAgICAgICAnc3Bhbl9lbmQnOiBzcGFuX2VuZCwKICAgICAgICAgICAgJ3NwYW5fdGV4dCc6IHNwYW5fdGV4dAogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGZlYXR1cmUsIGxhYmVsCgogICAgcmV0dXJuIF9wYXJzZXIKCgpkZWYgaW5wdXRfZm4oZmlsZW5hbWVzLCBiYXRjaF9zaXplLCBtYXhfZW5jX3N0ZXBzLCBtYXhfZGVjX3N0ZXBzLCBlcG9jaHMsIGxvY2FsPUZhbHNlKToKCiAgICBkYXRhc2V0ID0gdGYuZGF0YS5URlJlY29yZERhdGFzZXQoZmlsZW5hbWVzLCBidWZmZXJfc2l6ZT0xMDAwKQoKICAgICMgdXNpbmcgbWFwX2FuZF9iYXRjaCBmb3IgYmV0dGVyIHBlcmZvcm1hbmNlCiAgICBkYXRhc2V0ID0gZGF0YXNldC5hcHBseSh0Zi5jb250cmliLmRhdGEubWFwX2FuZF9iYXRjaCgKICAgICAgICBtYXBfZnVuYz1nZXRfcGFyc2VfZnVuYygpLCBiYXRjaF9zaXplPWJhdGNoX3NpemUpKQogICAgZGF0YXNldCA9IGRhdGFzZXQuc2h1ZmZsZShiYXRjaF9zaXplKS5yZXBlYXQoZXBvY2hzKQoKICAgICMgdXNpbmcgbWFrZV9vbmVfc2hvdF9pdGVyYXRvciBmb3IgY29tcGl0YWJsZSB3aXRoIGxvd2VyIHZlcnNpb24gb2YgdGVuc29yZmxvdwogICAgIyByZXR1cm4gZGF0YXNldC5tYWtlX29uZV9zaG90X2l0ZXJhdG9yKCkuZ2V0X25leHQoKQogICAgcmV0dXJuIGRhdGFzZXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgQ3JlYXRpb24gRGF0ZSAgICAgICA6ICAgICBbMjAxNy0wNS0wMiAxNjozNV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICAgQ3JlYXRpb24gRGF0ZSAgICAgICA6ICAgICBbMDgvMTUvMjAxOCAxODoyOF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBrZXksIHZhbHVlIGluIGxhYmVscy5pdGVtcygpOgogICAgICAgICAgICAgICAgICAgIHByaW50KGtleSkKICAgICAgICAgICAgICAgICAgICBwcmludCh2YWx1ZS5zaGFwZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICAgQ3JlYXRpb24gRGF0ZSAgICAgICA6ICAgICBbMjAxOC0wOC0zMCAxNToxM10K</text>
+        <text encoding="base64">ICAgICAgICBkZWxpbWl0ZXI9J3wnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgQ3JlYXRpb24gRGF0ZSAgICAgICA6ICAgICBbMDgvMTUvMjAxOCAxODoyOF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgQ3JlYXRpb24gRGF0ZSAgICAgICA6ICAgICBbMjAxOC0wOC0xNSAxODoyOF0K</text>
+        <text encoding="base64">IyAgICAgQ3JlYXRpb24gRGF0ZSAgICAgICA6ICAgICBbMjAxNy0wNi0xMSAwODo0OV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q09MVU1OUyA9IHsKICAgIAp9Cgo=</text>
+        <text encoding="base64">ZnJvbSBteWxpYi50ZW5zb3JmbG93IGltcG9ydCBpbnB1dF91dGlscyBhcyB1dGlscwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGxvY2FsOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgZGF0YXNldCA9IHRmLmRhdGEuVGFibGVSZWNvcmREYXRhc2V0KGZpbGVuYW1lcykK</text>
+        <text encoding="base64">ICAgIGRlZiBfcGFyc2VfbGluZShsaW5lKToKICAgICAgICAjIERlY29kZSB0aGUgbGluZSBpbnRvIGl0cyBmaWVsZHMKICAgICAgICBmaWVsZHMgPSB0Zi5kZWNvZGVfY3N2KGxpbmUsIEZJRUxEX0RFRkFVTFRTLCBmaWVsZF9kZWxpbT1maWVsZF9kZWxpbSkKCiAgICAgICAgIyBQYWNrIHRoZSByZXN1bHQgaW50byBhIGRpY3Rpb25hcnkKICAgICAgICBmZWF0dXJlcyA9IGRpY3QoemlwKENPTFVNTlMsIGZpZWxkcykpCgogICAgICAgIGZlYXR1cmVzWydmZWF0dXJlcyddID0gdGYuZGVjb2RlX2NzdihmZWF0dXJlc1snZmVhdHVyZXMnXSwgW1swLjBdXSAqIDEwLCBmaWVsZF9kZWxpbT0nLCcpCiAgICAgICAgIyBTZXBhcmF0ZSB0aGUgbGFiZWwgZnJvbSB0aGUgZmVhdHVyZXMKICAgICAgICBsYWJlbCA9IGZlYXR1cmVzLnBvcCgnbGFiZWwnKQogICAgICAgIHJldHVybiBmZWF0dXJlcywgbGFiZWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfcGFyc2VfbGluZShsaW5lKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>emb_dim</last-search>
+      <last-search encoding="base64">XDxnZXRfcGFyc2VfZnVuY1w+</last-search>
       <last-offset />
-      <last-pattern>emb_dim</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfcGFyc2VfZnVuY1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZmluYWxfZGlzdFw+</entry>
         <entry encoding="base64">XDxfZmluYWxfZGlzdHNcPg==</entry>
         <entry encoding="base64">XDx2b2NhYl9zY29yZXNcPg==</entry>
         <entry>unstack</entry>
@@ -687,13 +694,13 @@
         <entry>vocab_size</entry>
         <entry>vocab</entry>
         <entry>emb_dim</entry>
+        <entry encoding="base64">XDxnZXRfcGFyc2VfZnVuY1w+</entry>
       </history-search>
       <history-cmd>
         <entry>text_</entry>
         <entry>299</entry>
         <entry>66</entry>
         <entry>114</entry>
-        <entry>W</entry>
         <entry>92</entry>
         <entry>160</entry>
         <entry>235</entry>
@@ -708,6 +715,7 @@
         <entry>94</entry>
         <entry>198</entry>
         <entry>265</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
