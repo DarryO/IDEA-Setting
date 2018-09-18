@@ -213,12 +213,11 @@
         <mark key="." line="114" column="50" />
         <mark key="^" line="114" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/inputs/inputs.py" timestamp="1537256790395">
-        <mark key="'" line="85" column="26" />
-        <mark key="[" line="26" column="63" />
-        <mark key="]" line="27" column="11" />
-        <mark key="^" line="27" column="11" />
-        <mark key="." line="27" column="11" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/inputs/inputs.py" timestamp="1537258456911">
+        <mark key="'" line="95" column="26" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ali/cnn-dailymail/make_datafiles.py" timestamp="1533620985843">
         <mark key="'" line="0" column="0" />
@@ -638,40 +637,40 @@
         <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>shu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGFzZXQgPSBkYXRhc2V0LnNodWZmbGUoYmF0Y2hfc2l6ZSkucmVwZWF0KGVwb2NocykK</text>
+      <register name="0" type="4">
+        <text encoding="base64">W10sIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IHBvaW50ZXJfZ2VuZXJhdG9yCmZyb20gbW9kZWxzIGltcG9ydCBzZW1hbnRpY19wb2ludGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NwYW5fc3RhcnQnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIG1vZGVsX25hbWUgPT0gJ3BvaW50ZXJfZ2VuZXJhdG9yJzoKICAgICAgICAgICAgbW9kZWwgPSBwb2ludGVyX2dlbmVyYXRvcgogICAgICAgIGVsaWYgbW9kZWxfbmFtZSA9PSAnc2VtYW50aWNfcG9pbnRlcic6CiAgICAgICAgICAgIG1vZGVsID0gc2VtYW50aWNfcG9pbnRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRleHRfaWRzJzogY29udGV4dF9pZHMsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHR0KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0X2lkcyA9IHBhcnNlZFsnY29udGV4dF9pZHMnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlkcy5zZXRfc2hhcGUoKGJhdGNoX3MsIGRpbSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzcGFuX3N0YXJ0ID0gcGFyc2VkWydzcGFuX3N0YXJ0J10KICAgICAgICBzcGFuX2VuZCA9IHBhcnNlZFsnc3Bhbl9lbmQnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGZlYXR1cmVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NwYW5fc3RhcnQnOiB0Zi5GaXhlZExlbkZlYXR1cmUoW10sIHRmLmludDY0KSwKICAgICAgICAgICAgJ3NwYW5fZW5kJzogdGYuRml4ZWRMZW5GZWF0dXJlKFtdLCB0Zi5pbnQ2NCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCIhISEhISEhISIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRleHRfZXh0ZW5kX2lkcyc6IHRmLkZpeGVkTGVuRmVhdHVyZShbXSwgdGYuc3RyaW5nKSwKICAgICAgICAgICAgJ29vdnMnOiB0Zi5GaXhlZExlbkZlYXR1cmUoW10sIHRmLnN0cmluZyksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvY2FsID0gY29uZmlnLmxvY2FsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ29vdnMnOiB0Zi5GaXhlZExlbkZlYXR1cmUoW10sIHRmLnN0cmluZyksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1heF9kZWNfc3RlcHMgPSBjb25maWcubWF4X2RlY19zdGVwcwogICAgbWF4X2VuY19zdGVwcyA9IGNvbmZpZy5tYXhfZW5jX3N0ZXBzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3F1ZXN0aW9uX3RleHQnOiB0Zi5GaXhlZExlbkZlYXR1cmUoW10sIHRmLnN0cmluZyksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZpbGVuYW1lcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRleHRfaWRzJzogdGYuRml4ZWRMZW5GZWF0dXJlKFtdLCB0Zi5zdHJpbmcpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -726,8 +725,8 @@
         <entry>94</entry>
         <entry>198</entry>
         <entry>265</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
