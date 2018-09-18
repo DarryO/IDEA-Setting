@@ -306,12 +306,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1537270197043">
-        <mark key="'" line="116" column="13" />
-        <mark key="[" line="127" column="90" />
-        <mark key="]" line="127" column="83" />
-        <mark key="." line="127" column="83" />
-        <mark key="^" line="127" column="83" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1537291720840">
+        <mark key="'" line="180" column="61" />
+        <mark key="[" line="114" column="78" />
+        <mark key="]" line="114" column="78" />
+        <mark key="." line="114" column="78" />
+        <mark key="^" line="114" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" timestamp="1535625530897">
         <mark key="'" line="101" column="18" />
@@ -567,8 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="55" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
-      <jump line="11" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention.py" />
       <jump line="284" column="14" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
       <jump line="10" column="23" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
       <jump line="51" column="30" filename="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -655,8 +653,6 @@
       <jump line="62" column="22" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/basic/main.py" />
       <jump line="141" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="116" column="31" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="115" column="18" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="114" column="14" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="113" column="18" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="121" column="14" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="122" column="102" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -667,62 +663,64 @@
       <jump line="129" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="102" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="112" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="109" column="52" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="114" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="115" column="15" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="180" column="61" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY29udGV4dF9pZHNcPg==</text>
+        <text encoding="base64">XDxfYW5zd2VyX2xlbmd0aHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9hbnN3ZXJfbGVuZ3RocyA9IHRmLnJlZHVjZV9zdW0oc2VsZi5fYW5zd2VyX2lkc19tYXNrLCBheGlzPTEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hbnN3ZXJfbGVuZ3RocyA9IHRmLnJlZHVjZV9zdW0odGYudG9faW50MzIodGYubm90X2VxdWFsKHNlbGYuX2Fuc3dlcl9pZHMsIDApKSwgMSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9xdWVzdGlvbl9sZW5ndGhzID0gdGYucmVkdWNlX3N1bSh0Zi50b19pbnQzMih0Zi5ub3RfZXF1YWwocXVlc3Rpb25faWRzLCAwKSksIDEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9xdWVzdGlvbl9sZW5ndGhzID0gdGYucmVkdWNlX3N1bSh0Zi50b19pbnQzMih0Zi5ub3RfZXF1YWwoc2VsZi5fcXVlc3Rpb25faWRzLCAwKSksIDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlc3Rpb25faWRzLCBzZWxmLl92b2NhYl9zaXplKSwgdGYub25lc19saWtlKHF1ZXN0aW9uX2lkcykgKiBzZWxmLl9VTktfSUQsIHF1ZXN0aW9uX2lkcykKICAgICAgICBzZWxmLl9xdWVzdGlvbl9sZW5ndGhzID0gdGYucmVkdWNlX3N1bSh0Zi50b19pbnQzMih0Zi5ub3RfZXF1YWwocXVlc3Rpb25faWRzLCAwKSksIDEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9xdWVzdGlvbl9sZW5ndGhzID0gdGYucmVkdWNlX3N1bSh0Zi50b19pbnQzMih0Zi5ub3RfZXF1YWwoc2VsZi5fcXVlc3Rpb25faWRzLCAwKSksIDEpCgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9xdWVzdGlvbl9sZW5ndGhzID0gdGYucmVkdWNlX3N1bSh0Zi50b19pbnQzMih0Zi5ub3RfZXF1YWwocXVlc3Rpb25faWRzLCAwKSksIDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0dHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9hbnN3ZXJfbGVuZ3RocyA9IHRmLnJlZHVjZV9zdW0odGYudG9faW50MzIodGYubm90X2VxdWFsKHNlbGYuX2Fuc3dlcl9pZHMsIDApKSwgMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9sb3NzID0gdGYucmVkdWNlX21lYW4oc2VsZi5fY29udGV4dF9lbWJlZCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9xdWVzdGlvbl9sZW5ndGhzID0gdGYucmVkdWNlX3N1bSh0Zi50b19pbnQzMih0Zi5ub3RfZXF1YWwoc2VsZi5fcXVlc3Rpb25faWRzLCAwKSksIDEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9sb2dpdHNfc2NhbGVkID0gdGYubm4uc29mdG1heChsb2dpdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9xdWVzdGlvbl9sZW5ndGhzID0gdGYucmVkdWNlX3N1bSh0Zi50b19pbnQzMih0Zi5ub3RfZXF1YWwoc2VsZi5fcXVlc3Rpb25faWRzLCAwKSksIDEpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0dHQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnJycK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9sb3NzID0gdGYucmVkdWNlX21lYW4oc2VsZi5fY29udGV4dF9lbWJlZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9sb2dpdHNfc2NhbGVkID0gdGYubm4uc29mdG1heChsb2dpdHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY29udGV4dF9pZHNcPg==</last-search>
+      <last-search encoding="base64">XDxfYW5zd2VyX2xlbmd0aHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY29udGV4dF9pZHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfYW5zd2VyX2xlbmd0aHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>question_text</entry>
-        <entry encoding="base64">XDxpbnB1dF9lbWJlZFw+</entry>
         <entry encoding="base64">XDxxdWVzdGlvbl9lbWJlZFw+</entry>
         <entry encoding="base64">XDxfcXVlc3Rpb25faWRzXD4=</entry>
         <entry>question_idsA</entry>
@@ -741,6 +739,8 @@
         <entry>train</entry>
         <entry encoding="base64">XDxfcHJlcHJvY2Vzc19kYXRhXD4=</entry>
         <entry encoding="base64">XDxfY29udGV4dF9pZHNcPg==</entry>
+        <entry encoding="base64">XDxfcXVlc3Rpb25faWRzX21hc2tcPg==</entry>
+        <entry encoding="base64">XDxfYW5zd2VyX2xlbmd0aHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
