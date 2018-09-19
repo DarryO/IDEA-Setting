@@ -253,11 +253,12 @@
         <mark key="^" line="260" column="5" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" timestamp="1537357197890">
-        <mark key="'" line="81" column="12" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" timestamp="1537360395368">
+        <mark key="'" line="50" column="72" />
+        <mark key="[" line="7" column="70" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/seq2seq_config.py" timestamp="1534393884765">
         <mark key="'" line="27" column="25" />
@@ -581,13 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="47" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="132" column="29" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="179" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="71" column="24" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile" />
-      <jump line="186" column="44" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="183" column="34" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="44" column="65" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="185" column="68" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="189" column="68" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="193" column="18" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -679,8 +673,15 @@
       <jump line="86" column="23" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" />
       <jump line="1" column="56" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" />
       <jump line="91" column="41" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" />
       <jump line="102" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" />
+      <jump line="35" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" />
+      <jump line="42" column="29" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" />
+      <jump line="77" column="17" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" />
+      <jump line="5" column="34" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" />
+      <jump line="3" column="43" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" />
+      <jump line="72" column="46" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" />
+      <jump line="49" column="72" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -690,53 +691,51 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZXNzaW9uUnVuQXJnc1w+</text>
+        <text encoding="base64">XDxfbG9nX3RlbnNvcnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQktLXRyYWluX2JhdGNoX3NpemUgMzYgXAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIiIlByaW50cyB0aGUgZ2l2ZW4gdGVuc29ycyBldmVyeSBOIGxvY2FsIHN0ZXBzLCBldmVyeSBOIHNlY29uZHMsIG9yIGF0IGVuZC4KICAgIFRoZSB0ZW5zb3JzIHdpbGwgYmUgcHJpbnRlZCB0byB0aGUgbG9nLCB3aXRoIGBJTkZPYCBzZXZlcml0eS4gSWYgeW91IGFyZSBub3QKICAgIHNlZWluZyB0aGUgbG9ncywgeW91IG1pZ2h0IHdhbnQgdG8gYWRkIHRoZSBmb2xsb3dpbmcgbGluZSBhZnRlciB5b3VyIGltcG9ydHM6CiAgICBgYGBweXRob24KICAgICAgdGYubG9nZ2luZy5zZXRfdmVyYm9zaXR5KHRmLmxvZ2dpbmcuSU5GTykKICAgIGBgYAogICAgTm90ZSB0aGF0IGlmIGBhdF9lbmRgIGlzIFRydWUsIGB0ZW5zb3JzYCBzaG91bGQgbm90IGluY2x1ZGUgYW55IHRlbnNvcgogICAgd2hvc2UgZXZhbHVhdGlvbiBwcm9kdWNlcyBhIHNpZGUgZWZmZWN0IHN1Y2ggYXMgY29uc3VtaW5nIGFkZGl0aW9uYWwgaW5wdXRzLgogICAgIiIiCgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zYXZlX3BhdGggPSBzYXZlX3BhdGgKICAgICAgICBzZWxmLl90ZW5zb3JzID0gdGVuc29ycwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJJbml0aWFsaXplcyBhIGBMb2dnaW5nVGVuc29ySG9va2AuCiAgICAgICAgQXJnczoKICAgICAgICAgIHRlbnNvcnM6IGBkaWN0YCB0aGF0IG1hcHMgc3RyaW5nLXZhbHVlZCB0YWdzIHRvIHRlbnNvcnMvdGVuc29yIG5hbWVzLAogICAgICAgICAgICAgIG9yIGBpdGVyYWJsZWAgb2YgdGVuc29ycy90ZW5zb3IgbmFtZXMuCiAgICAgICAgICBldmVyeV9uX2l0ZXI6IGBpbnRgLCBwcmludCB0aGUgdmFsdWVzIG9mIGB0ZW5zb3JzYCBvbmNlIGV2ZXJ5IE4gbG9jYWwKICAgICAgICAgICAgICBzdGVwcyB0YWtlbiBvbiB0aGUgY3VycmVudCB3b3JrZXIuCiAgICAgICAgICBldmVyeV9uX3NlY3M6IGBpbnRgIG9yIGBmbG9hdGAsIHByaW50IHRoZSB2YWx1ZXMgb2YgYHRlbnNvcnNgIG9uY2UgZXZlcnkgTgogICAgICAgICAgICAgIHNlY29uZHMuIEV4YWN0bHkgb25lIG9mIGBldmVyeV9uX2l0ZXJgIGFuZCBgZXZlcnlfbl9zZWNzYCBzaG91bGQgYmUKICAgICAgICAgICAgICBwcm92aWRlZC4KICAgICAgICAgIGF0X2VuZDogYGJvb2xgIHNwZWNpZnlpbmcgd2hldGhlciB0byBwcmludCB0aGUgdmFsdWVzIG9mIGB0ZW5zb3JzYCBhdCB0aGUKICAgICAgICAgICAgICBlbmQgb2YgdGhlIHJ1bi4KICAgICAgICAgIGZvcm1hdHRlcjogZnVuY3Rpb24sIHRha2VzIGRpY3Qgb2YgYHRhZ2AtPmBUZW5zb3JgIGFuZCByZXR1cm5zIGEgc3RyaW5nLgogICAgICAgICAgICAgIElmIGBOb25lYCB1c2VzIGRlZmF1bHQgcHJpbnRpbmcgYWxsIHRlbnNvcnMuCiAgICAgICAgUmFpc2VzOgogICAgICAgICAgVmFsdWVFcnJvcjogaWYgYGV2ZXJ5X25faXRlcmAgaXMgbm9uLXBvc2l0aXZlLgogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJfdmFsdWUgPSBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFjZS5nZW5lcmF0ZV9jaHJvbWVfdHJhY2VfZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICBzaG93X2RhdGFmbG93PXNlbGYuX3Nob3dfZGF0YWZsb3csIHNob3dfbWVtb3J5PXNlbGYuX3Nob3dfbWVtb3J5KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi50cmFpbmluZy5zZXNzaW9uX3J1bl9ob29rIGltcG9ydCBTZXNzaW9uUnVuQXJncwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNlID0gdGltZWxpbmUuVGltZWxpbmUoc3RlcF9zdGF0cykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi50cmFpbmluZyBpbXBvcnQgc2Vzc2lvbl9ydW5faG9vawo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9sb2dfYXRfZW5kOgogICAgICAgICAgICB2YWx1ZXMgPSBzZXNzaW9uLnJ1bihzZWxmLl9jdXJyZW50X3RlbnNvcnMpCiAgICAgICAgICAgIHNlbGYuX2xvZ190ZW5zb3JzKHZhbHVlcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNpeAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZWxhcHNlZF9zZWNzIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCIlcyAoJS4zZiBzZWMpIiwgIiwgIi5qb2luKHN0YXRzKSwgZWxhcHNlZF9zZWNzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTZXNzaW9uUnVuQXJnc1w+</last-search>
+      <last-search encoding="base64">XDxfbG9nX3RlbnNvcnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZXNzaW9uUnVuQXJnc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfbG9nX3RlbnNvcnNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry encoding="base64">XDxlbmNvZGVyX291dHB1dHNcPg==</entry>
         <entry>GRUCell</entry>
         <entry encoding="base64">XDxxdWVzdGlvbl9maW5hbF9zdGF0ZVw+</entry>
         <entry encoding="base64">XDxxdWVzdGlvbl9zdGF0ZV9vdXRwdXRzXD4=</entry>
@@ -755,6 +754,8 @@
         <entry encoding="base64">XDxfRFVNTVlfSURcPg==</entry>
         <entry>hooks</entry>
         <entry encoding="base64">XDxTZXNzaW9uUnVuQXJnc1w+</entry>
+        <entry encoding="base64">XDxvbmx5X2xvZ19hdF9lbmRcPg==</entry>
+        <entry encoding="base64">XDxfbG9nX3RlbnNvcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>114</entry>
