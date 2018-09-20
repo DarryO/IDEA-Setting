@@ -253,6 +253,7 @@
         <mark key="^" line="260" column="5" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" timestamp="1537415526632" />
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/seq2seq_config.py" timestamp="1534393884765">
         <mark key="'" line="27" column="25" />
         <mark key="[" line="32" column="40" />
