@@ -253,13 +253,6 @@
         <mark key="^" line="260" column="5" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/session_hook.py" timestamp="1537360395368">
-        <mark key="'" line="50" column="72" />
-        <mark key="[" line="7" column="70" />
-        <mark key="]" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/seq2seq_config.py" timestamp="1534393884765">
         <mark key="'" line="27" column="25" />
         <mark key="[" line="32" column="40" />
@@ -319,12 +312,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1537344311143">
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1537407289625">
         <mark key="'" line="163" column="30" />
-        <mark key="[" line="325" column="78" />
-        <mark key="]" line="325" column="54" />
-        <mark key="." line="325" column="54" />
-        <mark key="^" line="325" column="54" />
+        <mark key="[" line="251" column="63" />
+        <mark key="]" line="251" column="93" />
+        <mark key="." line="251" column="93" />
+        <mark key="^" line="251" column="93" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" timestamp="1535625530897">
         <mark key="'" line="101" column="18" />
