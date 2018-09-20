@@ -313,12 +313,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1537419528163">
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1537421304637">
         <mark key="'" line="293" column="49" />
-        <mark key="[" line="297" column="45" />
-        <mark key="]" line="297" column="45" />
-        <mark key="^" line="297" column="45" />
-        <mark key="." line="297" column="45" />
+        <mark key="[" line="293" column="51" />
+        <mark key="]" line="294" column="11" />
+        <mark key="^" line="294" column="11" />
+        <mark key="." line="294" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" timestamp="1535625530897">
         <mark key="'" line="101" column="18" />
@@ -690,32 +690,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl90cmFpbl9vdXRwdXRzLnJubl9vdXRwdXQsICd0cmFpbl9vdXRwdXQnKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zdGFydF90b2tlbnMgPSB0Zi5vbmVzKFtzZWxmLl9iYXRjaF9zaXplXSwgZHR5cGU9dGYuaW50NjQpICogc2VsZi5fU1RBUlRfVE9LRU5fSUQK</text>
+      <register name="1" type="8">
+        <text encoding="base64">IyAKIyAKIyA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zYXZlX3BhdGggPSBzYXZlX3BhdGgKICAgICAgICBzZWxmLl90ZW5zb3JzID0gdGVuc29ycwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zdGFydF90b2tlbnMgPSB0Zi5vbmVzKFtzZWxmLl9iYXRjaF9zaXplXSwgZHR5cGU9dGYuaW50NjQpICogc2VsZi5fU1RBUlRfVE9LRU5fSUQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zYXZlX3BhdGggPSBzYXZlX3BhdGgKICAgICAgICBzZWxmLl90ZW5zb3JzID0gdGVuc29ycwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJfdmFsdWUgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBzdHJfdmFsdWUgPSBOb25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFjZS5nZW5lcmF0ZV9jaHJvbWVfdHJhY2VfZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICBzaG93X2RhdGFmbG93PXNlbGYuX3Nob3dfZGF0YWZsb3csIHNob3dfbWVtb3J5PXNlbGYuX3Nob3dfbWVtb3J5KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNlID0gdGltZWxpbmUuVGltZWxpbmUoc3RlcF9zdGF0cykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFjZS5nZW5lcmF0ZV9jaHJvbWVfdHJhY2VfZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICBzaG93X2RhdGFmbG93PXNlbGYuX3Nob3dfZGF0YWZsb3csIHNob3dfbWVtb3J5PXNlbGYuX3Nob3dfbWVtb3J5KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9sb2dfYXRfZW5kOgogICAgICAgICAgICB2YWx1ZXMgPSBzZXNzaW9uLnJ1bihzZWxmLl9jdXJyZW50X3RlbnNvcnMpCiAgICAgICAgICAgIHNlbGYuX2xvZ190ZW5zb3JzKHZhbHVlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWNlID0gdGltZWxpbmUuVGltZWxpbmUoc3RlcF9zdGF0cykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
