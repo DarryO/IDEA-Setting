@@ -43,8 +43,8 @@
         <mark key="]" line="23" column="26" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" timestamp="1537794302269">
-        <mark key="'" line="242" column="28" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" timestamp="1537798848500">
+        <mark key="'" line="242" column="50" />
         <mark key="[" line="131" column="36" />
         <mark key="]" line="131" column="29" />
         <mark key="." line="131" column="29" />
@@ -596,16 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="269" column="58" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="175" column="44" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="296" column="28" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="183" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="194" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="218" column="81" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="46" column="32" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/sample/model/model.py" />
-      <jump line="51" column="11" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/sample/model/model.py" />
-      <jump line="268" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
       <jump line="161" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
       <jump line="341" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="99" column="3" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -695,7 +685,17 @@
       <jump line="27" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="220" column="36" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
-      <jump line="241" column="28" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
+      <jump line="90" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
+      <jump line="243" column="40" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
+      <jump line="244" column="30" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
+      <jump line="131" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
+      <jump line="238" column="30" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
+      <jump line="239" column="48" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
+      <jump line="240" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
+      <jump line="241" column="20" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
+      <jump line="242" column="50" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -705,7 +705,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>get_logg</text>
+        <text>logging</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNoZWNrcG9pbnRfZGlyID0gZmxhZ3MuY2hlY2twb2ludERpcgo=</text>
@@ -742,9 +742,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_logg</last-search>
+      <last-search>logging</last-search>
       <last-offset />
-      <last-pattern>get_logg</last-pattern>
+      <last-pattern>logging</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -753,7 +753,6 @@
         <entry encoding="base64">XDxfY3VycmVudF9nbG9iYWxfc3RlcHNcPg==</entry>
         <entry>global_</entry>
         <entry encoding="base64">XDxfY3VycmVudF9maWxlXD4=</entry>
-        <entry>logging</entry>
         <entry>prediction_words</entry>
         <entry encoding="base64">XDxnZXRfbXlfZm9ybWF0dGVyXD4=</entry>
         <entry>get_my</entry>
@@ -768,8 +767,9 @@
         <entry encoding="base64">XDxjaGVja3BvaW50RGlyXD4=</entry>
         <entry>run_id</entry>
         <entry encoding="base64">XDxleHBfbmFtZVw+</entry>
-        <entry encoding="base64">XDxQUFw+</entry>
         <entry>get_logg</entry>
+        <entry encoding="base64">XDxQUFw+</entry>
+        <entry>logging</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
