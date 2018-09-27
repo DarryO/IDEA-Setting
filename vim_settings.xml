@@ -345,8 +345,8 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1537946472810">
-        <mark key="'" line="285" column="25" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1538043004699">
+        <mark key="'" line="372" column="15" />
         <mark key="[" line="35" column="34" />
         <mark key="]" line="35" column="34" />
         <mark key="." line="35" column="34" />
@@ -604,9 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="330" column="43" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="338" column="14" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="340" column="14" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="343" column="26" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="346" column="14" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="345" column="53" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -704,6 +701,9 @@
       <jump line="257" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
       <jump line="344" column="69" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
       <jump line="390" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
+      <jump line="37" column="26" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="127" column="40" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="372" column="15" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -713,7 +713,7 @@
         <text>[</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmV2aW91c19hbGlnbm1lbnRfaGlzdG9yeVw+</text>
+        <text>loss</text>
       </register>
       <register name="0" type="4">
         <text>for alignment in initial_alignments</text>
@@ -750,15 +750,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmV2aW91c19hbGlnbm1lbnRfaGlzdG9yeVw+</last-search>
+      <last-search>loss</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmV2aW91c19hbGlnbm1lbnRfaGlzdG9yeVw+</last-pattern>
+      <last-pattern>loss</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaGFwZVw+</entry>
         <entry encoding="base64">XDxleHRlbmRlZF92c2l6ZVw+</entry>
         <entry>num_oov</entry>
         <entry>final</entry>
@@ -778,6 +777,7 @@
         <entry encoding="base64">XDxfaXRlbV9vcl90dXBsZVw+</entry>
         <entry encoding="base64">XDxwX2dlbnNcPg==</entry>
         <entry encoding="base64">XDxwcmV2aW91c19hbGlnbm1lbnRfaGlzdG9yeVw+</entry>
+        <entry>loss</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
