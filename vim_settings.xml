@@ -145,8 +145,8 @@
         <mark key="." line="211" column="48" />
         <mark key="^" line="211" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" timestamp="1537940373934">
-        <mark key="'" line="167" column="11" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" timestamp="1538116521679">
+        <mark key="'" line="180" column="43" />
         <mark key="[" line="43" column="33" />
         <mark key="]" line="43" column="50" />
         <mark key="^" line="156" column="43" />
@@ -263,8 +263,8 @@
         <mark key="." line="114" column="50" />
         <mark key="^" line="114" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/inputs/inputs.py" timestamp="1537938774407">
-        <mark key="'" line="44" column="26" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/inputs/inputs.py" timestamp="1538116495453">
+        <mark key="'" line="27" column="13" />
         <mark key="[" line="22" column="20" />
         <mark key="]" line="22" column="20" />
         <mark key="^" line="68" column="20" />
@@ -345,12 +345,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1538114396785">
-        <mark key="'" line="279" column="16" />
-        <mark key="[" line="231" column="0" />
-        <mark key="]" line="231" column="0" />
-        <mark key="^" line="53" column="57" />
-        <mark key="." line="231" column="0" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1538116475683">
+        <mark key="'" line="176" column="8" />
+        <mark key="[" line="201" column="76" />
+        <mark key="]" line="202" column="48" />
+        <mark key="^" line="202" column="48" />
+        <mark key="." line="202" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" timestamp="1535625530897">
         <mark key="'" line="101" column="18" />
@@ -604,18 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="398" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
-      <jump line="0" column="21" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
-      <jump line="45" column="9" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
-      <jump line="102" column="17" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
-      <jump line="185" column="34" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
-      <jump line="305" column="16" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
-      <jump line="374" column="47" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
-      <jump line="378" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
-      <jump line="319" column="72" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
-      <jump line="293" column="16" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
-      <jump line="395" column="18" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
       <jump line="313" column="16" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
       <jump line="375" column="36" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
       <jump line="379" column="37" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/attention_wrapper.py" />
@@ -703,7 +691,19 @@
       <jump line="406" column="36" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="165" column="48" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="231" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="279" column="16" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="178" column="103" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="279" column="35" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="284" column="98" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="290" column="98" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="201" column="25" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="200" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="176" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="68" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/inputs/inputs.py" />
+      <jump line="27" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/inputs/inputs.py" />
+      <jump line="43" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
+      <jump line="224" column="25" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
+      <jump line="225" column="54" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
+      <jump line="180" column="43" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -713,7 +713,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbnN3ZXJfZW1iZWRcPg==</text>
+        <text encoding="base64">XDxsaXN0MmlkX2V4dGVuZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl90cmFpbl9maW5hbF9kaXN0cyA9IHNlbGYuX2NhbGNfZmluYWxfZGlzdHMoCiAgICAgICAgICAgIHNlbGYuX3RyYWluX291dHB1dHMucm5uX291dHB1dCwgc2VsZi5fdHJhaW5fYXR0bl9kaXN0cywgc2VsZi5fdHJhaW5fcF9nZW5zKQo=</text>
@@ -750,18 +750,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbnN3ZXJfZW1iZWRcPg==</last-search>
+      <last-search encoding="base64">XDxsaXN0MmlkX2V4dGVuZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbnN3ZXJfZW1iZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsaXN0MmlkX2V4dGVuZFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>p_gens</entry>
-        <entry encoding="base64">XDxfaXRlbV9vcl90dXBsZVw+</entry>
-        <entry encoding="base64">XDxwX2dlbnNcPg==</entry>
-        <entry>loss</entry>
         <entry encoding="base64">XDxwcmV2aW91c19hbGlnbm1lbnRfaGlzdG9yeVw+</entry>
         <entry encoding="base64">XDxhbGlnbm1lbnRfaGlzdG9yeVw+</entry>
         <entry encoding="base64">XDxwX2dlblw+</entry>
@@ -778,6 +774,10 @@
         <entry encoding="base64">XDxfU1RPUF9UT0tFTl9JRFw+</entry>
         <entry>answer_text</entry>
         <entry encoding="base64">XDxhbnN3ZXJfZW1iZWRcPg==</entry>
+        <entry encoding="base64">XDxfc3RvcnlfbGVuZ3Roc1w+</entry>
+        <entry>extend_</entry>
+        <entry encoding="base64">XDxzdG9yeV9leHRlbmRfaWRzXD4=</entry>
+        <entry encoding="base64">XDxsaXN0MmlkX2V4dGVuZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>267</entry>
