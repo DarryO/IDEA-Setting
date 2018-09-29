@@ -346,12 +346,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1538206680721">
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1538207769458">
         <mark key="'" line="319" column="19" />
-        <mark key="[" line="79" column="8" />
-        <mark key="]" line="79" column="8" />
-        <mark key="." line="79" column="8" />
-        <mark key="^" line="77" column="45" />
+        <mark key="[" line="477" column="14" />
+        <mark key="]" line="477" column="11" />
+        <mark key="." line="477" column="11" />
+        <mark key="^" line="477" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" timestamp="1535625530897">
         <mark key="'" line="101" column="18" />
