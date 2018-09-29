@@ -346,12 +346,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1538203844879">
-        <mark key="'" line="325" column="38" />
-        <mark key="[" line="74" column="43" />
-        <mark key="]" line="74" column="34" />
-        <mark key="." line="74" column="34" />
-        <mark key="^" line="74" column="34" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1538206680721">
+        <mark key="'" line="319" column="19" />
+        <mark key="[" line="79" column="8" />
+        <mark key="]" line="79" column="8" />
+        <mark key="." line="79" column="8" />
+        <mark key="^" line="77" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" timestamp="1535625530897">
         <mark key="'" line="101" column="18" />
@@ -606,7 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="15" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile" />
       <jump line="110" column="53" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile" />
       <jump line="111" column="15" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile" />
       <jump line="122" column="53" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile" />
@@ -706,6 +705,7 @@
       <jump line="64" column="10" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile.local" />
       <jump line="119" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile.local" />
       <jump line="3" column="5" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile.local" />
+      <jump line="319" column="19" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -782,7 +782,6 @@
         <entry encoding="base64">XDxfY2FsY19maW5hbF9kaXN0c1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>94</entry>
         <entry>198</entry>
         <entry>265</entry>
         <entry>153</entry>
@@ -801,6 +800,7 @@
         <entry>325</entry>
         <entry>336</entry>
         <entry>74</entry>
+        <entry>339</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
