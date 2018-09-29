@@ -346,8 +346,8 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1538207769458">
-        <mark key="'" line="319" column="19" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1538209267791">
+        <mark key="'" line="543" column="12" />
         <mark key="[" line="477" column="14" />
         <mark key="]" line="477" column="11" />
         <mark key="." line="477" column="11" />
@@ -606,15 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="53" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile" />
-      <jump line="111" column="15" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile" />
-      <jump line="122" column="53" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile" />
-      <jump line="123" column="15" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile" />
-      <jump line="47" column="15" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile" />
-      <jump line="59" column="15" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile" />
-      <jump line="80" column="53" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile" />
-      <jump line="81" column="15" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile" />
-      <jump line="92" column="53" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile" />
       <jump line="43" column="34" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/inputs/inputs.py" />
       <jump line="50" column="30" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/inputs/inputs.py" />
       <jump line="392" column="48" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -639,7 +630,6 @@
       <jump line="491" column="30" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="462" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="516" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="562" column="27" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="530" column="26" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="166" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="77" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
@@ -706,6 +696,16 @@
       <jump line="119" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile.local" />
       <jump line="3" column="5" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/Makefile.local" />
       <jump line="319" column="19" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="475" column="37" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="334" column="17" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="401" column="28" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="463" column="32" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="329" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="427" column="32" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="477" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="562" column="50" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="550" column="50" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="543" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -715,7 +715,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2FsY19maW5hbF9kaXN0c1w+</text>
+        <text encoding="base64">XDxhbnN3ZXJzX2lkc1w+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Q1VEQV9WSVNJQkxFX0RFVklDRVM9IiRHUFVfSUQiIA==</text>
@@ -752,17 +752,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2FsY19maW5hbF9kaXN0c1w+</last-search>
+      <last-search encoding="base64">XDxhbnN3ZXJzX2lkc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2FsY19maW5hbF9kaXN0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxhbnN3ZXJzX2lkc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3b3JkMmlkX2RpY3RcPg==</entry>
-        <entry>print</entry>
-        <entry encoding="base64">XDxhbnN3ZXJfd29yZHNcPg==</entry>
         <entry>oovs</entry>
         <entry encoding="base64">XDxvb3ZzXD4=</entry>
         <entry encoding="base64">XDxsaXN0MmlkX2V4dGVuZFw+</entry>
@@ -771,7 +768,6 @@
         <entry encoding="base64">XDxfcHJlZF9maW5hbF9kaXN0c1w+</entry>
         <entry encoding="base64">XDxmaW5hbF9kaXN0c1w+</entry>
         <entry>pred_dist</entry>
-        <entry encoding="base64">XDxfcHJlZF9maW5hbF9pZHNcPg==</entry>
         <entry>_loss</entry>
         <entry encoding="base64">XDxfdHJhaW5fZmluYWxfZGlzdHNcPg==</entry>
         <entry encoding="base64">XDxfcHJlZF9wX2dlbnNcPg==</entry>
@@ -780,6 +776,10 @@
         <entry>decode</entry>
         <entry encoding="base64">XDxkZWNvZGVcPg==</entry>
         <entry encoding="base64">XDxfY2FsY19maW5hbF9kaXN0c1w+</entry>
+        <entry encoding="base64">XDxfcHJlZF9vdXRwdXRfd29yZFw+</entry>
+        <entry encoding="base64">XDxfcHJlZF9maW5hbF9pZHNcPg==</entry>
+        <entry encoding="base64">XDxhbnN3ZXJfaWRzXD4=</entry>
+        <entry encoding="base64">XDxhbnN3ZXJzX2lkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>198</entry>
