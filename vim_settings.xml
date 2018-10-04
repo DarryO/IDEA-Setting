@@ -523,10 +523,10 @@
         <mark key="." line="261" column="27" />
         <mark key="^" line="261" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/cli.py" timestamp="1538190914760">
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/cli.py" timestamp="1538635177166">
         <mark key="'" line="25" column="19" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="87" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="114" column="44" />
         <mark key="." line="133" column="19" />
         <mark key="^" line="133" column="19" />
       </file>
@@ -717,8 +717,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxfY2FsY19maW5hbF9kaXN0c1w+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Q1VEQV9WSVNJQkxFX0RFVklDRVM9IiRHUFVfSUQiIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBsb2dnaW5nCiAgICBfbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ3RlbnNvcmZsb3cnKQogICAgX2xvZ2dlci5wcm9wYWdhdGUgPSBGYWxzZQogICAgdGYubG9nZ2luZy5zZXRfdmVyYm9zaXR5KHRmLmxvZ2dpbmcuSU5GTykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiISEhIiwgcHJlZF9kaXN0cykK</text>
