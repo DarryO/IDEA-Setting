@@ -158,13 +158,6 @@
         <mark key="." line="211" column="48" />
         <mark key="^" line="211" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" timestamp="1538847245138">
-        <mark key="'" line="325" column="73" />
-        <mark key="[" line="326" column="0" />
-        <mark key="]" line="326" column="0" />
-        <mark key="^" line="325" column="71" />
-        <mark key="." line="326" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/basic/conf_helper.py" timestamp="1537763615968">
         <mark key="'" line="63" column="13" />
         <mark key="[" line="42" column="0" />
@@ -354,10 +347,6 @@
       </file>
       <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1538848716830">
         <mark key="'" line="9" column="23" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-        <mark key="^" line="650" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" timestamp="1535625530897">
         <mark key="'" line="101" column="18" />
