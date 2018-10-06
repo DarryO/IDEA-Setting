@@ -710,7 +710,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>context</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGYubWF0bXVsKHF1ZXN0aW9uX3N0YXRlX3Rlcm0sIHdfcXVlc3Rpb25fc3RhdGUpICsK</text>
@@ -747,9 +747,9 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>context</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>context</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -762,7 +762,6 @@
         <entry>set_shape</entry>
         <entry encoding="base64">XDxfYW5zd2VyX2lkc1w+</entry>
         <entry encoding="base64">XDxhbnN3ZXJfZW1iZWRcPg==</entry>
-        <entry>context</entry>
         <entry encoding="base64">XDxfcmF3X2NvbnRleHRcPg==</entry>
         <entry>question</entry>
         <entry encoding="base64">XDxfcXVlc3Rpb25faWRzXD4=</entry>
@@ -775,6 +774,7 @@
         <entry>update</entry>
         <entry encoding="base64">XDxlbXB0eV9mb3JtYXR0ZXJcPg==</entry>
         <entry>print</entry>
+        <entry>context</entry>
       </history-search>
       <history-cmd>
         <entry>341</entry>
