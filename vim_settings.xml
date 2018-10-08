@@ -312,12 +312,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1538993634847">
-        <mark key="'" line="392" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="663" column="37" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1538997886641">
+        <mark key="'" line="122" column="10" />
+        <mark key="[" line="122" column="8" />
+        <mark key="]" line="122" column="9" />
+        <mark key="^" line="122" column="9" />
+        <mark key="." line="122" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" timestamp="1535625530897">
         <mark key="'" line="101" column="18" />
@@ -544,48 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="101" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="15" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="363" column="56" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="24" column="6" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="367" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="91" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="187" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="50" column="31" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="135" column="19" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="136" column="19" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="137" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="157" column="36" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="167" column="38" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="177" column="48" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="179" column="46" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="192" column="43" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="209" column="42" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="246" column="54" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="357" column="49" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="51" column="27" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="353" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="362" column="4" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="366" column="41" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="369" column="49" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="370" column="53" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
-      <jump line="700" column="18" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="682" column="32" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="709" column="15" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="681" column="10" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="386" column="62" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="652" column="53" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="659" column="40" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="660" column="49" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="697" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="696" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="645" column="23" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="620" column="67" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="619" column="16" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="604" column="18" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="550" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="200" column="42" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="206" column="35" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -594,7 +552,6 @@
       <jump line="415" column="16" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="388" column="33" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="387" column="51" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="655" column="16" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="658" column="27" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="180" column="22" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="27" column="19" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -603,8 +560,6 @@
       <jump line="389" column="45" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="661" column="103" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="390" column="45" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="656" column="52" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="657" column="47" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="663" column="56" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="277" column="25" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
       <jump line="247" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/data_preprocess/coqa_make_tfrecords.py" />
@@ -624,7 +579,6 @@
       <jump line="60" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/inputs/vocab.py" />
       <jump line="109" column="13" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/inputs/vocab.py" />
       <jump line="685" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="654" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/inputs/inputs.py" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/basic/helper.py" />
       <jump line="85" column="37" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/basic/main.py" />
@@ -644,6 +598,52 @@
       <jump line="32" column="29" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/basic/helper.py" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/sample/inputs/inputs.py" />
       <jump line="29" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/basic/helper.py" />
+      <jump line="716" column="4" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="78" column="64" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="23" column="44" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="101" column="21" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="353" column="50" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="380" column="48" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="381" column="51" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="382" column="42" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="383" column="45" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="384" column="50" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="645" column="34" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="646" column="52" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="648" column="24" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="650" column="46" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="651" column="55" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="652" column="51" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="653" column="64" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="654" column="20" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="655" column="92" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="656" column="39" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="657" column="32" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="660" column="96" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="662" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="690" column="18" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="709" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="711" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="717" column="25" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="28" column="6" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="90" column="91" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="96" column="11" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="115" column="4" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="116" column="19" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="133" column="32" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="138" column="51" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="196" column="38" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="225" column="27" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="226" column="22" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="228" column="14" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="229" column="83" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="230" column="76" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="262" column="14" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="263" column="86" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="282" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="283" column="18" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="473" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="122" column="10" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -653,56 +653,52 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Table</text>
+        <text>context_state</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXN0X2NvbnRleHQgPSBnZXRfc3RyKHZhbHVlc1snbGFzdF9jb250ZXh0J11bMF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnJycKICAgICAgICBfX2ltcG9ydF9fKCdtb2RlbHMue30nLmZvcm1hdChtb2RlbF9uYW1lKSkKICAgICAgICBpZiBub3QgaGFzYXR0cihtb2RlbHMsIG1vZGVsX25hbWUpOgogICAgICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJ7fSBub3QgZXhpc3RzIi5mb3JtYXQobW9kZWxfbmFtZSkpCiAgICAgICAgbW9kZWwgPSBnZXRhdHRyKG1vZGVscywgbW9kZWxfbmFtZSkKICAgICAgICAnJycK</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfYWRkX2xvZ2dlcihzZWxmKToKICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl9pZFswXSwgJ2lkJykKICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl9yYXdfdHVybl9pZCwgJ3R1cm5faWQnKQogICAgICAgIGFkZF90b19sb2dnaW5nKHNlbGYuX251bV90dXJuLCAnbnVtX3R1cm4nKQogICAgICAgIGFkZF90b19sb2dnaW5nKHNlbGYuX3Jhd19zdG9yeVswXSwgJ3N0b3J5JykKICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl9yYXdfcXVlc3Rpb25fdGV4dCwgJ3F1ZXN0aW9uJykKICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl9yYXdfYW5zd2VyX3RleHQsICdyZWZfYW5zd2VyJykKICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl9wcmVkX291dHB1dF93b3JkLCAnYW5zd2VyJykKICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl90cmFpbl9vdXRwdXRfd29yZCwgJ3ByZWRpY3Rpb25fd29yZHNfdHJhaW4nKQogICAgICAgIGlmIHNlbGYuX2RlYnVnOgogICAgICAgICAgICAjIGFkZF90b19sb2dnaW5nKHNlbGYuX3ZvY2FiX3RhYmxlLCAndm9jYWJfdGFibGUnKQogICAgICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl9yYXdfc3RvcnlfaWRzWzBdLCAncmF3X3N0b3J5X2lkcycpCiAgICAgICAgICAgIGFkZF90b19sb2dnaW5nKHNlbGYuX3Jhd19zdG9yeV9leHRlbmRfaWRzWzBdLCAncmF3X3N0b3J5X2V4dGVuZF9pZHMnKQogICAgICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl9zdG9yeV9pZHNfc29mdF9tYXNrWzBdLCAnc3RvcnlfaWRzX3NvZnRfbWFzaycpCiAgICAgICAgICAgIGFkZF90b19sb2dnaW5nKHNlbGYuX3N0b3J5X2V4dGVuZF9pZHNbMF0sICdzdG9yeV9leHRlbmRfaWRzJykKICAgICAgICAgICAgYWRkX3RvX2xvZ2dpbmcoc2VsZi5fc3RvcnlfaWRzWzBdLCAnc3RvcnlfaWRzJykKICAgICAgICAgICAgYWRkX3RvX2xvZ2dpbmcoc2VsZi5fc3RvcnlfaWRzX2hhcmRfbWFza1swXSwgJ3N0b3J5X2lkc19oYXJkX21hc2snKQogICAgICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl9zdG9yeV9sZW5ndGhzWzBdLCAnc3RvcnlfbGVuZ3RocycpCiAgICAgICAgICAgIGFkZF90b19sb2dnaW5nKHNlbGYuX3Jhd19xdWVzdGlvbl90ZXh0WzBdLCAncmF3X3F1ZXN0aW9uX3RleHQnKQogICAgICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl9xdWVzdGlvbl9sZW5ndGhzWzBdLCAncXVlc3Rpb25fbGVuZ3RocycpCiAgICAgICAgICAgIGFkZF90b19sb2dnaW5nKHNlbGYuX3F1ZXN0aW9uX2lkc1swXSwgJ3F1ZXN0aW9uX2lkcycpCiAgICAgICAgICAgIGFkZF90b19sb2dnaW5nKHNlbGYuX3F1ZXN0aW9uX2lkc19zb2Z0X21hc2tbMF0sICdxdWVzdGlvbl9pZHNfc29mdF9tYXNrJykKICAgICAgICAgICAgYWRkX3RvX2xvZ2dpbmcoc2VsZi5fcXVlc3Rpb25faWRzX2hhcmRfbWFza1swXSwgJ3F1ZXN0aW9uX2lkc19oYXJkX21hc2snKQogICAgICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl9yYXdfYW5zd2VyX3RleHRbMF0sICdyYXdfYW5zd2VyX3RleHQnKQogICAgICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl9hbnN3ZXJfaWRzX3NvZnRfbWFza1swXSwgJ2Fuc3dlcl9pZHNfc29mdF9tYXNrJykKICAgICAgICAgICAgYWRkX3RvX2xvZ2dpbmcoc2VsZi5fYW5zd2VyX2lkc19oYXJkX21hc2tbMF0sICdhbnN3ZXJfaWRzX2hhcmRfbWFzaycpCiAgICAgICAgICAgIGFkZF90b19sb2dnaW5nKHNlbGYuX2Fuc3dlcl9pZHNbMF0sICdhbnN3ZXJfaWRzJykKICAgICAgICAgICAgYWRkX3RvX2xvZ2dpbmcoc2VsZi5fc3RhcnRfdG9rZW5zWzBdLCAnc3RhcnRfdG9rZW5zJykKCiAgICAgICAgICAgIGFkZF90b19sb2dnaW5nKHNlbGYuX3RyYWluX2ZpbmFsX2Rpc3RzWzBdLCAndHJhaW5fZmluYWxfZGlzdHMnKQogICAgICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl90cmFpbl9vdXRwdXRzLnJubl9vdXRwdXRbMF0sICd0cmFpbl9ybm5fb3V0cHV0JykKICAgICAgICAgICAgYWRkX3RvX2xvZ2dpbmcoc2VsZi5fdHJhaW5fYXR0bl9kaXN0c1swXSwgJ3RyYWluX2F0dG5fZGlzdHMnKQogICAgICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl90cmFpbl9wX2dlbnMsICd0cmFpbl9wX2dlbnMnKQogICAgICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl90cmFpbl9vdXRwdXRzLnNhbXBsZV9pZFswXSwgJ3RyYWluX3NhbXBsZV9pZCcpCgogICAgICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl9wcmVkX2ZpbmFsX2Rpc3RzWzBdLCAncHJlZF9maW5hbF9kaXN0cycpCiAgICAgICAgICAgIGFkZF90b19sb2dnaW5nKHNlbGYuX3ByZWRfb3V0cHV0cy5ybm5fb3V0cHV0WzBdLCAncHJlZF9ybm5fb3V0cHV0JykKICAgICAgICAgICAgYWRkX3RvX2xvZ2dpbmcoc2VsZi5fcHJlZF9hdHRuX2Rpc3RzWzBdLCAncHJlZF9hdHRuX2Rpc3RzJykKICAgICAgICAgICAgYWRkX3RvX2xvZ2dpbmcoc2VsZi5fcHJlZF9wX2dlbnNbMF0sICdwcmVkX3BfZ2VucycpCiAgICAgICAgICAgIGFkZF90b19sb2dnaW5nKHNlbGYuX3ByZWRfb3V0cHV0cy5zYW1wbGVfaWRbMF0sICdwcmVkX3NhbXBsZV9pZCcpCgogICAgICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl9wcmVkX2ZpbmFsX2lkc1swXSwgJ3ByZWRfZmluYWxfaWQnKQogICAgICAgICAgICBhZGRfdG9fbG9nZ2luZyhzZWxmLl90cmFpbl9maW5hbF9pZHNbMF0sICd0cmFpbl9maW5hbF9pZCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnJycKICAgICAgICBfX2ltcG9ydF9fKCdtb2RlbHMue30nLmZvcm1hdChtb2RlbF9uYW1lKSkKICAgICAgICBpZiBub3QgaGFzYXR0cihtb2RlbHMsIG1vZGVsX25hbWUpOgogICAgICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJ7fSBub3QgZXhpc3RzIi5mb3JtYXQobW9kZWxfbmFtZSkpCiAgICAgICAgbW9kZWwgPSBnZXRhdHRyKG1vZGVscywgbW9kZWxfbmFtZSkKICAgICAgICAnJycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBpbXBvcnQgbW9kZWxzLmdlbl9hcGkK</text>
+        <text encoding="base64">ICAgICAgICAnJycK</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">IyAKIyAKIyA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">IyAKIyAKIyA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Table</last-search>
+      <last-search>context_state</last-search>
       <last-offset />
-      <last-pattern>Table</last-pattern>
+      <last-pattern>context_state</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWb2NhYlw+</entry>
-        <entry>iden</entry>
-        <entry>identity</entry>
         <entry encoding="base64">XDxsYXN0X2NvbnRleHRcPg==</entry>
-        <entry>context</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry>DUMMY</entry>
         <entry>tokenize</entry>
@@ -718,6 +714,10 @@
         <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
         <entry>sample</entry>
         <entry>Table</entry>
+        <entry>dynamic_decode</entry>
+        <entry>helper</entry>
+        <entry>context</entry>
+        <entry>context_state</entry>
       </history-search>
       <history-cmd>
         <entry>224</entry>
