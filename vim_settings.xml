@@ -653,7 +653,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2FsY19maW5hbF9kaXN0c1w+</text>
+        <text>50</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiB0Zi5yZWR1Y2VfbWVhbih2YWx1ZXNfcGVyX2V4KQo=</text>
@@ -690,15 +690,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2FsY19maW5hbF9kaXN0c1w+</last-search>
+      <last-search>50</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2FsY19maW5hbF9kaXN0c1w+</last-pattern>
+      <last-pattern>50</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>input</entry>
         <entry encoding="base64">XDxnZXRfZXZhbF9kYXRhXD4=</entry>
         <entry encoding="base64">XDxtb2RlbF9wYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxwYWRfdXBfdG9cPg==</entry>
@@ -718,6 +717,7 @@
         <entry encoding="base64">XDxfdHJhaW5fZmluYWxfZGlzdHNcPg==</entry>
         <entry encoding="base64">XDx0Zlw+</entry>
         <entry encoding="base64">XDxfY2FsY19maW5hbF9kaXN0c1w+</entry>
+        <entry>50</entry>
       </history-search>
       <history-cmd>
         <entry>224</entry>
