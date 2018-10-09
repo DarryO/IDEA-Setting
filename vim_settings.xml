@@ -37,8 +37,8 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" timestamp="1537848967619">
-        <mark key="'" line="242" column="50" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" timestamp="1539086342118">
+        <mark key="'" line="235" column="26" />
         <mark key="[" line="238" column="51" />
         <mark key="]" line="238" column="89" />
         <mark key="." line="238" column="89" />
@@ -551,7 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="453" column="45" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="724" column="32" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="381" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -651,6 +650,7 @@
       <jump line="617" column="20" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="625" column="38" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="472" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="235" column="26" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -660,7 +660,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>eval_</text>
+        <text>optimi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0Zi5pZGVudGl0eShzZWxmLl9yYXdfY29udGV4dCwgbmFtZT0nbGFzdF9jb250ZXh0JykK</text>
@@ -697,16 +697,14 @@
       </register>
     </registers>
     <search>
-      <last-search>eval_</last-search>
+      <last-search>optimi</last-search>
       <last-offset />
-      <last-pattern>eval_</last-pattern>
+      <last-pattern>optimi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3cml0ZV90b19iaW5cPg==</entry>
-        <entry>padding</entry>
         <entry encoding="base64">XDxwYWRkaW5nXD4=</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry>sampler</entry>
@@ -725,6 +723,8 @@
         <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
         <entry encoding="base64">XDxjb250ZXh0X2dsb2JhbF9zdGVwXD4=</entry>
         <entry>eval_</entry>
+        <entry>optim</entry>
+        <entry>optimi</entry>
       </history-search>
       <history-cmd>
         <entry>319</entry>
