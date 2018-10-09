@@ -37,12 +37,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" timestamp="1539086342118">
-        <mark key="'" line="235" column="26" />
-        <mark key="[" line="238" column="51" />
-        <mark key="]" line="238" column="89" />
-        <mark key="." line="238" column="89" />
-        <mark key="^" line="238" column="89" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" timestamp="1539089330125">
+        <mark key="'" line="18" column="63" />
+        <mark key="[" line="253" column="48" />
+        <mark key="]" line="253" column="45" />
+        <mark key="." line="253" column="45" />
+        <mark key="^" line="253" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/sample/inputs/inputs.py" timestamp="1538996238709">
         <mark key="'" line="27" column="0" />
@@ -551,8 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="453" column="45" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="724" column="32" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="381" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="371" column="39" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="373" column="38" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -651,6 +649,8 @@
       <jump line="625" column="38" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="472" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="235" column="26" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
+      <jump line="258" column="30" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
+      <jump line="18" column="63" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -660,10 +660,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>optimi</text>
+        <text>opti</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0Zi5pZGVudGl0eShzZWxmLl9yYXdfY29udGV4dCwgbmFtZT0nbGFzdF9jb250ZXh0JykK</text>
+      <register name="0" type="4">
+        <text>params['optimizer']</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
@@ -697,15 +697,14 @@
       </register>
     </registers>
     <search>
-      <last-search>optimi</last-search>
+      <last-search>opti</last-search>
       <last-offset />
-      <last-pattern>optimi</last-pattern>
+      <last-pattern>opti</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYWRkaW5nXD4=</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry>sampler</entry>
         <entry encoding="base64">XDxfc2FtcGxlclw+</entry>
@@ -725,6 +724,7 @@
         <entry>eval_</entry>
         <entry>optim</entry>
         <entry>optimi</entry>
+        <entry>opti</entry>
       </history-search>
       <history-cmd>
         <entry>319</entry>
