@@ -312,12 +312,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1539058156263">
-        <mark key="'" line="331" column="34" />
-        <mark key="[" line="109" column="66" />
-        <mark key="]" line="109" column="56" />
-        <mark key="^" line="109" column="56" />
-        <mark key="." line="109" column="56" />
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1539060123240">
+        <mark key="'" line="23" column="41" />
+        <mark key="[" line="81" column="26" />
+        <mark key="]" line="81" column="24" />
+        <mark key="^" line="81" column="24" />
+        <mark key="." line="81" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" timestamp="1535625530897">
         <mark key="'" line="101" column="18" />
@@ -551,14 +551,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="23" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/basic/helper.py" />
-      <jump line="14" column="19" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/basic/helper.py" />
       <jump line="32" column="29" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/basic/helper.py" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/sample/inputs/inputs.py" />
       <jump line="29" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/basic/helper.py" />
       <jump line="716" column="4" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="78" column="64" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="23" column="44" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="101" column="21" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="353" column="50" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="382" column="42" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -651,6 +648,9 @@
       <jump line="322" column="18" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="285" column="14" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="331" column="34" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="489" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="378" column="0" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
+      <jump line="23" column="41" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -660,7 +660,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXJnZV9vdXRwdXRzXD4=</text>
+        <text>my_dyna</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiB0Zi5yZWR1Y2VfbWVhbih2YWx1ZXNfcGVyX2V4KQo=</text>
@@ -697,16 +697,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXJnZV9vdXRwdXRzXD4=</last-search>
+      <last-search>my_dyna</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXJnZV9vdXRwdXRzXD4=</last-pattern>
+      <last-pattern>my_dyna</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>loss</entry>
-        <entry>avg</entry>
         <entry>greater</entry>
         <entry encoding="base64">XDxfbWFza19hbmRfYXZnXD4=</entry>
         <entry encoding="base64">XDxfYW5zX2V4dGVuZF9pZHNfc2hpZnRcPg==</entry>
@@ -725,6 +723,8 @@
         <entry encoding="base64">XDxxdWVzdGlvbl9maW5hbF9zdGF0ZVw+</entry>
         <entry>story</entry>
         <entry encoding="base64">XDxtZXJnZV9vdXRwdXRzXD4=</entry>
+        <entry encoding="base64">XDxnZXRfbG9nZ2luZ19mb3JtYXR0ZXJcPg==</entry>
+        <entry>my_dyna</entry>
       </history-search>
       <history-cmd>
         <entry>224</entry>
