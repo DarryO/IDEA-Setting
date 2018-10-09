@@ -312,12 +312,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1539060123240">
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1539062246577">
         <mark key="'" line="23" column="41" />
-        <mark key="[" line="81" column="26" />
-        <mark key="]" line="81" column="24" />
-        <mark key="^" line="81" column="24" />
-        <mark key="." line="81" column="24" />
+        <mark key="[" line="621" column="55" />
+        <mark key="]" line="621" column="35" />
+        <mark key="^" line="621" column="35" />
+        <mark key="." line="621" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/model/decoder.py" timestamp="1535625530897">
         <mark key="'" line="101" column="18" />
@@ -727,7 +727,6 @@
         <entry>my_dyna</entry>
       </history-search>
       <history-cmd>
-        <entry>224</entry>
         <entry>319</entry>
         <entry>410</entry>
         <entry>50</entry>
@@ -746,6 +745,7 @@
         <entry>w:w</entry>
         <entry>231</entry>
         <entry>112</entry>
+        <entry>623</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
