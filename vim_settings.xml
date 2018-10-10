@@ -37,12 +37,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" timestamp="1539089330125">
+      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/base/model/model.py" timestamp="1539140202956">
         <mark key="'" line="18" column="63" />
-        <mark key="[" line="253" column="48" />
-        <mark key="]" line="253" column="45" />
-        <mark key="." line="253" column="45" />
-        <mark key="^" line="253" column="45" />
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="249" column="0" />
+        <mark key="." line="249" column="0" />
+        <mark key="^" line="252" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/sample/inputs/inputs.py" timestamp="1538996238709">
         <mark key="'" line="27" column="0" />
@@ -666,31 +666,31 @@
         <text>params['optimizer']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgIG9wdGltaXplciA9IE5vbmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudHJ5Wyd0bXAnXSA9IHN0cihhbnN3ZXJzX2lkcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29yZCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudHJ5Wyd0bXAnXSA9IHN0cihhbnN3ZXJzX2lkcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd29yZCA9IE5vbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmRfbGlzdC5hcHBlbmQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmRfbGlzdC5hcHBlbmQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJlc2hhcGUoW3NlbGYuX2JhdGNoX3NpemUsIHNlbGYuX21heF9kZWNfc3RlcHNdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLnJlc2hhcGUoW3NlbGYuX2JhdGNoX3NpemUsIHNlbGYuX21heF9kZWNfc3RlcHNdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHR1cm5faWQgPT0gMDoKICAgICAgICAgICAgICAgICAgICBuZXdfY29udGV4dCA9IHZvY2FiLkRVTU1ZCiAgICAgICAgICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJlc2hhcGUoW3NlbGYuX2JhdGNoX3NpemUsIHNlbGYuX21heF9kZWNfc3RlcHNdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
