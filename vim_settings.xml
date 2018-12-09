@@ -369,6 +369,13 @@
         <mark key="^" line="42" column="24" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" timestamp="1544332575962">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="71" column="3" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/inference.py" timestamp="1535941762243">
         <mark key="'" line="13" column="17" />
         <mark key="[" line="13" column="6" />
@@ -389,6 +396,12 @@
         <mark key="]" line="174" column="45" />
         <mark key="." line="174" column="45" />
         <mark key="^" line="174" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/requirements.txt" timestamp="1544332238447">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/basic/main.py" timestamp="1534324953236">
         <mark key="'" line="22" column="4" />
@@ -547,10 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="4" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="106" column="23" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="108" column="62" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="110" column="77" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="113" column="43" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="119" column="8" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="120" column="49" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -647,13 +656,17 @@
       <jump line="40" column="27" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/scripts/pre_trained_vocab_filter.py" />
       <jump line="7" column="1" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/scripts/pre_trained_vocab_filter.py" />
       <jump line="24" column="18" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/scripts/pre_trained_vocab_filter.py" />
+      <jump line="34" column="10" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>PP</text>
@@ -662,31 +675,31 @@
         <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGYubG9nZ2luZy5pbmZvKCkK</text>
+        <text encoding="base64">ICAgIHRmLmdmaWxlLk1ha2VEaXJzKGNvbmZpZy5zYXZlX2RpcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN0b3J5X2VtYmVkID0gdGYuZXhwYW5kX2RpbXMoc3RvcnlfZW1iZWQsIGF4aXM9MCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIG1haW4oKToKICAgIHByaW50KGFyZ3MpCiAgICBwcmludChkZXZpY2UpCiAgICBwcmludChrd2FyZ3MpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVfdHJhaW5lZF9lbWJlZCA9IE5vbmUgaWYgcHJlX3RyYWluZWRfZW1iZWQgaXMgTm9uZSBlbHNlIHRmLmNvbnN0YW50X2luaXRpYWxpemVyKAogICAgICAgICAgICBwcmVfdHJhaW5lZF9lbWJlZCwgZHR5cGU9dGYuZmxvYXQzMikK</text>
+        <text encoding="base64">ICAgIHdyaXRlX2dmaWxlID0gdGYuZ2ZpbGUuR0ZpbGUob3MucGF0aC5qb2luKGNvbmZpZy5zYXZlX2RpciwgImhwYXJhbXMudHh0IiksIG1vZGU9J3cnKQogICAgd3JpdGVfZ2ZpbGUud3JpdGUoanNvbi5kdW1wcyhjb25maWcuZ2V0X2RpY3QoKSwgaW5kZW50PTQpKQogICAgd3JpdGVfZ2ZpbGUuZmx1c2goKQogICAgd3JpdGVfZ2ZpbGUuY2xvc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbWJfaW5pdGlhbGl6ZXIgPSAK</text>
+        <text encoding="base64">ICAgIHRmLnNldF9yYW5kb21fc2VlZCgxMTEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwcmVfdHJhaW5lZF9lbWJlZCBpcyBub3QgTm9uZQo=</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCiAgICBhcmdzLmN1ZGEgPSBub3QgYXJncy5ub19jdWRhIGFuZCB0b3JjaC5jdWRhLmlzX2F2YWlsYWJsZSgpCiAgICB0b3JjaC5tYW51YWxfc2VlZChhcmdzLnNlZWQpCiAgICBkZXZpY2UgPSB0b3JjaC5kZXZpY2UoImN1ZGEiIGlmIGFyZ3MuY3VkYSBlbHNlICJjcHUiKQogICAga3dhcmdzID0geydudW1fd29ya2Vycyc6IDEsICdwaW5fbWVtb3J5JzogVHJ1ZX0gaWYgYXJncy5jdWRhIGVsc2Uge30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIG1haW4oKToKICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCiAgICBhcmdzLmN1ZGEgPSBub3QgYXJncy5ub19jdWRhIGFuZCB0b3JjaC5jdWRhLmlzX2F2YWlsYWJsZSgpCiAgICB0b3JjaC5tYW51YWxfc2VlZChhcmdzLnNlZWQpCiAgICBkZXZpY2UgPSB0b3JjaC5kZXZpY2UoImN1ZGEiIGlmIGFyZ3MuY3VkYSBlbHNlICJjcHUiKQogICAga3dhcmdzID0geydudW1fd29ya2Vycyc6IDEsICdwaW5fbWVtb3J5JzogVHJ1ZX0gaWYgYXJncy5jdWRhIGVsc2Uge30KICAgIHByaW50KGFyZ3MpCiAgICBwcmludChkZXZpY2UpCiAgICBwcmludChrd2FyZ3MpCgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVfdHJhaW5lZF9kaWN0ID0ge30KICAgICAgICBwcmVfdHJhaW5lZF9lbWJlZCA9IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
