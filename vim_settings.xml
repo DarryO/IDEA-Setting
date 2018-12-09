@@ -349,6 +349,12 @@
         <mark key="." line="275" column="117" />
         <mark key="^" line="275" column="117" />
       </file>
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" timestamp="1544338562511">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/helper.py" timestamp="1534392867791">
         <mark key="'" line="18" column="25" />
         <mark key="[" line="24" column="30" />
@@ -412,11 +418,11 @@
         <mark key="." line="174" column="45" />
         <mark key="^" line="174" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/requirements.txt" timestamp="1544332238447">
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/requirements.txt" timestamp="1544338431066">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/basic/main.py" timestamp="1534324953236">
         <mark key="'" line="22" column="4" />
@@ -531,14 +537,6 @@
         <mark key="]" line="39" column="19" />
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/general.py" timestamp="1538993630817">
-        <mark key="a" line="32" column="4" />
-        <mark key="'" line="71" column="12" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/confs/helper.py" timestamp="1534392360568">
         <mark key="'" line="14" column="31" />
