@@ -349,11 +349,11 @@
         <mark key="." line="275" column="117" />
         <mark key="^" line="275" column="117" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" timestamp="1544339293948">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="16" column="26" />
-        <mark key="." line="16" column="26" />
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" timestamp="1544375703263">
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="19" column="11" />
+        <mark key="^" line="19" column="11" />
+        <mark key="." line="19" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/helper.py" timestamp="1534392867791">
         <mark key="'" line="18" column="25" />
@@ -493,8 +493,10 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="26" column="83" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" timestamp="1544334924927">
-        <mark key="'" line="54" column="4" />
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" timestamp="1544375966953">
+        <mark key="'" line="347" column="4" />
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/Makefile" timestamp="1536025504678">
         <mark key="'" line="111" column="57" />
@@ -582,14 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="86" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="392" column="60" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="655" column="24" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="679" column="25" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="187" column="38" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="390" column="12" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="398" column="39" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
-      <jump line="598" column="51" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="599" column="61" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="605" column="69" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
       <jump line="606" column="61" filename="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" />
@@ -682,6 +676,14 @@
       <jump line="17" column="30" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="99" column="4" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="18" column="23" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="345" column="4" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
+      <jump line="340" column="60" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
+      <jump line="201" column="4" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
+      <jump line="283" column="35" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
+      <jump line="281" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
+      <jump line="12" column="18" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
+      <jump line="268" column="4" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
+      <jump line="347" column="4" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -691,56 +693,51 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>const</text>
+        <text encoding="base64">XDx0cmFpbkl0ZXJzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBiYXNpYy5oZWxwZXIgaW1wb3J0IEhlbHBlcgo=</text>
+        <text encoding="base64">ICAgIGVuY29kZXJfb3B0aW1pemVyID0gb3B0aW0uU0dEKGVuY29kZXIucGFyYW1ldGVycygpLCBscj1sZWFybmluZ19yYXRlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmNvZGVyMSA9IEVuY29kZXJSTk4obGFuZy5uX3dvcmRzLCBoaWRkZW5fc2l6ZSkudG8oZGV2aWNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KGFyZ3MpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiSGVsbG8/IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGt3YXJncyA9IHsnbnVtX3dvcmtlcnMnOiAxLCAncGluX21lbW9yeSc6IFRydWV9IGlmIGFyZ3MuY3VkYSBlbHNlIHt9Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiSGVsbG8/IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFyZ3Mua2FyZ3MgPSBrd2FyZ3MK</text>
+        <text encoding="base64">ICAgIGt3YXJncyA9IHsnbnVtX3dvcmtlcnMnOiAxLCAncGluX21lbW9yeSc6IFRydWV9IGlmIGFyZ3MuY3VkYSBlbHNlIHt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgd3JpdGUgaHByYW1zIHRvIG91dHB1dCBkaXIuIGZvciB0aGUgY29udmllbmNlLgo=</text>
+        <text encoding="base64">ICAgIGFyZ3Mua2FyZ3MgPSBrd2FyZ3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KF9fZmlsZV9fKQo=</text>
+        <text encoding="base64">ICAgICMgd3JpdGUgaHByYW1zIHRvIG91dHB1dCBkaXIuIGZvciB0aGUgY29udmllbmNlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>const</last-search>
+      <last-search encoding="base64">XDx0cmFpbkl0ZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern>const</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFpbkl0ZXJzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc3RvcnlfZXh0ZW5kX2lkc1w+</entry>
-        <entry encoding="base64">XDxfc3RvcnlfbGVuZ3Roc1w+</entry>
-        <entry>story</entry>
-        <entry encoding="base64">XDx0cmFpbmluZ19ob29rc1w+</entry>
-        <entry>hooks</entry>
         <entry>num_oov</entry>
         <entry encoding="base64">XDxudW1fb292XD4=</entry>
         <entry>[0]</entry>
@@ -756,6 +753,11 @@
         <entry>PP</entry>
         <entry encoding="base64">XDxpbml0X2xvZ2dlclw+</entry>
         <entry>const</entry>
+        <entry encoding="base64">XDxlbmNvZGVyMVw+</entry>
+        <entry encoding="base64">XDx0cmFpblw+</entry>
+        <entry encoding="base64">XDx0YXJnZXRfdGVuc29yXD4=</entry>
+        <entry encoding="base64">XDxvcHRpbVw+</entry>
+        <entry encoding="base64">XDx0cmFpbkl0ZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>410</entry>
