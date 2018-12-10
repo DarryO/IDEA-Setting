@@ -233,11 +233,11 @@
         <mark key="^" line="235" column="48" />
         <mark key="." line="235" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/helper.py" timestamp="1544433688494">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/helper.py" timestamp="1544434598961">
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="21" />
+        <mark key="^" line="39" column="21" />
+        <mark key="." line="39" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/playground/tf/attention.py" timestamp="1534498214759">
         <mark key="'" line="25" column="0" />
@@ -400,12 +400,12 @@
         <mark key="^" line="42" column="24" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" timestamp="1544423843234">
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" timestamp="1544434580804">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="29" />
-        <mark key="." line="88" column="11" />
-        <mark key="^" line="100" column="11" />
+        <mark key="[" line="36" column="48" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="25" />
+        <mark key="^" line="36" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/inference.py" timestamp="1535941762243">
         <mark key="'" line="13" column="17" />
@@ -705,7 +705,7 @@
         <text>loader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCg==</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnLS1leHAtbmFtZScsIHR5cGU9c3RyLCBkZWZhdWx0PSd0cnknLCBtZXRhdmFyPSdOJywKICAgICAgICAgICAgICAgICAgICBoZWxwPSduYW1lIG9mIHRoZSBleHBlcmltZW50JykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9uX3NhbXBsZXMgPSBsZW4oc2VsZi5fZGF0YXNldCkK</text>
