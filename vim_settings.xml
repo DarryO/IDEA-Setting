@@ -235,12 +235,12 @@
         <mark key="^" line="62" column="32" />
         <mark key="." line="62" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" timestamp="1544530961478">
-        <mark key="'" line="12" column="21" />
-        <mark key="[" line="29" column="31" />
-        <mark key="]" line="29" column="39" />
-        <mark key="." line="29" column="39" />
-        <mark key="^" line="29" column="39" />
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" timestamp="1544533291131">
+        <mark key="'" line="127" column="57" />
+        <mark key="[" line="131" column="52" />
+        <mark key="]" line="131" column="52" />
+        <mark key="." line="131" column="52" />
+        <mark key="^" line="131" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/helper.py" timestamp="1534392867791">
         <mark key="'" line="18" column="25" />
@@ -370,12 +370,12 @@
         <mark key="." line="108" column="90" />
         <mark key="^" line="108" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" timestamp="1544532296447">
-        <mark key="'" line="29" column="14" />
-        <mark key="[" line="51" column="64" />
-        <mark key="]" line="51" column="64" />
-        <mark key="." line="51" column="64" />
-        <mark key="^" line="51" column="64" />
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" timestamp="1544534043547">
+        <mark key="'" line="131" column="42" />
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="49" column="50" />
+        <mark key="." line="49" column="50" />
+        <mark key="^" line="49" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/confs/config.py" timestamp="1536025549996">
         <mark key="'" line="2" column="17" />
@@ -537,12 +537,12 @@
         <mark key="^" line="42" column="24" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" timestamp="1544521969065">
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" timestamp="1544533701343">
         <mark key="'" line="23" column="23" />
-        <mark key="[" line="174" column="18" />
-        <mark key="]" line="174" column="21" />
-        <mark key="." line="174" column="21" />
-        <mark key="^" line="174" column="21" />
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="34" />
+        <mark key="." line="40" column="34" />
+        <mark key="^" line="40" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/inference.py" timestamp="1535941762243">
         <mark key="'" line="13" column="17" />
@@ -667,10 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="17" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
-      <jump line="94" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
-      <jump line="122" column="17" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
-      <jump line="98" column="14" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="26" column="61" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="91" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="27" column="29" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
@@ -700,7 +696,6 @@
       <jump line="34" column="44" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="11" column="4" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/metrics.py" />
       <jump line="49" column="10" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
-      <jump line="52" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="92" column="61" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="158" column="33" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="83" column="11" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
@@ -708,7 +703,6 @@
       <jump line="23" column="23" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="28" column="52" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="75" column="30" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
-      <jump line="111" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="8" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="0" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="104" column="56" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
@@ -767,55 +761,61 @@
       <jump line="43" column="40" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/utils.py" />
       <jump line="44" column="41" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/utils.py" />
       <jump line="32" column="26" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/utils.py" />
+      <jump line="116" column="21" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" />
+      <jump line="118" column="31" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" />
+      <jump line="114" column="57" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" />
+      <jump line="52" column="62" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="110" column="12" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="111" column="42" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>get_optimizer(self._args.optimizer)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYW5nXD4=</text>
+        <text encoding="base64">XDxuZXR3b3JrX291dHB1dFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyEgL3Vzci9iaW4vZW52IHB5dGhvbgojIGNvZGluZzogdXRmLTgKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojICAgICBGaWxlIE5hbWUgICAgICAgICAgIDogICAgIHV0aWxzLnB5CiMgICAgIENyZWF0ZWQgQnkgICAgICAgICAgOiAgICAgaGFvCiMgICAgIERlc2NyaXB0aW9uICAgICAgICAgOgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnLS1tb2RlbC1uYW1lJywgdHlwZT1zdHIsIGRlZmF1bHQ9J3NlcTJzZXEnLCBtZXRhdmFyPSdOJywKICAgICAgICAgICAgICAgICAgICBoZWxwPSduYW1lIG9mIHRoZSBtb2RlbCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGNvbnZlcnRfZGljdF90b19zb21lX2RldmljZShkaWN0X2RhdGEsIGRldmljZSk6CiAgICBrZXlzID0gZGljdF9kYXRhLmtleXMoKQogICAgZm9yIGtleSBpbiBrZXlzOgogICAgICAgIHZhbHVlID0gZGljdF9kYXRhW2tleV0KICAgICAgICBpZiBpc2luc3RhbmNlKHZhbHVlLCB0b3JjaC5UZW5zb3IpOgogICAgICAgICAgICBkaWN0X2RhdGFba2V5XSA9IHZhbHVlLnRvKGRldmljZSkKICAgIHJldHVybiBkaWN0X2RhdGEKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">5b+r6YCf6YWN572uOgpgYGBiYXNoCnNoIC1jICIkKGN1cmwgLWZzU0wgaHR0cDovL2dpdC56anVsZWFybmluZy5vcmc6ODA4MS9oYW9saS9jb3FhLWxlYXJuLXRvLWFzay9yYXcvZGV2ZWxvcC9zZXR1cC5zaCkiCmBgYAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIGNvbnZlcnRfZGljdF90b19zb21lX2RldmljZShkaWN0X2RhdGEsIGRldmljZSk6CiAgICBrZXlzID0gZGljdF9kYXRhLmtleXMoKQogICAgZm9yIGtleSBpbiBrZXlzOgogICAgICAgIHZhbHVlID0gZGljdF9kYXRhW2tleV0KICAgICAgICBpZiBpc2luc3RhbmNlKHZhbHVlLCB0b3JjaC5UZW5zb3IpOgogICAgICAgICAgICBkaWN0X2RhdGFba2V5XSA9IHZhbHVlLnRvKGRldmljZSkKICAgIHJldHVybiBkaWN0X2RhdGEKCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cm91Z2U9PTAuMy4xCm5sdGs9PTMuNAo=</text>
+        <text encoding="base64">5b+r6YCf6YWN572uOgpgYGBiYXNoCnNoIC1jICIkKGN1cmwgLWZzU0wgaHR0cDovL2dpdC56anVsZWFybmluZy5vcmc6ODA4MS9oYW9saS9jb3FhLWxlYXJuLXRvLWFzay9yYXcvZGV2ZWxvcC9zZXR1cC5zaCkiCmBgYAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYW5nXD4=</last-search>
+      <last-search encoding="base64">XDxuZXR3b3JrX291dHB1dFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuZXR3b3JrX291dHB1dFw+</last-pattern>
       <last-replace>_word2index</last-replace>
       <last-substitute>word2index</last-substitute>
       <last-dir>1</last-dir>
@@ -823,11 +823,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0X291dHB1dF9kaXJcPg==</entry>
-        <entry>n-epo</entry>
-        <entry>tqdm</entry>
-        <entry>save</entry>
-        <entry encoding="base64">XDx6ZmlsbFw+</entry>
         <entry>n_epo</entry>
         <entry encoding="base64">XDxuX2Vwb2NoZXNcPg==</entry>
         <entry>epochs</entry>
@@ -843,6 +838,11 @@
         <entry encoding="base64">XDx2b2NhYl9maWxlXD4=</entry>
         <entry>n_words</entry>
         <entry encoding="base64">XDxsYW5nXD4=</entry>
+        <entry>word</entry>
+        <entry>word2</entry>
+        <entry>index2</entry>
+        <entry encoding="base64">XDxuZXR3b3JkX291dHB1dHNcPg==</entry>
+        <entry encoding="base64">XDxuZXR3b3JrX291dHB1dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
@@ -863,8 +863,8 @@
         <entry>s/index2word/_index2word/g</entry>
         <entry>%s/index2word/_index2word/g</entry>
         <entry>%s/word2index/_word2index/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
