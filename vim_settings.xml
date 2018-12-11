@@ -370,12 +370,12 @@
         <mark key="." line="108" column="90" />
         <mark key="^" line="108" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" timestamp="1544530853783">
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" timestamp="1544532296447">
         <mark key="'" line="29" column="14" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="8" />
-        <mark key="." line="66" column="8" />
-        <mark key="^" line="94" column="64" />
+        <mark key="[" line="51" column="64" />
+        <mark key="]" line="51" column="64" />
+        <mark key="." line="51" column="64" />
+        <mark key="^" line="51" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/confs/config.py" timestamp="1536025549996">
         <mark key="'" line="2" column="17" />
@@ -773,7 +773,7 @@
         <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYW5nXD4=</text>
@@ -809,7 +809,7 @@
         <text encoding="base64">cm91Z2U9PTAuMy4xCm5sdGs9PTMuNAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -857,7 +857,6 @@
         <entry>112</entry>
         <entry>623</entry>
         <entry>418</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>106</entry>
         <entry>113</entry>
@@ -865,6 +864,7 @@
         <entry>%s/index2word/_index2word/g</entry>
         <entry>%s/word2index/_word2index/g</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
