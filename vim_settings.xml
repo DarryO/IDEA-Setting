@@ -361,12 +361,12 @@
         <mark key="." line="108" column="90" />
         <mark key="^" line="108" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" timestamp="1544518650999">
-        <mark key="'" line="21" column="53" />
-        <mark key="[" line="39" column="33" />
-        <mark key="]" line="39" column="29" />
-        <mark key="." line="39" column="29" />
-        <mark key="^" line="39" column="29" />
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" timestamp="1544520788159">
+        <mark key="'" line="7" column="7" />
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="49" column="9" />
+        <mark key="." line="49" column="9" />
+        <mark key="^" line="49" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/confs/config.py" timestamp="1536025549996">
         <mark key="'" line="2" column="17" />
@@ -526,12 +526,12 @@
         <mark key="^" line="42" column="24" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" timestamp="1544518409654">
-        <mark key="'" line="153" column="25" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="81" column="49" />
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" timestamp="1544520870044">
+        <mark key="'" line="34" column="44" />
+        <mark key="[" line="47" column="62" />
+        <mark key="]" line="47" column="62" />
+        <mark key="." line="47" column="62" />
+        <mark key="^" line="47" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/pointer_generator/inference/inference.py" timestamp="1535941762243">
         <mark key="'" line="13" column="17" />
@@ -581,11 +581,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/CONSTANTS.py" timestamp="1544515180694">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="28" />
-        <mark key="^" line="14" column="28" />
-        <mark key="." line="14" column="28" />
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/CONSTANTS.py" timestamp="1544520568545">
+        <mark key="[" line="15" column="61" />
+        <mark key="]" line="15" column="61" />
+        <mark key="^" line="15" column="61" />
+        <mark key="." line="15" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/ali/cnn-dailymail/make_ids_files.py" timestamp="1533727072705">
         <mark key="'" line="163" column="24" />
@@ -650,45 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="35" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="112" column="27" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="114" column="50" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="115" column="39" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="124" column="38" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="128" column="23" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="130" column="27" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="132" column="51" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="360" column="4" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="346" column="35" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="345" column="40" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="303" column="58" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="211" column="54" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" />
-      <jump line="32" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/helper.py" />
-      <jump line="33" column="29" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/helper.py" />
-      <jump line="40" column="96" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
-      <jump line="195" column="4" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="274" column="22" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/seq2seq.py" />
-      <jump line="32" column="47" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" />
-      <jump line="23" column="13" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" />
-      <jump line="28" column="24" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" />
-      <jump line="31" column="47" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" />
-      <jump line="24" column="26" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" />
-      <jump line="35" column="16" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" />
-      <jump line="36" column="26" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" />
-      <jump line="25" column="22" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" />
-      <jump line="56" column="42" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/vocab.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/vocab.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/vocab.py" />
-      <jump line="52" column="41" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/vocab.py" />
-      <jump line="16" column="44" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/vocab.py" />
-      <jump line="26" column="28" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" />
-      <jump line="38" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/vocab.py" />
-      <jump line="19" column="12" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" />
-      <jump line="42" column="19" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/utils.py" />
-      <jump line="14" column="14" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/utils.py" />
-      <jump line="39" column="68" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/helper.py" />
-      <jump line="24" column="42" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" />
       <jump line="42" column="28" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="77" column="21" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="71" column="31" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/preprocessor.py" />
@@ -707,11 +668,9 @@
       <jump line="45" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="141" column="4" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="134" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="113" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="23" column="61" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
-      <jump line="0" column="21" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="61" column="28" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" />
@@ -729,7 +688,6 @@
       <jump line="123" column="57" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" />
       <jump line="56" column="25" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
-      <jump line="40" column="24" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="27" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="149" column="4" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="103" column="4" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
@@ -750,6 +708,48 @@
       <jump line="21" column="53" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="22" column="36" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="155" column="25" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="37" column="7" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="106" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="39" column="20" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="68" column="19" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="84" column="53" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="34" column="17" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="94" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="122" column="17" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="98" column="14" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="26" column="61" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="27" column="29" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="102" column="66" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="116" column="17" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="168" column="3" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="13" column="10" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="37" column="76" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="107" column="17" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="169" column="9" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="108" column="17" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="111" column="43" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="112" column="42" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="23" column="14" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="65" column="85" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="45" column="74" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="46" column="42" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="47" column="37" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="60" column="33" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="96" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="100" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="124" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="7" column="7" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="34" column="44" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -759,60 +759,51 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>no-</text>
+        <text>learn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnLS1uby1jdWRhJywgYWN0aW9uPSdzdG9yZV90cnVlJywgZGVmYXVsdD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICBoZWxwPSdlbmFibGVzIENVREEgdHJhaW5pbmcnKQo=</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnLS1sb2ctZXZhcnktbi1zdGVwcycsIHR5cGU9aW50LCBkZWZhdWx0PTEwLCBtZXRhdmFyPSdOJywKICAgICAgICAgICAgICAgICAgICBoZWxwPSdsb2dnaW5nIHN0ZXBzIChkZWZhdWx0OiAxMCknKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFF1ZXVlCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9ICJ7fSIuZm9ybWF0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsb3NzLmRhdGEuaXRlbSgpKQo=</text>
+        <text encoding="base64">ICAgIGRldmljZSA9IHRvcmNoLmRldmljZSgiY3VkYSIgaWYgYXJncy5jdWRhIGVsc2UgImNwdSIpCiAgICBhcmdzLmRldmljZSA9IGRldmljZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnLS1uby1jdWRhJywgYWN0aW9uPSdzdG9yZV90cnVlJywgZGVmYXVsdD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICBoZWxwPSdlbmFibGVzIENVREEgdHJhaW5pbmcnKQo=</text>
+        <text encoding="base64">ICAgIGRldmljZSA9IHRvcmNoLmRldmljZSgiY3VkYSIgaWYgYXJncy5jdWRhIGVsc2UgImNwdSIpCiAgICBhcmdzLmRldmljZSA9IGRldmljZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3NfZGljdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFyZ3MuY3VkYSA9IG5vdCBhcmdzLm5vX2N1ZGEgYW5kIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFyZ3MuY3VkYSA9IG5vdCBhcmdzLm5vX2N1ZGEgYW5kIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFyZ3NfZGljdFsiZGV2aWNlIl0gPSBzdHIoYXJncykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYWlycwo=</text>
+        <text encoding="base64">ICAgIGFyZ3NfZGljdFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>no-</last-search>
+      <last-search>learn</last-search>
       <last-offset />
-      <last-pattern>no-</last-pattern>
+      <last-pattern>learn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>join</entry>
-        <entry encoding="base64">XDxhZGRfYWxsX3NlbnRlbmNlc1w+</entry>
-        <entry encoding="base64">XDxwYWlyc1w+</entry>
-        <entry>Vocab</entry>
-        <entry encoding="base64">XDxleHRlbmRcPg==</entry>
-        <entry encoding="base64">XDxpbmRleDJ3b3JkXD4=</entry>
-        <entry encoding="base64">XDx1cGRhdGVfYXJnc1w+</entry>
-        <entry>token</entry>
-        <entry encoding="base64">XDxtYXhfbGVuZ3RoXD4=</entry>
         <entry encoding="base64">XDxlbmNvZGVyX29wdGltaXplclw+</entry>
         <entry encoding="base64">XDx0cmFpblw+</entry>
         <entry>float</entry>
@@ -824,6 +815,15 @@
         <entry encoding="base64">XDxpbml0X291dHB1dF9kaXJcPg==</entry>
         <entry>no_</entry>
         <entry>no-</entry>
+        <entry encoding="base64">XDxzYXZlXD4=</entry>
+        <entry>json</entry>
+        <entry>dump</entry>
+        <entry>cuda</entry>
+        <entry>loss</entry>
+        <entry>item</entry>
+        <entry>save</entry>
+        <entry>logging</entry>
+        <entry>learn</entry>
       </history-search>
       <history-cmd>
         <entry>410</entry>
