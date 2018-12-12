@@ -283,11 +283,12 @@
         <mark key="." line="174" column="45" />
         <mark key="^" line="174" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/README.MD" timestamp="1544525180010">
-        <mark key="'" line="71" column="7" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/README.MD" timestamp="1544597072288">
+        <mark key="'" line="72" column="7" />
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/basic/conf_helper.py" timestamp="1535963030372">
         <mark key="'" line="12" column="6" />
