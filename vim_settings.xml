@@ -370,12 +370,12 @@
         <mark key="." line="108" column="90" />
         <mark key="^" line="108" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" timestamp="1544542044190">
-        <mark key="'" line="62" column="8" />
-        <mark key="[" line="177" column="28" />
-        <mark key="]" line="177" column="52" />
-        <mark key="." line="177" column="28" />
-        <mark key="^" line="177" column="27" />
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" timestamp="1544576887077">
+        <mark key="'" line="127" column="8" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="27" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="93" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/confs/config.py" timestamp="1536025549996">
         <mark key="'" line="2" column="17" />
@@ -667,9 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
-      <jump line="100" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
-      <jump line="124" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="7" column="7" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="34" column="44" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/cli.py" />
       <jump line="11" column="4" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/metrics.py" />
@@ -757,7 +754,6 @@
       <jump line="75" column="21" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="81" column="16" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="84" column="13" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
-      <jump line="127" column="65" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="136" column="47" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="138" column="42" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="150" column="36" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
@@ -767,6 +763,10 @@
       <jump line="157" column="33" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="60" column="13" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="62" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="142" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="93" column="13" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="95" column="13" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="127" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -776,10 +776,10 @@
         <text>get_optimizer(self._args.optimizer)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXliZV9sb2FkXD4=</text>
+        <text encoding="base64">XDxldmFsdWF0ZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>meta_info['latest_step']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9tb2RlbC50cmFpbigpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
@@ -813,9 +813,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXliZV9sb2FkXD4=</last-search>
+      <last-search encoding="base64">XDxldmFsdWF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXliZV9sb2FkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxldmFsdWF0ZVw+</last-pattern>
       <last-replace>_word2index</last-replace>
       <last-substitute>word2index</last-substitute>
       <last-dir>1</last-dir>
@@ -837,12 +837,12 @@
         <entry encoding="base64">XDxuZXR3b3JkX291dHB1dHNcPg==</entry>
         <entry encoding="base64">XDxuZXR3b3JrX291dHB1dFw+</entry>
         <entry>eval_dev_set</entry>
-        <entry encoding="base64">XDxldmFsdWF0ZVw+</entry>
         <entry>load</entry>
         <entry>global_step</entry>
         <entry encoding="base64">XDxfZ2xvYmFsX3N0ZXBcPg==</entry>
         <entry encoding="base64">XDxsb2FkXD4=</entry>
         <entry encoding="base64">XDxtYXliZV9sb2FkXD4=</entry>
+        <entry encoding="base64">XDxldmFsdWF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>339</entry>
