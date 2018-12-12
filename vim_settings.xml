@@ -235,12 +235,12 @@
         <mark key="^" line="62" column="32" />
         <mark key="." line="62" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" timestamp="1544533291131">
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" timestamp="1544580792037">
         <mark key="'" line="127" column="57" />
-        <mark key="[" line="131" column="52" />
-        <mark key="]" line="131" column="52" />
-        <mark key="." line="131" column="52" />
-        <mark key="^" line="131" column="52" />
+        <mark key="[" line="146" column="19" />
+        <mark key="]" line="146" column="34" />
+        <mark key="." line="146" column="34" />
+        <mark key="^" line="146" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/models/helper.py" timestamp="1534392867791">
         <mark key="'" line="18" column="25" />
@@ -370,12 +370,12 @@
         <mark key="." line="108" column="90" />
         <mark key="^" line="108" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" timestamp="1544576887077">
-        <mark key="'" line="127" column="8" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="27" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="93" column="60" />
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" timestamp="1544580619455">
+        <mark key="'" line="68" column="23" />
+        <mark key="[" line="68" column="23" />
+        <mark key="]" line="68" column="23" />
+        <mark key="." line="68" column="23" />
+        <mark key="^" line="68" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/ali/tensorflow-models/src/models/gen_api/confs/config.py" timestamp="1536025549996">
         <mark key="'" line="2" column="17" />
@@ -687,7 +687,6 @@
       <jump line="72" column="35" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="71" column="13" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="69" column="44" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
-      <jump line="68" column="14" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="85" column="22" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="24" column="13" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="48" column="60" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
@@ -767,16 +766,17 @@
       <jump line="93" column="13" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="95" column="13" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="127" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="68" column="23" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>get_optimizer(self._args.optimizer)</text>
+        <text>optimizer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxldmFsdWF0ZVw+</text>
+        <text encoding="base64">XDxvcHRpbWl6ZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9tb2RlbC50cmFpbigpCg==</text>
@@ -813,9 +813,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxldmFsdWF0ZVw+</last-search>
+      <last-search encoding="base64">XDxvcHRpbWl6ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxldmFsdWF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxvcHRpbWl6ZXJcPg==</last-pattern>
       <last-replace>_word2index</last-replace>
       <last-substitute>word2index</last-substitute>
       <last-dir>1</last-dir>
@@ -823,7 +823,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnB1dF9zaXplXD4=</entry>
         <entry>Encoder</entry>
         <entry encoding="base64">XDxpbmRleDJ3b3JkXD4=</entry>
         <entry>index2word</entry>
@@ -843,6 +842,7 @@
         <entry encoding="base64">XDxsb2FkXD4=</entry>
         <entry encoding="base64">XDxtYXliZV9sb2FkXD4=</entry>
         <entry encoding="base64">XDxldmFsdWF0ZVw+</entry>
+        <entry encoding="base64">XDxvcHRpbWl6ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>339</entry>
