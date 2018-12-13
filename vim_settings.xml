@@ -116,11 +116,11 @@
         <mark key="^" line="105" column="27" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/main.py" timestamp="1544683078894">
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="18" column="49" />
-        <mark key="^" line="18" column="49" />
-        <mark key="." line="18" column="49" />
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/main.py" timestamp="1544689132208">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/mylib/tensorflow/input_utils.py" timestamp="1537264801656">
         <mark key="'" line="43" column="4" />
@@ -799,31 +799,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdm9jYWJfc2l6ZT1zZWxmLl9kYXRhc2V0LmdldF92b2NhYl9zaXplKCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiISEhISEhISIpCiAgICAgICAgcHJpbnQodGFyZ2V0X3ZhcmlhYmxlKQo=</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MubW9kZSA9PSAncHJlcHJvJzoKICAgICAgICBoZWxwZXIuZXhlY19wcmVwcm9jZXNzKCkKICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm9jYWJfc2l6ZT1hcmdzLnZvY2FiX3NpemUsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiISEhISEhISIpCiAgICAgICAgcHJpbnQodGFyZ2V0X3ZhcmlhYmxlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm9jYWJfc2l6ZT1hcmdzLnZvY2FiX3NpemUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwcmludChkZWNfc3RyKQogICAgcHJpbnQodHJnX3N0cikKICAgIHByaW50KGRlY193b3JkX2xpc3QpCiAgICBwcmludCh0cmdfd29yZF9saXN0KQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZvY2FiID0gZGF0YXNldC5nZXRfdm9jYWIoKQo=</text>
+        <text encoding="base64">CiAgICBwcmludChkZWNfc3RyKQogICAgcHJpbnQodHJnX3N0cikKICAgIHByaW50KGRlY193b3JkX2xpc3QpCiAgICBwcmludCh0cmdfd29yZF9saXN0KQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHZvY2FiID0gZGF0YXNldC5nZXRfdm9jYWIoKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">dm9jYWIsIAp2b2NhYiwgCnZvY2FiLCA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCJQcmVkaWN0aW9uczoge30iLmZvcm1hdChzZWxmLl9kYXRhc2V0LnJldmVyc2UoW1twcmVkaWN0aW9uc1swXV1dKSkpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENPTlNUQU5UUyBhcyBDT05TVAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKCJQcmVkaWN0aW9uczoge30iLmZvcm1hdChzZWxmLl9kYXRhc2V0LnJldmVyc2UoW1twcmVkaWN0aW9uc1swXV1dKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
