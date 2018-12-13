@@ -225,12 +225,12 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="20" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" timestamp="1544671109254">
-        <mark key="'" line="125" column="50" />
-        <mark key="[" line="109" column="41" />
-        <mark key="]" line="125" column="50" />
-        <mark key="^" line="125" column="50" />
-        <mark key="." line="125" column="50" />
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" timestamp="1544672734813">
+        <mark key="'" line="0" column="21" />
+        <mark key="[" line="121" column="62" />
+        <mark key="]" line="122" column="60" />
+        <mark key="^" line="122" column="60" />
+        <mark key="." line="122" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/ml/nlp/tensorflow-models/src/models/gen_api/model/model.py" timestamp="1539244710626">
         <mark key="'" line="214" column="0" />
@@ -675,9 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="23" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/encoder.py" />
-      <jump line="88" column="38" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" />
-      <jump line="12" column="21" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/model.py" />
       <jump line="22" column="17" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/vocab.py" />
       <jump line="50" column="52" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/vocab.py" />
       <jump line="49" column="69" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/vocab.py" />
@@ -775,13 +772,16 @@
       <jump line="123" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
       <jump line="69" column="43" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/basic/experiment.py" />
+      <jump line="117" column="18" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" />
+      <jump line="9" column="1" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" />
+      <jump line="0" column="21" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/coqa_dataset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>is_train</text>
@@ -790,31 +790,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLl90cmFpbnNldF9pdGVyID0gc2VsZi5fY29xYV9kYXRhc2V0LmdldF90cmFpbl9pdGVyYXRvcigKICAgICAgICAgICAgYmF0Y2hfc2l6ZT1zZWxmLl9iYXRjaF9zaXplLCBkZXZpY2U9c2VsZi5fZGV2aWNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBsaWIuZ2VuZXJhbCBpbXBvcnQgY29udmVydF9kaWN0X3RvX3NvbWVfZGV2aWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzYW1wbGUgPSBjb252ZXJ0X2RpY3RfdG9fc29tZV9kZXZpY2Uoc2FtcGxlLCBzZWxmLl9kZXZpY2UpCg==</text>
+        <text encoding="base64">ZnJvbSBsaWIuZ2VuZXJhbCBpbXBvcnQgY29udmVydF9kaWN0X3RvX3NvbWVfZGV2aWNlCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBzYW1wbGUgPSBjb252ZXJ0X2RpY3RfdG9fc29tZV9kZXZpY2Uoc2FtcGxlLCBzZWxmLl9kZXZpY2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAuRW5jb2RlclJOTiBpbXBvcnQgRW5jb2RlclJOTgo=</text>
+        <text encoding="base64">ICAgICAgICBzYW1wbGUgPSBjb252ZXJ0X2RpY3RfdG9fc29tZV9kZXZpY2Uoc2FtcGxlLCBzZWxmLl9kZXZpY2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAuRGVjb2RlclJOTiBpbXBvcnQgRGVjb2RlclJOTgpmcm9tIC5Ub3BLRGVjb2RlciBpbXBvcnQgVG9wS0RlY29kZXIKZnJvbSAuc2VxMnNlcSBpbXBvcnQgU2VxMnNlcQo=</text>
+        <text encoding="base64">ZnJvbSAuRW5jb2RlclJOTiBpbXBvcnQgRW5jb2RlclJOTgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAuRW5jb2RlclJOTiBpbXBvcnQgRW5jb2RlclJOTgpmcm9tIC5EZWNvZGVyUk5OIGltcG9ydCBEZWNvZGVyUk5OCmZyb20gLlRvcEtEZWNvZGVyIGltcG9ydCBUb3BLRGVjb2Rlcgpmcm9tIC5zZXEyc2VxIGltcG9ydCBTZXEyc2VxCg==</text>
+        <text encoding="base64">ZnJvbSAuRGVjb2RlclJOTiBpbXBvcnQgRGVjb2RlclJOTgpmcm9tIC5Ub3BLRGVjb2RlciBpbXBvcnQgVG9wS0RlY29kZXIKZnJvbSAuc2VxMnNlcSBpbXBvcnQgU2VxMnNlcQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAuc2VxMnNlcSBpbXBvcnQgU2VxMnNlcQo=</text>
+        <text encoding="base64">ZnJvbSAuRW5jb2RlclJOTiBpbXBvcnQgRW5jb2RlclJOTgpmcm9tIC5EZWNvZGVyUk5OIGltcG9ydCBEZWNvZGVyUk5OCmZyb20gLlRvcEtEZWNvZGVyIGltcG9ydCBUb3BLRGVjb2Rlcgpmcm9tIC5zZXEyc2VxIGltcG9ydCBTZXEyc2VxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC51dGlscy5kYXRhIGltcG9ydCBEYXRhTG9hZGVyCg==</text>
+        <text encoding="base64">ZnJvbSAuc2VxMnNlcSBpbXBvcnQgU2VxMnNlcQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhcmdzLmN1ZGE6CiAgICAgICAgICAgIHNlbGYuX21vZGVsLmN1ZGEoKQo=</text>
+        <text encoding="base64">ZnJvbSB0b3JjaC51dGlscy5kYXRhIGltcG9ydCBEYXRhTG9hZGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
