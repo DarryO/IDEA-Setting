@@ -295,8 +295,8 @@
         <mark key="." line="174" column="45" />
         <mark key="^" line="174" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/DecoderRNN.py" timestamp="1544711778765">
-        <mark key="'" line="107" column="8" />
+      <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/DecoderRNN.py" timestamp="1544721512057">
+        <mark key="'" line="119" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/README.MD" timestamp="1544668654854">
         <mark key="'" line="73" column="7" />
@@ -684,10 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="56" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/DecoderRNN.py" />
-      <jump line="31" column="77" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/DecoderRNN.py" />
-      <jump line="32" column="72" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/DecoderRNN.py" />
-      <jump line="37" column="85" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/DecoderRNN.py" />
       <jump line="38" column="59" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/DecoderRNN.py" />
       <jump line="41" column="59" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/DecoderRNN.py" />
       <jump line="146" column="8" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/DecoderRNN.py" />
@@ -784,6 +780,10 @@
       <jump line="51" column="24" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/EncoderRNN.py" />
       <jump line="54" column="39" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/EncoderRNN.py" />
       <jump line="60" column="76" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/EncoderRNN.py" />
+      <jump line="154" column="4" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/DecoderRNN.py" />
+      <jump line="9" column="23" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/DecoderRNN.py" />
+      <jump line="123" column="16" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/DecoderRNN.py" />
+      <jump line="119" column="28" filename="$USER_HOME$/workspace/ml/nlp/coqa-learn-to-ask/src/models/seq2seq/DecoderRNN.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -793,7 +793,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>lengths</text>
+        <text encoding="base64">XDxmdW5jdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygiU3RlcCA9PSAwOiB7fSIuZm9ybWF0KHN0ZXBfb3V0cHV0KSkK</text>
@@ -830,9 +830,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lengths</last-search>
+      <last-search encoding="base64">XDxmdW5jdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>lengths</last-pattern>
+      <last-pattern encoding="base64">XDxmdW5jdGlvblw+</last-pattern>
       <last-replace>_word2index</last-replace>
       <last-substitute>word2index</last-substitute>
       <last-dir>1</last-dir>
@@ -840,8 +840,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MAX</entry>
-        <entry>print</entry>
         <entry>target</entry>
         <entry encoding="base64">XDx0YXJnZXRfdmFyaWFibGVcPg==</entry>
         <entry encoding="base64">XDxpbnB1dHNcPg==</entry>
@@ -860,6 +858,8 @@
         <entry>gru</entry>
         <entry encoding="base64">XDxybm5fY2VsbFw+</entry>
         <entry>lengths</entry>
+        <entry>Attention</entry>
+        <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>335</entry>
